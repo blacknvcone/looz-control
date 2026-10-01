@@ -1,0 +1,12 @@
+# Arduino / ESP8266 build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor & OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
