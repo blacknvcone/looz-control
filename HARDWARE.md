@@ -71,7 +71,7 @@ kecil di belakang dashboard, dikunci dari depan dengan mur.
 | Harga | Sangat murah (≈Rp 3–10 rb) | ≈Rp 10–25 rb |
 
 **Keputusan: KY-040** ✅ — dipakai untuk prototipe sekaligus final.
-- Pinout: CLK → D5, DT → D6, SW → D7, GND → GND (VCC module tidak dipakai)
+- Pinout: CLK → D5, DT → D6, SW → D7, GND → GND, **VCC → 3V3 (wajib)**, lihat §3.1
 - Pull-up sudah ada di module, tidak perlu resistor tambahan
 - Bare EC11 panel-mount jadi opsi upgrade nanti kalau mau hasil lebih compact
 
@@ -123,13 +123,26 @@ CLK ─────────────────────────�
 DT  ────────────────────────────► D6 (GPIO12)   (pin B encoder)
 SW  ────────────────────────────► D7 (GPIO13)   (push switch)
 GND ────────────────────────────► GND
-VCC ── (TIDAK dipakai, biarkan terbuka)
+VCC ────────────────────────────► 3V3            (WAJIB — lihat kotak di bawah)
 ```
+
+> ### ⚠️ VCC (`+`) HARUS ke 3V3 — jangan dibiarkan terbuka
+>
+> Pull-up ketiga line di modul direferensikan ke pin `+`. Kalau `+` mengambang,
+> ketiga line tersambung lewat resistor ke **satu node mengambang**: saat kontak
+> encoder menutup (line → GND), node itu ikut tertarik turun → dua line lain
+> anjlok ke kisaran ~1–1,7 V, **tepat di ambang input ESP8266** → chattering,
+> arah salah, dan SW terbaca "ditekan" tanpa ditekan.
+>
+> Terbukti dari trace: 22/23 perubahan level SW selalu seiring state CLK/DT
+> (lihat DEBUG.md "Temuan 2"). Aturan lama di dokumen ini
+> ("VCC jangan dihubungkan") **salah dan sudah dibetulkan** — asumsinya
+> "resistor ke node mengambang tidak masalah" keliru.
+>
+> Pakai **3V3, bukan 5V** — GPIO ESP8266 bukan 5V-toleran.
 
 Catatan:
 - Pull-up sudah ada di module — tidak perlu resistor tambahan.
-- **VCC module JANGAN dihubungkan ke 3V3/5V** — kita baca CLK/DT/SW sebagai
-  input murni dengan pull-up internal ESP8266; resistor di module tidak masalah.
 - Kalau suatu saat ganti ke **bare EC11**: label pin A/B/C + SW1/SW2, wajib
   tambah pull-up 10 kΩ ke 3V3 untuk A, B, dan SW (lihat §1.5).
 
@@ -251,10 +264,12 @@ Tips:
   └────┬────┘    │                  [100nF]─┤ (ke harness)         │
        │         │  D2(GPIO4) ──[4.7k]──┬── node KEY2 ──► KEY2    │
  CLK,DT,SW,GND ──┤                  [100nF]─┤ (ke harness)         │
+  VCC ───────────┼─► 3V3  (WAJIB — node pull-up modul, lihat §3.1) │
                  │  GND ─────────────────────► GND harness         │
                  │  5V ◄── USB head unit / buck 12V→5V            │
                  └─────────────────────────────────────────────────┘
 
   (4.7k + 100nF per garis disisipkan inline di kabel dupont;
-   idle = GPIO mode INPUT / Hi-Z → node tegak di rail pull-up)
+   idle = GPIO mode INPUT / Hi-Z → node tegak di rail pull-up;
+   VCC modul ke 3V3 — dibiarkan terbuka = coupling node mengambang)
 ```

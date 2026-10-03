@@ -56,12 +56,42 @@ Pinout: D5=CLK, D6=DT, D7=SW, D1=KEY1, D2=KEY2, A0=loopback debug.
 ## Status
 
 - [x] Rencana & desain hardware (PLAN/HARDWARE/DEBUG/wiring.svg)
-- [ ] Firmware (step 1: scaffold `config.h` + sketch)
-- [ ] Verifikasi Tahap 1–2 di meja
+- [x] Toolchain: arduino-cli 1.5.1 + esp8266 core 3.1.2 (WSL2, via usbipd-win)
+- [x] Firmware scaffold `config.h` + `looz-control.ino` — compile & flash OK
+- [x] Console terverifikasi di board (banner, `adc`, `test`, `idle`, emit→Hi-Z)
+- [x] LED indikator gesture (D4): blink N = nomor slot, per emit
+- [x] Bug "putar kiri sesekali VOL+" — terbukti dari trace (DEBUG.md
+      "Temuan bug arah"), decoder diganti quadrature state machine
+      (CHANGE di CLK+DT, transisi 1-bit sah, ±4 = 1 detent)
+- [x] False-press & detent terminim — coupling node `+` modul (VCC dibiarkan
+      terbuka) terbukti via trace `SWC`; fix: pin `+` → 3V3 (HARDWARE.md §3.1)
+- [x] Verifikasi setelah jumper `+` → 3V3 — LULUS (`traces/2026-10-03-verifikasi3.log`):
+      blok arah bersih (kiri 20 CCW / kanan 13 CW / cepat 14 CCW), tanpa VOL+
+      nyasar, `SWC` hanya saat tekan sungguhan, 47 detent utuh, drop 0
+- [x] Verifikasi Tahap 1 (gesture fisik) — arah, klik, long-press, ramp cepat
+- [ ] Verifikasi Tahap 2 (bench: loopback A0, tuner `k1`/`k2`)
 - [ ] Kalibrasi final di head unit (Tahap 3)
 
-## Build & flash
+## Build & flash (WSL2 + usbipd-win)
 
-Menyusul — toolchain (arduino-cli + ESP8266 core) belum terpasang di mesin
-dev; command build/flash akan didokumentasikan di sini setelah scaffold
-firmware selesai dan ter-compile.
+Port COM tidak terlihat dari WSL2 — NodeMCU di-pass-through dulu
+(sekali `bind` di Admin PowerShell, `attach` tiap colok):
+
+    usbipd bind --busid <ID>
+    usbipd attach --wsl --busid <ID> --auto-attach
+
+    # sekali saja: izin serial
+    sudo usermod -aG dialout $USER
+
+    # build & flash (telah diverifikasi)
+    export PATH=$HOME/.local/bin:$PATH
+    arduino-cli compile --fqbn esp8266:esp8266:nodemcuv2 .
+    sg dialout -c "arduino-cli upload -p /dev/ttyUSB0 --fqbn esp8266:esp8266:nodemcuv2 ."
+
+Console serial (banner boot + kirim perintah, terverifikasi):
+
+    sg dialout -c "python3 tools/serial_probe.py"                 # banner saja
+    sg dialout -c "python3 tools/serial_probe.py map adc"         # kirim perintah
+
+Untuk sesi interaktif: `arduino-cli monitor -p /dev/ttyUSB0 -c baudrate=115200`,
+lalu tekan tombol **RST** di NodeMCU supaya banner ikut tercetak.

@@ -1,0 +1,2274 @@
+[   0.00] === capture mulai — PUTAR KNOB SEKARANG ===
+[   0.20] OK    log level=3
+[  26.74] [  45428] TRC   t=45428020us gap=45428020 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  26.74] [  45428] TRC   t=45428025us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.74] [  45430] TRC   t=45428388us gap=368 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.74] [  45436] TRC   t=45428396us gap=376 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.94] [  45443] TRC   t=45428761us gap=741 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.94] [  45449] TRC   t=45428769us gap=749 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.94] [  45456] TRC   t=45428777us gap=757 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.94] [  45462] TRC   t=45428781us gap=761 dir=-- CLK=0 DT=0 -> tolak debounce
+[  26.94] [  45488] TRC   t=45488663us gap=60643 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  26.94] [  45489] TRC   t=45488671us gap=8 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.09] [  45800] TRC   t=45800242us gap=311579 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.09] [  45800] TRC   t=45800246us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.09] [  45802] TRC   t=45800271us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.09] [  45808] TRC   t=45800279us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.09] [  45815] TRC   t=45800287us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.09] [  45821] TRC   t=45800422us gap=180 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45827] TRC   t=45800426us gap=184 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45834] TRC   t=45800477us gap=235 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45840] TRC   t=45800481us gap=239 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45847] TRC   t=45800489us gap=247 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45853] TRC   t=45800493us gap=251 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.13] [  45860] TRC   t=45837633us gap=37391 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.13] [  45866] TRC   t=45837637us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.17] [  45878] TRC   t=45878189us gap=40556 dir=CCW CLK=1 DT=0 -> diterima
+[  27.17] [  45879] TRC   t=45878285us gap=96 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  27.17] [  45885] TRC   t=45878293us gap=104 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  27.17] [  45892] TRC   t=45878301us gap=112 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.17] [  45898] TRC   t=45878323us gap=134 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.17] [  45905] TRC   t=45878337us gap=148 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.17] [  45911] TRC   t=45878345us gap=156 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.21] [  45917] TRC   t=45878353us gap=164 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.21] [  45924] TRC   t=45878597us gap=408 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.21] [  45930] TRC   t=45878605us gap=416 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.21] [  45937] TRC   t=45878612us gap=423 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.21] [  45943] TRC   t=45878620us gap=431 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.21] [  45950] TRC   t=45878677us gap=488 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.21] [  45956] TRC   t=45878691us gap=502 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.25] [  45963] TRC   t=45878699us gap=510 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.25] [  45969] TRC   t=45878707us gap=518 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.25] [  45976] TRC   t=45878737us gap=548 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.25] [  45982] TRC   t=45878745us gap=556 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.25] [  45988] TRC   t=45878755us gap=566 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.25] [  45995] TRC   t=45878784us gap=595 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.25] [  46001] TRC   t=45878794us gap=605 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.29] [  46008] TRC   t=45878861us gap=672 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.29] [  46014] TRC   t=45878869us gap=680 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.29] [  46021] TRC   t=45878877us gap=688 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.29] [  46027] TRC   t=45878969us gap=780 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.29] [  46034] TRC   t=45878977us gap=788 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.29] [  46040] TRC   t=45878985us gap=796 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.29] [  46047] TRC   t=45879004us gap=815 dir=CCW CLK=0 DT=0 -> diterima
+[  27.33] [  46053] TRC   t=45879064us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.33] [  46059] TRC   t=45879072us gap=68 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.33] [  46065] TRC   t=45879080us gap=76 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  27.33] [  46072] TRC   t=45879093us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.33] [  46078] TRC   t=45879100us gap=96 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.33] [  46085] TRC   t=45966827us gap=87823 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.33] [  46091] TRC   t=45966831us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.37] [  46098] TRC   t=45997045us gap=30218 dir=CCW CLK=1 DT=0 -> diterima
+[  27.37] [  46104] TRC   t=45997050us gap=5 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.37] [  46110] TRC   t=45997058us gap=13 dir=-- CLK=1 DT=0 -> tolak debounce
+[  27.37] [  46116] TRC   t=45997070us gap=25 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.37] [  46123] TRC   t=45997078us gap=33 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.37] [  46129] TRC   t=45997086us gap=41 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.37] [  46136] TRC   t=45997117us gap=72 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.41] [  46142] TRC   t=45997121us gap=76 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.41] [  46149] TRC   t=45997128us gap=83 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.41] [  46155] TRC   t=45997132us gap=87 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  27.41] [  46161] TRC   t=46048061us gap=51016 dir=CW  CLK=1 DT=1 -> diterima
+[  27.41] [  46168] TRC   t=46048066us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.41] [  46174] TRC   t=46068354us gap=20293 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.41] [  46181] TRC   t=46068358us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.46] [  46187] TRC   t=46068366us gap=12 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  27.46] [  46193] TRC   t=46068378us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.46] [  46200] TRC   t=46068386us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.46] [  46206] TRC   t=46124140us gap=55786 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.46] [  46213] TRC   t=46124144us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.46] [  46219] TRC   t=46200628us gap=76488 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.46] [  46226] TRC   t=46200632us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.52] [  46232] TRC   t=46200660us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.52] [  46239] TRC   t=46200664us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.52] [  46245] TRC   t=46200719us gap=91 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.52] [  46261] TRC   t=46261191us gap=60563 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.52] [  46261] TRC   t=46261196us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.52] [  46302] TRC   t=46302974us gap=41783 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.56] [  46303] TRC   t=46303104us gap=130 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.56] [  46305] TRC   t=46303371us gap=397 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.56] [  46311] TRC   t=46303375us gap=401 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.56] [  46318] TRC   t=46303452us gap=478 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.56] [  46324] TRC   t=46303467us gap=493 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.56] [  46330] TRC   t=46303483us gap=509 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.56] [  46337] TRC   t=46303495us gap=521 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.60] [  46343] TRC   t=46303499us gap=525 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.60] [  46350] TRC   t=46303553us gap=579 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  27.60] [  46356] TRC   t=46303561us gap=587 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.60] [  46363] TRC   t=46303569us gap=595 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.60] [  46369] TRC   t=46303623us gap=649 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  27.60] [  46376] TRC   t=46303631us gap=657 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.60] [  46382] TRC   t=46303662us gap=688 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.68] [  46388] TRC   t=46303670us gap=696 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.68] [  46395] TRC   t=46303759us gap=785 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  27.68] [  46401] TRC   t=46303772us gap=798 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.68] [  46408] TRC   t=46303784us gap=810 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.68] [  46415] TRC   t=46303792us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.68] [  46421] TRC   t=46397412us gap=93628 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.68] [  46428] TRC   t=46397416us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.72] [  46484] TRC   t=46484580us gap=87168 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.72] [  46485] TRC   t=46484584us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.72] [  46486] TRC   t=46484636us gap=56 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.72] [  46493] TRC   t=46484640us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.72] [  46499] TRC   t=46484648us gap=68 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.72] [  46505] TRC   t=46484657us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.72] [  46512] TRC   t=46484665us gap=85 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  27.76] [  46518] TRC   t=46484673us gap=93 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.76] [  46524] TRC   t=46484681us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.76] [  46531] TRC   t=46484685us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.76] [  46537] TRC   t=46484862us gap=282 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.76] [  46544] TRC   t=46484866us gap=286 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.76] [  46550] TRC   t=46484892us gap=312 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.76] [  46556] TRC   t=46484896us gap=316 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.80] [  46563] TRC   t=46484930us gap=350 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.80] [  46569] TRC   t=46484934us gap=354 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.80] [  46576] TRC   t=46484943us gap=363 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.80] [  46582] TRC   t=46484947us gap=367 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.80] [  46589] TRC   t=46485013us gap=433 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.80] [  46595] TRC   t=46485020us gap=440 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.80] [  46601] TRC   t=46485028us gap=448 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46608] TRC   t=46485032us gap=452 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46614] TRC   t=46485040us gap=460 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46621] TRC   t=46485044us gap=464 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46627] TRC   t=46485168us gap=588 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46634] TRC   t=46485176us gap=596 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46640] TRC   t=46485180us gap=600 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.84] [  46646] TRC   t=46485191us gap=611 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46653] TRC   t=46485195us gap=615 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46659] TRC   t=46485203us gap=623 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46666] TRC   t=46485281us gap=701 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46672] TRC   t=46485285us gap=705 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46678] TRC   t=46485326us gap=746 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46685] TRC   t=46485333us gap=753 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.88] [  46691] TRC   t=46485337us gap=757 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46698] TRC   t=46485408us gap=828 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  27.92] [  46704] TRC   t=46485412us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46711] TRC   t=46485458us gap=50 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46717] TRC   t=46485466us gap=58 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46723] TRC   t=46485483us gap=75 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46730] TRC   t=46485487us gap=79 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.92] [  46736] TRC   t=46529864us gap=44456 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.96] [  46743] TRC   t=46529868us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  27.96] [  46749] TRC   t=46562687us gap=32823 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  27.96] [  46756] TRC   t=46563092us gap=405 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.96] [  46763] TRC   t=46563096us gap=409 dir=-- CLK=0 DT=0 -> tolak debounce
+[  27.96] [  46769] TRC   t=46563185us gap=498 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  27.96] [  46776] TRC   t=46563189us gap=502 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  28.00] [  46782] TRC   t=46563203us gap=516 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.00] [  46788] TRC   t=46619030us gap=56343 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  28.00] [  46795] TRC   t=46619034us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.00] [  46802] TRC   t=46671487us gap=52457 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  28.00] [  46809] TRC   t=46671491us gap=4 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  28.00] [  46815] TRC   t=46671499us gap=12 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.00] [  46821] TRC   t=46671503us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46828] TRC   t=46671510us gap=23 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.04] [  46834] TRC   t=46671514us gap=27 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46840] TRC   t=46671522us gap=35 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46847] TRC   t=46671526us gap=39 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46853] TRC   t=46671534us gap=47 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46859] TRC   t=46671538us gap=51 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.04] [  46866] TRC   t=46671546us gap=59 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.08] [  46872] TRC   t=46671550us gap=63 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.08] [  46878] TRC   t=46671557us gap=70 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.08] [  46885] TRC   t=46671561us gap=74 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.09] [  46891] TRC   t=46671569us gap=82 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.09] [  46897] TRC   t=46671577us gap=90 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.09] [  46904] TRC   t=46671581us gap=94 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.09] [  46910] TRC   t=46671589us gap=102 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.13] [  46917] TRC   t=46671593us gap=106 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.13] [  46923] TRC   t=46671605us gap=118 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.13] [  46929] TRC   t=46671613us gap=126 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.13] [  46936] TRC   t=46671622us gap=135 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.13] [  46942] TRC   t=46719255us gap=47768 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  28.13] [  46949] TRC   t=46719259us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.13] [  46955] TRC   t=46801032us gap=81777 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  28.17] [  46962] TRC   t=46801037us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  46969] TRC   t=46801068us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  46975] TRC   t=46801072us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  46981] TRC   t=46801092us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  46988] TRC   t=46801096us gap=64 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  46994] TRC   t=46801104us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.17] [  47000] TRC   t=46801108us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47007] TRC   t=46801145us gap=113 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47013] TRC   t=46801153us gap=121 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47019] TRC   t=46801160us gap=128 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.21] [  47026] TRC   t=46801164us gap=132 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47032] TRC   t=46801172us gap=140 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47039] TRC   t=46801176us gap=144 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.21] [  47045] TRC   t=46801187us gap=155 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47052] TRC   t=46801191us gap=159 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47058] TRC   t=46801214us gap=182 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47064] TRC   t=46801218us gap=186 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47071] TRC   t=46801225us gap=193 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47077] TRC   t=46801229us gap=197 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47084] TRC   t=46801244us gap=212 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.25] [  47090] TRC   t=46801264us gap=232 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47097] TRC   t=46801273us gap=241 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47103] TRC   t=46801277us gap=245 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47109] TRC   t=46801285us gap=253 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47116] TRC   t=46801304us gap=272 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47122] TRC   t=46801312us gap=280 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47129] TRC   t=46801320us gap=288 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.29] [  47135] TRC   t=46801328us gap=296 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47141] TRC   t=46801336us gap=304 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47148] TRC   t=46801356us gap=324 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.33] [  47154] TRC   t=46801364us gap=332 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47161] TRC   t=46801372us gap=340 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47167] TRC   t=46801400us gap=368 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47174] TRC   t=46801429us gap=397 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.33] [  47180] TRC   t=46801436us gap=404 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47186] TRC   t=46801474us gap=442 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47193] TRC   t=46801579us gap=547 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47199] TRC   t=46801599us gap=567 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47206] TRC   t=46801613us gap=581 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47212] TRC   t=46801621us gap=589 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.37] [  47219] TRC   t=46801629us gap=597 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.37] [  47225] TRC   t=46801637us gap=605 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47231] TRC   t=46801641us gap=609 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47238] TRC   t=46801648us gap=616 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47244] TRC   t=46801652us gap=620 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47251] TRC   t=46801660us gap=628 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47257] TRC   t=46801741us gap=709 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.41] [  47264] TRC   t=46801749us gap=717 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.45] [  47270] TRC   t=46801793us gap=761 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.45] [  47276] TRC   t=46801843us gap=811 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  28.45] [  47283] TRC   t=46801860us gap=17 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.45] [  47290] TRC   t=46801868us gap=25 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.45] [  47296] TRC   t=46801876us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.45] [  47302] TRC   t=46801883us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.45] [  47309] TRC   t=46801887us gap=44 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47315] TRC   t=46801898us gap=55 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.49] [  47321] TRC   t=46801906us gap=63 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47328] TRC   t=46801941us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47334] TRC   t=46802073us gap=230 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47341] TRC   t=46802085us gap=242 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47347] TRC   t=46802102us gap=259 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.49] [  47353] TRC   t=46802110us gap=267 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.53] [  47360] TRC   t=46802176us gap=333 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.53] [  47366] TRC   t=46802183us gap=340 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.53] [  47373] TRC   t=46802213us gap=370 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.53] [  47379] TRC   t=46802217us gap=374 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.53] [  47385] TRC   t=46802224us gap=381 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.53] [  47392] TRC   t=46802229us gap=386 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.53] [  47398] TRC   t=46802237us gap=394 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47405] TRC   t=46802244us gap=401 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47411] TRC   t=46802252us gap=409 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  28.57] [  47418] TRC   t=46802260us gap=417 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47424] TRC   t=46802357us gap=514 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47431] TRC   t=46802373us gap=530 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47437] TRC   t=46802393us gap=550 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.57] [  47444] TRC   t=46802397us gap=554 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.61] [  47450] TRC   t=46802457us gap=614 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.61] [  47456] TRC   t=46802461us gap=618 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.61] [  47463] TRC   t=46802643us gap=800 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  28.61] [  47470] TRC   t=46802647us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.61] [  47476] TRC   t=46802667us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.62] [  47482] TRC   t=46802671us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.62] [  47488] TRC   t=46802679us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.82] [  47495] TRC   t=46850217us gap=47574 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  28.82] [  47502] TRC   t=46850221us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  28.82] [  47508] TRC   t=46850229us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.82] [  47514] TRC   t=46850233us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.82] [  47521] TRC   t=46850241us gap=24 dir=-- CLK=1 DT=1 -> tolak debounce
+[  28.82] [  47527] TRC   t=46850245us gap=28 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.22] [  48155] TRC   t=48155638us gap=1305421 dir=CW  CLK=1 DT=0 -> diterima
+[  29.36] [  48156] TRC   t=48155650us gap=12 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.36] [  48157] TRC   t=48155658us gap=20 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.36] [  48163] TRC   t=48155666us gap=28 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.36] [  48170] TRC   t=48155675us gap=37 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.36] [  48176] TRC   t=48155683us gap=45 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.36] [  48186] TRC   t=48186646us gap=31008 dir=CW  CLK=1 DT=1 -> diterima
+[  29.36] [  48189] TRC   t=48186651us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.44] [  48322] TRC   t=48322466us gap=135820 dir=CCW CLK=1 DT=0 -> diterima
+[  29.44] [  48322] TRC   t=48322476us gap=10 dir=-- CLK=1 DT=0 -> tolak debounce
+[  29.44] [  48324] TRC   t=48322480us gap=14 dir=-- CLK=1 DT=0 -> tolak debounce
+[  29.44] [  48330] TRC   t=48322490us gap=24 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.44] [  48336] TRC   t=48322498us gap=32 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.44] [  48348] TRC   t=48348766us gap=26300 dir=CW  CLK=1 DT=1 -> diterima
+[  29.44] [  48349] TRC   t=48348771us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.57] [  48406] TRC   t=48406752us gap=57986 dir=CCW CLK=1 DT=0 -> diterima
+[  29.57] [  48407] TRC   t=48406761us gap=9 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.57] [  48408] TRC   t=48406769us gap=17 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.57] [  48414] TRC   t=48406787us gap=35 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.57] [  48444] TRC   t=48444417us gap=37665 dir=CW  CLK=1 DT=1 -> diterima
+[  29.57] [  48444] TRC   t=48444422us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.57] [  48539] TRC   t=48539282us gap=94865 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  29.61] [  48539] TRC   t=48539286us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.61] [  48541] TRC   t=48539311us gap=29 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  29.61] [  48547] TRC   t=48539319us gap=37 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  29.61] [  48554] TRC   t=48539371us gap=89 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  29.61] [  48560] TRC   t=48539379us gap=97 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  29.61] [  48567] TRC   t=48539387us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.61] [  48578] TRC   t=48578149us gap=38867 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  29.73] [  48580] TRC   t=48578157us gap=8 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.73] [  48586] TRC   t=48578161us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.73] [  48692] TRC   t=48692035us gap=113886 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  29.73] [  48692] TRC   t=48692039us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.73] [  48694] TRC   t=48692050us gap=15 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.73] [  48700] TRC   t=48692054us gap=19 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.73] [  48706] TRC   t=48692066us gap=31 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.79] [  48713] TRC   t=48692070us gap=35 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.79] [  48719] TRC   t=48692088us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.79] [  48725] TRC   t=48692095us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  29.79] [  48732] TRC   t=48726001us gap=33966 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  29.79] [  48739] TRC   t=48726005us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  29.79] [  48777] TRC   t=48777599us gap=51598 dir=CCW CLK=1 DT=0 -> diterima
+[  29.79] [  48778] TRC   t=48777608us gap=9 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48779] TRC   t=48777612us gap=13 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48785] TRC   t=48777620us gap=21 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48792] TRC   t=48777624us gap=25 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48798] TRC   t=48777635us gap=36 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48804] TRC   t=48777639us gap=40 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48811] TRC   t=48777647us gap=48 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.83] [  48817] TRC   t=48777651us gap=52 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.87] [  48824] TRC   t=48777659us gap=60 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.87] [  48830] TRC   t=48777663us gap=64 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  29.87] [  48837] TRC   t=48777671us gap=72 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.87] [  48843] TRC   t=48777675us gap=76 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.87] [  48849] TRC   t=48777688us gap=89 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  29.87] [  48856] TRC   t=48777692us gap=93 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.87] [  48862] TRC   t=48777700us gap=101 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48869] TRC   t=48777704us gap=105 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48875] TRC   t=48777712us gap=113 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48882] TRC   t=48777716us gap=117 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48888] TRC   t=48777731us gap=132 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  29.91] [  48895] TRC   t=48777735us gap=136 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48901] TRC   t=48777743us gap=144 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.91] [  48908] TRC   t=48777747us gap=148 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48914] TRC   t=48777755us gap=156 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48921] TRC   t=48777763us gap=164 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48927] TRC   t=48777767us gap=168 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48934] TRC   t=48777775us gap=176 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48940] TRC   t=48777779us gap=180 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.95] [  48947] TRC   t=48777794us gap=195 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48953] TRC   t=48777798us gap=199 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48960] TRC   t=48777806us gap=207 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48966] TRC   t=48777810us gap=211 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48973] TRC   t=48777818us gap=219 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48979] TRC   t=48777822us gap=223 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48986] TRC   t=48777893us gap=294 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  29.99] [  48992] TRC   t=48777897us gap=298 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.04] [  48999] TRC   t=48777994us gap=395 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.04] [  49005] TRC   t=48778002us gap=403 dir=-- CLK=1 DT=0 -> tolak debounce
+[  30.04] [  49012] TRC   t=48778006us gap=407 dir=-- CLK=1 DT=0 -> tolak debounce
+[  30.04] [  49018] TRC   t=48778014us gap=415 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.04] [  49025] TRC   t=48778018us gap=419 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.04] [  49031] TRC   t=48778025us gap=426 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.04] [  49038] TRC   t=48778029us gap=430 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49044] TRC   t=48778146us gap=547 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49051] TRC   t=48778154us gap=555 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49057] TRC   t=48778158us gap=559 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49064] TRC   t=48778170us gap=571 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49070] TRC   t=48778178us gap=579 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49077] TRC   t=48778182us gap=583 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.08] [  49083] TRC   t=48778190us gap=591 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49090] TRC   t=48778211us gap=612 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49096] TRC   t=48778219us gap=620 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49103] TRC   t=48778298us gap=699 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49109] TRC   t=48778302us gap=703 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49116] TRC   t=48778414us gap=815 dir=CCW CLK=0 DT=0 -> diterima
+[  30.12] [  49122] TRC   t=48778423us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.12] [  49128] TRC   t=48778427us gap=13 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49134] TRC   t=48778435us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49141] TRC   t=48778443us gap=29 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.16] [  49147] TRC   t=48778450us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49153] TRC   t=48778454us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49160] TRC   t=48778462us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49166] TRC   t=48778466us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.16] [  49172] TRC   t=48778474us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49179] TRC   t=48778478us gap=64 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49185] TRC   t=48778499us gap=85 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49191] TRC   t=48778503us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49198] TRC   t=48778515us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49204] TRC   t=48778519us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49211] TRC   t=48778541us gap=127 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.20] [  49217] TRC   t=48778545us gap=131 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49223] TRC   t=48778605us gap=191 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49230] TRC   t=48778619us gap=205 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49236] TRC   t=48778627us gap=213 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49243] TRC   t=48778631us gap=217 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49249] TRC   t=48778639us gap=225 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49256] TRC   t=48778642us gap=228 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.24] [  49262] TRC   t=48778650us gap=236 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.28] [  49268] TRC   t=48778654us gap=240 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.28] [  49275] TRC   t=48778662us gap=248 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.28] [  49281] TRC   t=48778666us gap=252 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.28] [  49288] TRC   t=48778674us gap=260 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.28] [  49294] TRC   t=48778678us gap=264 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.28] [  49301] TRC   t=48778685us gap=271 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.28] [  49307] TRC   t=48778689us gap=275 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.32] [  49314] TRC   t=48778697us gap=283 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.32] [  49320] TRC   t=48778705us gap=291 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.32] [  49327] TRC   t=48778742us gap=328 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.32] [  49333] TRC   t=48778769us gap=355 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.32] [  49340] TRC   t=48778787us gap=373 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.32] [  49346] TRC   t=48778796us gap=382 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.36] [  49352] TRC   t=48778815us gap=401 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.36] [  49359] TRC   t=48778823us gap=409 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.36] [  49365] TRC   t=48778839us gap=425 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.36] [  49372] TRC   t=48812903us gap=34489 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  30.36] [  49379] TRC   t=48812907us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.36] [  49385] TRC   t=48878787us gap=65884 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  30.36] [  49392] TRC   t=48878791us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49398] TRC   t=48878799us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49404] TRC   t=48878803us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49411] TRC   t=48878811us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49417] TRC   t=48878815us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49423] TRC   t=48878822us gap=35 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49430] TRC   t=48878830us gap=43 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.40] [  49436] TRC   t=48878834us gap=47 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49442] TRC   t=48878842us gap=55 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49449] TRC   t=48878846us gap=59 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49455] TRC   t=48878854us gap=67 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49461] TRC   t=48878858us gap=71 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49468] TRC   t=48878865us gap=78 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49474] TRC   t=48878869us gap=82 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.44] [  49480] TRC   t=48878877us gap=90 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49487] TRC   t=48878881us gap=94 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  30.48] [  49493] TRC   t=48878889us gap=102 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49499] TRC   t=48878893us gap=106 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49506] TRC   t=48878900us gap=113 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49512] TRC   t=48878904us gap=117 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49519] TRC   t=48878912us gap=125 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.48] [  49525] TRC   t=48878916us gap=129 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49532] TRC   t=48878924us gap=137 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49538] TRC   t=48878928us gap=141 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49544] TRC   t=48878955us gap=168 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49551] TRC   t=48878959us gap=172 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49557] TRC   t=48879029us gap=242 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49564] TRC   t=48879036us gap=249 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.52] [  49570] TRC   t=48879040us gap=253 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49577] TRC   t=48879051us gap=264 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49583] TRC   t=48879055us gap=268 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49589] TRC   t=48879130us gap=343 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49596] TRC   t=48879138us gap=351 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49602] TRC   t=48879145us gap=358 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.56] [  49609] TRC   t=48879150us gap=363 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.56] [  49615] TRC   t=48879157us gap=370 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.60] [  49622] TRC   t=48879167us gap=380 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.60] [  49628] TRC   t=48879174us gap=387 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.60] [  49634] TRC   t=48879182us gap=395 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.60] [  49641] TRC   t=48879190us gap=403 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.60] [  49647] TRC   t=48879292us gap=505 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.60] [  49654] TRC   t=48879299us gap=512 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.60] [  49660] TRC   t=48879303us gap=516 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.65] [  49667] TRC   t=48936080us gap=57293 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  30.65] [  49674] TRC   t=48936084us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.65] [  49680] TRC   t=48936092us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.65] [  49686] TRC   t=48936096us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.65] [  49693] TRC   t=48989715us gap=53635 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  30.65] [  49699] TRC   t=48989719us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.65] [  49706] TRC   t=48989738us gap=23 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49712] TRC   t=48989812us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49718] TRC   t=48989816us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49725] TRC   t=48989823us gap=108 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49731] TRC   t=48989852us gap=137 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.69] [  49738] TRC   t=48989856us gap=141 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49744] TRC   t=48989864us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.69] [  49751] TRC   t=48989902us gap=187 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.73] [  49757] TRC   t=48989910us gap=195 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.73] [  49763] TRC   t=48989914us gap=199 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.73] [  49770] TRC   t=48989922us gap=207 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.73] [  49776] TRC   t=48989926us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.73] [  49783] TRC   t=49028838us gap=39123 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  30.73] [  49790] TRC   t=49028842us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.77] [  49796] TRC   t=49274105us gap=245267 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  30.77] [  49803] TRC   t=49274109us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.77] [  49809] TRC   t=49274117us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.77] [  49815] TRC   t=49274125us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.77] [  49822] TRC   t=49274129us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.77] [  49828] TRC   t=49274137us gap=32 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.77] [  49834] TRC   t=49274141us gap=36 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.77] [  49841] TRC   t=49274149us gap=44 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.81] [  49847] TRC   t=49274153us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.81] [  49853] TRC   t=49274160us gap=55 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.81] [  49860] TRC   t=49274164us gap=59 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.81] [  49866] TRC   t=49274175us gap=70 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.81] [  49872] TRC   t=49274179us gap=74 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  30.81] [  49879] TRC   t=49274187us gap=82 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.81] [  49885] TRC   t=49274191us gap=86 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.85] [  49892] TRC   t=49274265us gap=160 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.85] [  49898] TRC   t=49274269us gap=164 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.85] [  49904] TRC   t=49274276us gap=171 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  30.85] [  49911] TRC   t=49274280us gap=175 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.85] [  49917] TRC   t=49274288us gap=183 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.85] [  49924] TRC   t=49274292us gap=187 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.89] [  49930] TRC   t=49274309us gap=204 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.89] [  49937] TRC   t=49274313us gap=208 dir=-- CLK=1 DT=1 -> tolak debounce
+[  30.89] [  49943] TRC   t=49274337us gap=232 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.89] [  49949] TRC   t=49274341us gap=236 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.89] [  49956] TRC   t=49274379us gap=274 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.89] [  49962] TRC   t=49274414us gap=309 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.89] [  49969] TRC   t=49274422us gap=317 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  49975] TRC   t=49274432us gap=327 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  49981] TRC   t=49274440us gap=335 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  49988] TRC   t=49274444us gap=339 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  49994] TRC   t=49274484us gap=379 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  50001] TRC   t=49274501us gap=396 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  50007] TRC   t=49274512us gap=407 dir=-- CLK=0 DT=0 -> tolak debounce
+[  30.93] [  50014] TRC   t=49322876us gap=48771 dir=CCW CLK=0 DT=1 -> diterima
+[  30.97] [  50020] TRC   t=49322885us gap=9 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  30.97] [  50026] TRC   t=49322893us gap=17 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  30.97] [  50032] TRC   t=49557469us gap=234593 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  30.97] [  50040] TRC   t=49559952us gap=2483 dir=CW  CLK=1 DT=1 -> diterima
+[  30.97] [  50046] TRC   t=49559961us gap=9 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  30.97] [  50052] TRC   t=49559968us gap=16 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  30.97] [  50058] TRC   t=49560011us gap=59 dir=-- CLK=1 DT=1 -> tolak debounce
+[  31.01] [  50065] TRC   t=49560036us gap=84 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  31.01] [  50071] TRC   t=49560077us gap=125 dir=-- CLK=1 DT=1 -> tolak debounce
+[  31.01] [  50078] TRC   t=49560085us gap=133 dir=-- CLK=1 DT=1 -> tolak debounce
+[  31.01] [  50084] TRC   t=49560092us gap=140 dir=-- CLK=1 DT=1 -> tolak debounce
+[  31.01] [  50090] TRC   t=49560457us gap=505 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  31.01] [  50097] TRC   t=49560580us gap=628 dir=-- CLK=1 DT=1 -> tolak debounce
+[  31.01] [  50103] TRC   t=49560588us gap=636 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  31.05] [  50110] TRC   t=49560670us gap=718 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  31.05] [  50116] TRC   t=49561400us gap=1448 dir=CCW CLK=1 DT=0 -> diterima
+[  31.05] [  50122] TRC   t=49561695us gap=295 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.05] [  50129] TRC   t=49561703us gap=303 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.05] [  50135] TRC   t=49561711us gap=311 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.05] [  50142] TRC   t=49562134us gap=734 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.05] [  50148] TRC   t=49562151us gap=751 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.09] [  50155] TRC   t=49562159us gap=759 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.09] [  50161] TRC   t=49562166us gap=766 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.09] [  50167] TRC   t=49562213us gap=813 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  31.09] [  50174] TRC   t=49562221us gap=8 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.09] [  50180] TRC   t=49562323us gap=110 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.09] [  50187] TRC   t=49562331us gap=118 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.09] [  50193] TRC   t=49562339us gap=126 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.13] [  50200] TRC   t=49568937us gap=6724 dir=CCW CLK=0 DT=0 -> diterima
+[  31.13] [  50206] TRC   t=49569079us gap=142 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.13] [  50212] TRC   t=49569092us gap=155 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.13] [  50219] TRC   t=49569793us gap=856 dir=CW  CLK=1 DT=0 -> diterima
+[  31.13] [  50225] TRC   t=49569802us gap=9 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  31.13] [  50231] TRC   t=49569809us gap=16 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.13] [  50237] TRC   t=49570895us gap=1102 dir=CCW CLK=0 DT=0 -> diterima
+[  31.17] [  50244] TRC   t=49570970us gap=75 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.17] [  50250] TRC   t=49570978us gap=83 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.17] [  50256] TRC   t=49571028us gap=133 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.17] [  50263] TRC   t=49571039us gap=144 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.17] [  50269] TRC   t=49571073us gap=178 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.18] [  50276] TRC   t=49571090us gap=195 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.18] [  50282] TRC   t=49571098us gap=203 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.22] [  50289] TRC   t=49571133us gap=238 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.22] [  50295] TRC   t=49571153us gap=258 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.22] [  50302] TRC   t=49571161us gap=266 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.22] [  50308] TRC   t=49571203us gap=308 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.22] [  50315] TRC   t=49571228us gap=333 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.22] [  50321] TRC   t=49571236us gap=341 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  31.22] [  50327] TRC   t=49571247us gap=352 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.26] [  50334] TRC   t=49571675us gap=780 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.26] [  50340] TRC   t=49571682us gap=787 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.26] [  50347] TRC   t=49571960us gap=1065 dir=CW  CLK=1 DT=0 -> diterima
+[  31.26] [  50353] TRC   t=49572714us gap=754 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  31.26] [  50359] TRC   t=49572872us gap=912 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  31.26] [  50366] TRC   t=49573186us gap=314 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.26] [  50372] TRC   t=49573193us gap=321 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.30] [  50379] TRC   t=49573201us gap=329 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.30] [  50385] TRC   t=49573209us gap=337 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  31.30] [  50392] TRC   t=49577655us gap=2087 dir=CW  CLK=1 DT=0 -> diterima
+[  31.30] [  50398] TRC   t=49583767us gap=577 dir=-- CLK=0 DT=0 -> tolak debounce
+[  31.30] [  50404] TRC   t=49590782us gap=1415 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  31.30] [  50411] TRC   t=49729281us gap=138499 dir=CW  CLK=1 DT=0 -> diterima
+[  31.30] [  50417] TRC   t=49729289us gap=8 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.34] [  50424] TRC   t=49729297us gap=16 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  31.34] [  50430] TRC   t=49729305us gap=24 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  31.34] [  50436] TRC   t=49729315us gap=34 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.34] [  50443] TRC   t=49729319us gap=38 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.34] [  50449] TRC   t=49729802us gap=521 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.34] [  50456] TRC   t=49729816us gap=535 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.34] [  50462] TRC   t=49729824us gap=543 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.38] [  50468] TRC   t=49729843us gap=562 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.38] [  50475] TRC   t=49729851us gap=570 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.38] [  50481] TRC   t=49729859us gap=578 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.38] [  50488] TRC   t=49729875us gap=594 dir=-- CLK=1 DT=0 -> tolak debounce
+[  31.38] [  50494] TRC   t=49729890us gap=609 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  31.38] [  50501] TRC   289 edge hilang (buffer penuh)
+[  31.38] [  50505] ENC   dir=CCW detent=-1
+[  31.58] [  50514] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.58] [  50608] REL   KEY1 release → Hi-Z
+[  36.32] [  55876] TRC   t=55876413us gap=6147132 dir=CCW CLK=0 DT=0 -> diterima
+[  36.32] [  55876] TRC   t=55876417us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.32] [  55878] TRC   t=55876432us gap=19 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  36.32] [  55884] TRC   t=55876436us gap=23 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.32] [  55890] TRC   t=55876448us gap=35 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.32] [  55897] TRC   t=55876452us gap=39 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.32] [  55903] TRC   t=55876527us gap=114 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.37] [  55909] TRC   t=55876534us gap=121 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.37] [  55916] TRC   t=55876543us gap=130 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.37] [  55922] TRC   t=55876664us gap=251 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.37] [  55929] TRC   t=55876668us gap=255 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.37] [  55935] TRC   t=55876676us gap=263 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.37] [  55941] TRC   t=55876680us gap=267 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.41] [  55948] TRC   t=55876821us gap=408 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.41] [  55954] TRC   t=55907668us gap=31255 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.41] [  55961] TRC   t=55907672us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.41] [  55967] TRC   t=55935885us gap=28217 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  36.41] [  55974] TRC   t=55935890us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.41] [  55981] TRC   t=55935898us gap=13 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.41] [  55987] TRC   t=55935925us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  55993] TRC   t=55935937us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56000] TRC   t=55935945us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56006] TRC   t=55935953us gap=68 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56012] TRC   t=55935961us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56019] TRC   t=55935974us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56025] TRC   t=55935978us gap=93 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.45] [  56031] TRC   t=55935990us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.49] [  56038] TRC   t=55949202us gap=13317 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.49] [  56045] TRC   t=55949206us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.49] [  56051] TRC   t=55952130us gap=2928 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  36.49] [  56058] TRC   t=55952139us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.49] [  56064] TRC   t=55952147us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.49] [  56070] TRC   t=55952151us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.49] [  56077] TRC   t=55952158us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.53] [  56083] TRC   t=55952162us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.53] [  56089] TRC   t=55952191us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.53] [  56096] TRC   t=55952195us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.53] [  56102] TRC   t=55952208us gap=78 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.53] [  56108] TRC   t=55970628us gap=18498 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.53] [  56115] TRC   t=55970637us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.53] [  56122] TRC   t=56023217us gap=52589 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.57] [  56129] TRC   t=56023321us gap=104 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.57] [  56135] TRC   t=56023336us gap=119 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.57] [  56141] TRC   t=56023344us gap=127 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.57] [  56148] TRC   t=56023405us gap=188 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.57] [  56154] TRC   t=56023418us gap=201 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.57] [  56161] TRC   t=56023426us gap=209 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.57] [  56167] TRC   t=56023439us gap=222 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.61] [  56174] TRC   t=56023446us gap=229 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.61] [  56180] TRC   t=56023454us gap=237 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.61] [  56187] TRC   t=56023466us gap=249 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.61] [  56193] TRC   t=56023511us gap=294 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.61] [  56200] TRC   t=56059864us gap=36647 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.61] [  56207] TRC   t=56059869us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.61] [  56213] TRC   t=56071257us gap=11393 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.65] [  56220] TRC   t=56071481us gap=224 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.65] [  56226] TRC   t=56071603us gap=346 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.65] [  56233] TRC   t=56071611us gap=354 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.65] [  56239] TRC   t=56071658us gap=401 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.65] [  56246] TRC   t=56071666us gap=409 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.65] [  56252] TRC   t=56071679us gap=422 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.69] [  56259] TRC   t=56071702us gap=445 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.69] [  56265] TRC   t=56071746us gap=489 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.69] [  56272] TRC   t=56071763us gap=506 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.69] [  56278] TRC   t=56071781us gap=524 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.69] [  56285] TRC   t=56071861us gap=604 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.69] [  56291] TRC   t=56071881us gap=624 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.69] [  56297] TRC   t=56071896us gap=639 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.73] [  56304] TRC   t=56071930us gap=673 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  36.73] [  56310] TRC   t=56071945us gap=688 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.73] [  56317] TRC   t=56071953us gap=696 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.73] [  56323] TRC   t=56071961us gap=704 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.73] [  56330] TRC   t=56135625us gap=64368 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.73] [  56337] TRC   t=56135629us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.73] [  56343] TRC   t=56212640us gap=77015 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  36.77] [  56350] TRC   t=56212645us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56356] TRC   t=56212697us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56362] TRC   t=56212705us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56369] TRC   t=56212717us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56375] TRC   t=56212737us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56381] TRC   t=56212795us gap=155 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.77] [  56388] TRC   t=56212803us gap=163 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.81] [  56394] TRC   t=56212811us gap=171 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.81] [  56401] TRC   t=56212824us gap=184 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  36.81] [  56407] TRC   t=56212836us gap=196 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.81] [  56414] TRC   t=56213074us gap=434 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.81] [  56420] TRC   t=56213087us gap=447 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  36.81] [  56426] TRC   t=56213095us gap=455 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.81] [  56433] TRC   t=56269430us gap=56790 dir=CCW CLK=0 DT=1 -> diterima
+[  36.85] [  56439] TRC   t=56269438us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  36.85] [  56445] TRC   t=56269442us gap=12 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  36.85] [  56452] TRC   t=56318416us gap=48986 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  36.85] [  56459] TRC   t=56318547us gap=131 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.85] [  56465] TRC   t=56318594us gap=178 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.85] [  56472] TRC   t=56318602us gap=186 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.85] [  56478] TRC   t=56318615us gap=199 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56484] TRC   t=56318627us gap=211 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56491] TRC   t=56318635us gap=219 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  36.89] [  56497] TRC   t=56318643us gap=227 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56504] TRC   t=56318651us gap=235 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56510] TRC   t=56318676us gap=260 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56517] TRC   t=56318684us gap=268 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.89] [  56523] TRC   t=56318813us gap=397 dir=-- CLK=1 DT=0 -> tolak debounce
+[  36.94] [  56529] TRC   t=56318826us gap=410 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  36.94] [  56536] TRC   t=56318834us gap=418 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  36.94] [  56542] TRC   t=56318874us gap=458 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  36.94] [  56549] TRC   t=56319032us gap=616 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  36.94] [  56555] TRC   t=56319597us gap=1181 dir=CCW CLK=0 DT=0 -> diterima
+[  36.94] [  56562] TRC   t=56319611us gap=14 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.94] [  56568] TRC   t=56383552us gap=63955 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  36.98] [  56575] TRC   t=56383560us gap=8 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.98] [  56581] TRC   t=56450259us gap=66707 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  36.98] [  56588] TRC   t=56450263us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.98] [  56594] TRC   t=56450318us gap=59 dir=-- CLK=0 DT=0 -> tolak debounce
+[  36.98] [  56601] TRC   t=56450330us gap=71 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.98] [  56607] TRC   t=56450334us gap=75 dir=-- CLK=1 DT=1 -> tolak debounce
+[  36.98] [  56613] TRC   t=56450347us gap=88 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.02] [  56620] TRC   t=56450351us gap=92 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  37.02] [  56626] TRC   t=56450358us gap=99 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.02] [  56632] TRC   t=56450362us gap=103 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.02] [  56639] TRC   t=56450437us gap=178 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.02] [  56645] TRC   t=56450446us gap=187 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.02] [  56652] TRC   t=56450484us gap=225 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.02] [  56658] TRC   t=56450496us gap=237 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.06] [  56664] TRC   t=56510579us gap=60320 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  37.06] [  56671] TRC   t=56510583us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.06] [  56678] TRC   t=56584246us gap=73667 dir=CCW CLK=1 DT=0 -> diterima
+[  37.06] [  56684] TRC   t=56584266us gap=20 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.06] [  56690] TRC   t=56584341us gap=95 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.06] [  56697] TRC   t=56584593us gap=347 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.10] [  56703] TRC   t=56584605us gap=359 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56709] TRC   t=56584613us gap=367 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56716] TRC   t=56584758us gap=512 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56722] TRC   t=56585012us gap=766 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56729] TRC   t=56585020us gap=774 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56736] TRC   t=56585028us gap=782 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.10] [  56742] TRC   t=56585041us gap=795 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.14] [  56749] TRC   t=56585170us gap=924 dir=CCW CLK=0 DT=0 -> diterima
+[  37.14] [  56754] TRC   t=56585179us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.14] [  56761] TRC   t=56585192us gap=22 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.14] [  56767] TRC   t=56642858us gap=57688 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  37.14] [  56774] TRC   t=56642871us gap=13 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.14] [  56780] TRC   t=56642875us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.14] [  56787] TRC   t=56712368us gap=69510 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  37.18] [  56794] TRC   t=56712373us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.18] [  56800] TRC   t=56712385us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.18] [  56806] TRC   t=56712389us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.18] [  56813] TRC   t=56712398us gap=30 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.18] [  56819] TRC   t=56712406us gap=38 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  37.18] [  56825] TRC   t=56712410us gap=42 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.18] [  56832] TRC   t=56712422us gap=54 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.22] [  56838] TRC   t=56712426us gap=58 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.22] [  56844] TRC   t=56712439us gap=71 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.22] [  56851] TRC   t=56712443us gap=75 dir=-- CLK=0 DT=0 -> tolak debounce
+[  37.22] [  56857] TRC   t=56747965us gap=35597 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  37.22] [  56864] TRC   t=56747969us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.22] [  56870] TRC   t=56803624us gap=55659 dir=CCW CLK=1 DT=0 -> diterima
+[  37.22] [  56876] TRC   t=56803633us gap=9 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.26] [  56883] TRC   t=56803640us gap=16 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.26] [  56889] TRC   t=56803672us gap=48 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.26] [  56895] TRC   t=56803680us gap=56 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.26] [  56902] TRC   t=56803707us gap=83 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.26] [  56908] TRC   t=56803719us gap=95 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.26] [  56914] TRC   t=56803727us gap=103 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.26] [  56921] TRC   t=56803735us gap=111 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.31] [  56927] TRC   t=56847952us gap=44328 dir=CCW CLK=0 DT=0 -> diterima
+[  37.31] [  56933] TRC   t=56847961us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.31] [  56940] TRC   t=56847965us gap=13 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.31] [  56946] TRC   t=56939241us gap=91289 dir=CW  CLK=1 DT=0 -> diterima
+[  37.31] [  56952] TRC   t=56939250us gap=9 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.31] [  56959] ENC   dir=CCW detent=-2
+[  37.31] [  56967] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  37.31] [  56983] TRC   t=56983572us gap=44331 dir=CW  CLK=1 DT=1 -> diterima
+[  37.51] [  56984] TRC   t=56983576us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  37.51] [  57062] REL   KEY1 release → Hi-Z
+[  37.66] [  57335] TRC   t=57335295us gap=351723 dir=CCW CLK=1 DT=0 -> diterima
+[  37.66] [  57335] TRC   t=57335309us gap=14 dir=-- CLK=1 DT=0 -> tolak debounce
+[  37.66] [  57336] TRC   t=57335313us gap=18 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.66] [  57343] TRC   t=57335321us gap=26 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.66] [  57349] TRC   t=57335329us gap=34 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.66] [  57356] TRC   t=57335342us gap=47 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.80] [  57362] TRC   t=57335357us gap=62 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.80] [  57399] BTN   press
+[  37.80] [  57490] TRC   t=57490356us gap=155061 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  37.80] [  57491] TRC   t=57490372us gap=16 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  37.80] [  57492] TRC   t=57490380us gap=24 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.80] [  57499] TRC   t=57490384us gap=28 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.80] [  57505] TRC   t=57490404us gap=48 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  37.80] [  57512] TRC   t=57490411us gap=55 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  38.00] [  57518] TRC   t=57490420us gap=64 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  38.00] [  57524] TRC   t=57490428us gap=72 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  38.00] [  57531] TRC   t=57490432us gap=76 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  38.00] [  57537] BTN   release clicks=1
+[  38.20] [  57937] BTN   resolve clicks=1 (1 press) -> PLAY
+[  38.20] [  57942] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[  38.40] [  58037] REL   KEY1 release → Hi-Z
+[  39.35] [  59175] TRC   t=59174925us gap=1684569 dir=CCW CLK=0 DT=0 -> diterima
+[  39.35] [  59175] TRC   t=59174930us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.35] [  59176] TRC   t=59174950us gap=25 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.35] [  59183] TRC   t=59174963us gap=38 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.35] [  59189] TRC   t=59174967us gap=42 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.35] [  59195] TRC   t=59174974us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.35] [  59202] TRC   t=59174978us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59208] TRC   t=59174986us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59214] TRC   t=59174990us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59221] TRC   t=59175014us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59227] TRC   t=59175018us gap=93 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59233] TRC   t=59175026us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59240] TRC   t=59175030us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.39] [  59246] TRC   t=59175037us gap=112 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59253] TRC   t=59175041us gap=116 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59259] TRC   t=59175054us gap=129 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59265] TRC   t=59175062us gap=137 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59272] TRC   t=59175070us gap=145 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59278] TRC   t=59175074us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.43] [  59285] TRC   t=59175085us gap=160 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59291] TRC   t=59175093us gap=168 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59297] TRC   t=59175114us gap=189 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59304] TRC   t=59175118us gap=193 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59310] TRC   t=59175142us gap=217 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59317] TRC   t=59175151us gap=226 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59323] TRC   t=59175181us gap=256 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.47] [  59330] TRC   t=59175204us gap=279 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59336] TRC   t=59175212us gap=287 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59342] TRC   t=59175220us gap=295 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59349] TRC   t=59175224us gap=299 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59355] TRC   t=59175234us gap=309 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59362] TRC   t=59175238us gap=313 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59368] TRC   t=59175251us gap=326 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.51] [  59374] TRC   t=59175259us gap=334 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.55] [  59381] TRC   t=59175267us gap=342 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.55] [  59387] TRC   t=59175271us gap=346 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.55] [  59394] TRC   t=59175294us gap=369 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.55] [  59400] TRC   t=59175311us gap=386 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.55] [  59407] TRC   t=59175315us gap=390 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.55] [  59413] TRC   t=59175324us gap=399 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.55] [  59420] TRC   t=59175331us gap=406 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.59] [  59426] TRC   t=59175339us gap=414 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.59] [  59432] TRC   t=59175352us gap=427 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.59] [  59439] TRC   t=59175361us gap=436 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.59] [  59445] TRC   t=59175368us gap=443 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.59] [  59452] TRC   t=59175372us gap=447 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.59] [  59458] TRC   t=59175380us gap=455 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.59] [  59465] TRC   t=59175384us gap=459 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59471] TRC   t=59175392us gap=467 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59478] TRC   t=59175412us gap=487 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59484] TRC   t=59175420us gap=495 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59490] TRC   t=59175429us gap=504 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59497] TRC   t=59175433us gap=508 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59503] TRC   t=59175441us gap=516 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.63] [  59510] TRC   t=59175459us gap=534 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.67] [  59516] TRC   t=59175466us gap=541 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.67] [  59522] TRC   t=59175474us gap=549 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.67] [  59529] TRC   t=59175478us gap=553 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.67] [  59535] TRC   t=59175486us gap=561 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.67] [  59542] TRC   t=59175499us gap=574 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.68] [  59548] TRC   t=59175511us gap=586 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.68] [  59555] TRC   t=59175519us gap=594 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.71] [  59561] TRC   t=59175527us gap=602 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59568] TRC   t=59175535us gap=610 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59574] TRC   t=59175548us gap=623 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59581] TRC   t=59175560us gap=635 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59587] TRC   t=59175568us gap=643 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59593] TRC   t=59175576us gap=651 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.72] [  59600] TRC   t=59175584us gap=659 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.76] [  59606] TRC   t=59175592us gap=667 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.76] [  59613] TRC   t=59175616us gap=691 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.76] [  59619] TRC   t=59214065us gap=39140 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  39.76] [  59626] TRC   t=59214069us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.76] [  59632] TRC   t=59313951us gap=99886 dir=CCW CLK=1 DT=0 -> diterima
+[  39.76] [  59638] TRC   t=59314032us gap=81 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  39.76] [  59645] TRC   t=59314040us gap=89 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  39.80] [  59651] TRC   t=59314056us gap=105 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  39.80] [  59658] TRC   t=59314079us gap=128 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  39.80] [  59664] TRC   t=59314087us gap=136 dir=-- CLK=1 DT=0 -> tolak debounce
+[  39.80] [  59671] TRC   t=59314095us gap=144 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  39.80] [  59677] TRC   t=59351557us gap=37606 dir=CW  CLK=1 DT=1 -> diterima
+[  39.80] [  59683] TRC   t=59351562us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.80] [  59690] TRC   t=59387573us gap=36016 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  39.84] [  59697] TRC   t=59387577us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.84] [  59703] TRC   t=59387589us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.84] [  59709] TRC   t=59387598us gap=25 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.84] [  59715] TRC   t=59387606us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.84] [  59722] TRC   t=59387610us gap=37 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.84] [  59728] TRC   t=59387617us gap=44 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.84] [  59734] TRC   t=59387621us gap=48 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.88] [  59741] TRC   t=59387634us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.88] [  59747] TRC   t=59387638us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.88] [  59753] TRC   t=59387650us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.88] [  59760] TRC   t=59387654us gap=81 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.88] [  59766] TRC   t=59387662us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.88] [  59772] TRC   t=59387666us gap=93 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.88] [  59779] TRC   t=59387674us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.92] [  59785] TRC   t=59387678us gap=105 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.92] [  59792] TRC   t=59387695us gap=122 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.92] [  59798] TRC   t=59387699us gap=126 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.92] [  59805] TRC   t=59387707us gap=134 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.92] [  59811] TRC   t=59387711us gap=138 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.92] [  59818] TRC   t=59387718us gap=145 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.96] [  59824] TRC   t=59387722us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.96] [  59830] TRC   t=59387736us gap=163 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.96] [  59837] TRC   t=59387745us gap=172 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.96] [  59843] TRC   t=59387752us gap=179 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  39.96] [  59850] TRC   t=59387756us gap=183 dir=-- CLK=0 DT=0 -> tolak debounce
+[  39.96] [  59856] TRC   t=59387764us gap=191 dir=-- CLK=1 DT=1 -> tolak debounce
+[  39.96] [  59863] TRC   t=59387768us gap=195 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59869] TRC   t=59387776us gap=203 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59875] TRC   t=59387784us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59882] TRC   t=59387797us gap=224 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.00] [  59888] TRC   t=59387801us gap=228 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59895] TRC   t=59387809us gap=236 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59901] TRC   t=59387817us gap=244 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.00] [  59908] TRC   t=59387824us gap=251 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59914] TRC   t=59387833us gap=260 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59920] TRC   t=59387846us gap=273 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59927] TRC   t=59387850us gap=277 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.04] [  59933] TRC   t=59387857us gap=284 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59940] TRC   t=59387866us gap=293 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59946] TRC   t=59387874us gap=301 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.04] [  59953] TRC   t=59387887us gap=314 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.08] [  59959] TRC   t=59387900us gap=327 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.08] [  59965] TRC   t=59387921us gap=348 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.08] [  59972] TRC   t=59387934us gap=361 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.08] [  59978] TRC   t=59387946us gap=373 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.08] [  59985] TRC   t=59418074us gap=30501 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.08] [  59992] TRC   t=59418078us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.08] [  59998] TRC   t=59467008us gap=48934 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  40.12] [  60005] TRC   t=59467012us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.12] [  60011] TRC   t=59467023us gap=15 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.12] [  60017] TRC   t=59467027us gap=19 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.12] [  60024] TRC   t=59467040us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.12] [  60030] TRC   t=59467049us gap=41 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.12] [  60036] TRC   t=59467060us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.12] [  60043] TRC   t=59467072us gap=64 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60049] TRC   t=59467080us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60055] TRC   t=59467088us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60062] TRC   t=59467101us gap=93 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60068] TRC   t=59467105us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60074] TRC   t=59467113us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60081] TRC   t=59467121us gap=113 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.16] [  60087] TRC   t=59467136us gap=128 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60094] TRC   t=59467149us gap=141 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60100] TRC   t=59467157us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60107] TRC   t=59467165us gap=157 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60113] TRC   t=59467190us gap=182 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60119] TRC   t=59467203us gap=195 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.20] [  60126] TRC   t=59497656us gap=30648 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.20] [  60133] TRC   t=59497660us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.24] [  60139] TRC   t=59539015us gap=41359 dir=CCW CLK=1 DT=0 -> diterima
+[  40.24] [  60145] TRC   t=59539025us gap=10 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.24] [  60152] TRC   t=59539032us gap=17 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.24] [  60158] TRC   t=59539036us gap=21 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.24] [  60164] TRC   t=59539138us gap=123 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.24] [  60171] TRC   t=59539146us gap=131 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.24] [  60177] TRC   t=59539212us gap=197 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60184] TRC   t=59539225us gap=210 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60190] TRC   t=59539229us gap=214 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60197] TRC   t=59539237us gap=222 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60203] TRC   t=59539264us gap=249 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60210] TRC   t=59539277us gap=262 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  40.29] [  60216] TRC   t=59539840us gap=825 dir=CCW CLK=0 DT=0 -> diterima
+[  40.29] [  60222] TRC   t=59539874us gap=34 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.33] [  60229] TRC   t=59585769us gap=45929 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.33] [  60236] TRC   t=59585778us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.33] [  60242] TRC   t=59644598us gap=58829 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  40.33] [  60249] TRC   t=59644602us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.33] [  60255] TRC   t=59644610us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.33] [  60262] TRC   t=59644614us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60268] TRC   t=59644621us gap=23 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60274] TRC   t=59644625us gap=27 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60281] TRC   t=59644648us gap=50 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60287] TRC   t=59644658us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60293] TRC   t=59644662us gap=64 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60300] TRC   t=59644670us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.37] [  60306] TRC   t=59644674us gap=76 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.41] [  60312] TRC   t=59644686us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60319] TRC   t=59644695us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60325] TRC   t=59644703us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60331] TRC   t=59644707us gap=109 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60338] TRC   t=59644714us gap=116 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60344] TRC   t=59644718us gap=120 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.41] [  60351] TRC   t=59644767us gap=169 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60357] TRC   t=59644896us gap=298 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60363] TRC   t=59644907us gap=309 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.45] [  60370] TRC   t=59644915us gap=317 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60376] TRC   t=59644922us gap=324 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60383] TRC   t=59644931us gap=333 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60389] TRC   t=59644943us gap=345 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.45] [  60396] TRC   t=59644947us gap=349 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60402] TRC   t=59644955us gap=357 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60408] TRC   t=59644959us gap=361 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60415] TRC   t=59644967us gap=369 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60421] TRC   t=59644971us gap=373 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60428] TRC   t=59644983us gap=385 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  40.49] [  60434] TRC   t=59644996us gap=398 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.49] [  60441] TRC   t=59645000us gap=402 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.53] [  60447] TRC   t=59645009us gap=411 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.53] [  60453] TRC   t=59645017us gap=419 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.53] [  60460] TRC   t=59645305us gap=707 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.53] [  60466] TRC   t=59686363us gap=40964 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.53] [  60473] TRC   t=59686368us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.53] [  60480] TRC   t=59714915us gap=28552 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  40.53] [  60486] TRC   t=59714924us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.57] [  60493] TRC   t=59739617us gap=24702 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.57] [  60500] TRC   t=59739621us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.57] [  60506] TRC   t=59745830us gap=6213 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  40.57] [  60513] TRC   t=59745834us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.57] [  60519] TRC   t=59745842us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.57] [  60525] TRC   t=59745846us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.57] [  60532] TRC   t=59745854us gap=24 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.61] [  60538] TRC   t=59745858us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.61] [  60544] TRC   t=59745870us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.61] [  60551] TRC   t=59745879us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.61] [  60557] TRC   t=59745887us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  40.61] [  60563] TRC   t=59767421us gap=21591 dir=CCW CLK=0 DT=1 -> diterima
+[  40.61] [  60569] TRC   t=59767426us gap=5 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  40.61] [  60576] TRC   t=59767434us gap=13 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  40.65] [  60582] TRC   t=59767438us gap=17 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  40.65] [  60589] TRC   t=59778474us gap=9341 dir=CW  CLK=1 DT=1 -> diterima
+[  40.65] [  60595] TRC   t=59781119us gap=2645 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.65] [  60602] TRC   t=59788187us gap=7068 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.65] [  60608] TRC   t=59795472us gap=6217 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.65] [  60615] TRC   t=59803302us gap=6369 dir=CW  CLK=1 DT=1 -> diterima
+[  40.65] [  60621] TRC   t=59809785us gap=6483 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.69] [  60628] TRC   t=59817566us gap=6538 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.69] [  60635] TRC   t=59818374us gap=808 dir=CW  CLK=0 DT=1 -> diterima
+[  40.69] [  60641] TRC   t=59826466us gap=8092 dir=CCW CLK=1 DT=1 -> diterima
+[  40.69] [  60647] TRC   t=59835023us gap=8557 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  40.69] [  60654] TRC   t=59858677us gap=23654 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  40.69] [  60661] TRC   t=59858682us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  40.69] [  60667] TRC   111 edge hilang (buffer penuh)
+[  40.89] [  60671] ENC   dir=CCW detent=-3
+[  40.89] [  60680] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  40.89] [  60774] REL   KEY1 release → Hi-Z
+[  41.36] [  61369] TRC   t=61369529us gap=1510852 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.36] [  61370] TRC   t=61369538us gap=9 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  41.36] [  61372] TRC   t=61369550us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.36] [  61378] TRC   t=61369558us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.36] [  61386] TRC   t=61386618us gap=17089 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.36] [  61391] TRC   t=61386623us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.40] [  61397] TRC   t=61388904us gap=2286 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.40] [  61404] TRC   t=61388909us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.40] [  61410] TRC   t=61388916us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.40] [  61417] TRC   t=61388994us gap=90 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.40] [  61423] TRC   t=61389002us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.40] [  61429] TRC   t=61401394us gap=12490 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.40] [  61436] TRC   t=61401398us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.44] [  61443] TRC   t=61413633us gap=12239 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.44] [  61450] TRC   t=61413637us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.44] [  61456] TRC   t=61413645us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.44] [  61462] TRC   t=61413657us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.44] [  61468] TRC   t=61413661us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.44] [  61475] TRC   t=61413674us gap=41 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.44] [  61481] TRC   t=61413682us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61487] TRC   t=61413686us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61494] TRC   t=61413693us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61500] TRC   t=61413706us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61506] TRC   t=61413710us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61513] TRC   t=61413722us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.48] [  61519] TRC   t=61424625us gap=10992 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.48] [  61526] TRC   t=61424629us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.52] [  61532] TRC   t=61428484us gap=3859 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.52] [  61539] TRC   t=61428488us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.52] [  61545] TRC   t=61428501us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.52] [  61552] TRC   t=61428514us gap=30 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.52] [  61558] TRC   t=61428518us gap=34 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.52] [  61564] TRC   t=61428531us gap=47 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  41.52] [  61571] TRC   t=61428535us gap=51 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.56] [  61577] TRC   t=61428543us gap=59 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.56] [  61584] TRC   t=61428547us gap=63 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.56] [  61590] TRC   t=61428555us gap=71 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.56] [  61596] TRC   t=61428564us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.56] [  61603] TRC   t=61443571us gap=15087 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.56] [  61609] TRC   t=61443575us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.56] [  61616] TRC   t=61476361us gap=32790 dir=CW  CLK=0 DT=1 -> diterima
+[  41.60] [  61622] TRC   t=61476425us gap=64 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  41.60] [  61628] TRC   t=61476438us gap=77 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  41.60] [  61635] TRC   t=61476459us gap=98 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  41.60] [  61641] TRC   t=61476471us gap=110 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  41.60] [  61648] TRC   t=61503679us gap=27318 dir=CCW CLK=1 DT=1 -> diterima
+[  41.60] [  61654] TRC   t=61503684us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.60] [  61660] TRC   t=61524004us gap=20325 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.65] [  61667] TRC   t=61524008us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61673] TRC   t=61524026us gap=22 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61680] TRC   t=61524038us gap=34 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61686] TRC   t=61524086us gap=82 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61692] TRC   t=61524094us gap=90 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61699] TRC   t=61524102us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.65] [  61705] TRC   t=61524143us gap=139 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61711] TRC   t=61524151us gap=147 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61718] TRC   t=61524159us gap=155 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61724] TRC   t=61524163us gap=159 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61731] TRC   t=61524258us gap=254 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61737] TRC   t=61524293us gap=289 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61743] TRC   t=61524352us gap=348 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.69] [  61750] TRC   t=61524360us gap=356 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.73] [  61756] TRC   t=61541435us gap=17431 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.73] [  61763] TRC   t=61541439us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.73] [  61769] TRC   t=61558615us gap=17180 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.73] [  61776] TRC   t=61558619us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.73] [  61783] TRC   t=61558627us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.73] [  61789] TRC   t=61558636us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.73] [  61795] TRC   t=61558643us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61802] TRC   t=61558652us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61808] TRC   t=61558803us gap=188 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61814] TRC   t=61558807us gap=192 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61821] TRC   t=61558815us gap=200 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61827] TRC   t=61558819us gap=204 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.77] [  61834] TRC   t=61558826us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.81] [  61840] TRC   t=61570008us gap=11393 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.81] [  61847] TRC   t=61570017us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.81] [  61853] TRC   t=61570025us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.81] [  61860] TRC   t=61570029us gap=21 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.81] [  61866] TRC   t=61578281us gap=8273 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.81] [  61873] TRC   t=61578286us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.81] [  61879] TRC   t=61578298us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61885] TRC   t=61578307us gap=26 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61892] TRC   t=61578315us gap=34 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61898] TRC   t=61578353us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61904] TRC   t=61578361us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61911] TRC   t=61578365us gap=84 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.85] [  61917] TRC   t=61591806us gap=13525 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.85] [  61924] TRC   t=61591811us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.89] [  61930] TRC   t=61609839us gap=18033 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.89] [  61937] TRC   t=61609843us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.89] [  61943] TRC   t=61623668us gap=13829 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.89] [  61950] TRC   t=61623672us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.89] [  61957] TRC   t=61649674us gap=26006 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.89] [  61963] TRC   t=61649678us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.89] [  61970] TRC   t=61649690us gap=16 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  41.93] [  61976] TRC   t=61649694us gap=20 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  41.93] [  61983] TRC   t=61649729us gap=55 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.93] [  61989] TRC   t=61649741us gap=67 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  41.93] [  61995] TRC   t=61649749us gap=75 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.93] [  62002] TRC   t=61649757us gap=83 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.93] [  62008] TRC   t=61676299us gap=26625 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  41.93] [  62015] TRC   t=61676308us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.97] [  62021] TRC   t=61676316us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  41.97] [  62028] TRC   t=61742590us gap=66291 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  41.97] [  62034] TRC   t=61742594us gap=4 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  41.97] [  62041] TRC   t=61742607us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.97] [  62047] TRC   t=61742616us gap=26 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.97] [  62053] TRC   t=61742623us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  41.97] [  62060] TRC   t=61742627us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62066] TRC   t=61742635us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62072] TRC   t=61742639us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62079] TRC   t=61742651us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62085] TRC   t=61742655us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62091] TRC   t=61742669us gap=79 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62098] TRC   t=61742673us gap=83 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.01] [  62104] TRC   t=61742684us gap=94 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.05] [  62110] TRC   t=61742688us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.05] [  62117] TRC   t=61779383us gap=36793 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.05] [  62124] TRC   t=61779387us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.05] [  62130] TRC   t=61832447us gap=53064 dir=CW  CLK=0 DT=1 -> diterima
+[  42.05] [  62136] TRC   t=61832461us gap=14 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.05] [  62142] TRC   t=61832475us gap=28 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.05] [  62149] TRC   t=61832522us gap=75 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.09] [  62155] TRC   t=61832530us gap=83 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.09] [  62162] TRC   t=61832543us gap=96 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.09] [  62168] TRC   t=61832555us gap=108 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.09] [  62174] TRC   t=61832563us gap=116 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.09] [  62181] TRC   t=61832572us gap=125 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.09] [  62187] TRC   t=61832599us gap=152 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.09] [  62194] TRC   t=61832613us gap=166 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.13] [  62200] TRC   t=61832621us gap=174 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.13] [  62207] TRC   t=61833793us gap=1346 dir=CW  CLK=0 DT=0 -> diterima
+[  42.13] [  62213] TRC   t=61833890us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.13] [  62219] TRC   t=61833902us gap=109 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.13] [  62226] TRC   t=61833910us gap=117 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.13] [  62232] TRC   t=61833930us gap=137 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.13] [  62239] TRC   t=61833942us gap=149 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62245] TRC   t=61833955us gap=162 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62252] TRC   t=61833976us gap=183 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62258] TRC   t=61833988us gap=195 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62265] TRC   t=61834039us gap=246 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62271] TRC   t=61834051us gap=258 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62278] TRC   t=61834059us gap=266 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.17] [  62284] TRC   t=61834068us gap=275 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.21] [  62291] TRC   t=61834125us gap=332 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.21] [  62297] TRC   t=61834139us gap=346 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.21] [  62304] TRC   t=61835951us gap=2158 dir=CCW CLK=0 DT=1 -> diterima
+[  42.21] [  62310] TRC   t=61835968us gap=17 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.21] [  62316] TRC   t=61835981us gap=30 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.21] [  62322] TRC   t=61835988us gap=37 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.26] [  62329] TRC   t=61836001us gap=50 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.26] [  62335] TRC   t=61836015us gap=64 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.26] [  62342] TRC   t=61836023us gap=72 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.26] [  62348] TRC   t=61836035us gap=84 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.26] [  62354] TRC   t=61836048us gap=97 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.26] [  62361] TRC   t=61836132us gap=181 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.26] [  62367] TRC   t=61836145us gap=194 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.30] [  62374] TRC   t=61836260us gap=309 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.30] [  62380] TRC   t=61836335us gap=384 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.30] [  62387] TRC   t=61836348us gap=397 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.30] [  62393] TRC   t=61856699us gap=20748 dir=CW  CLK=0 DT=0 -> diterima
+[  42.30] [  62399] TRC   t=61856709us gap=10 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.30] [  62406] TRC   t=61856738us gap=39 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.30] [  62412] TRC   t=61856772us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.34] [  62418] TRC   t=61856788us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.34] [  62425] TRC   t=61872176us gap=15477 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.34] [  62432] TRC   t=61872180us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.34] [  62438] TRC   t=61957829us gap=85653 dir=CW  CLK=0 DT=1 -> diterima
+[  42.34] [  62444] TRC   t=61957842us gap=13 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.34] [  62450] TRC   t=61957853us gap=24 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.34] [  62457] TRC   t=61957861us gap=32 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.38] [  62463] TRC   t=61957868us gap=39 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.38] [  62469] TRC   t=61957881us gap=52 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.38] [  62476] TRC   t=61957893us gap=64 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.38] [  62482] TRC   t=61957928us gap=99 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.38] [  62489] TRC   t=61987621us gap=29792 dir=CCW CLK=1 DT=1 -> diterima
+[  42.38] [  62495] TRC   t=61987625us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.38] [  62501] TRC   t=62016807us gap=29186 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.42] [  62508] TRC   t=62016811us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.42] [  62514] TRC   t=62016823us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.42] [  62521] TRC   t=62016831us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.42] [  62527] TRC   t=62016839us gap=32 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.42] [  62533] TRC   t=62016843us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.42] [  62540] TRC   t=62016855us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.42] [  62546] TRC   t=62016859us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62552] TRC   t=62016883us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62559] TRC   t=62016887us gap=80 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.46] [  62565] TRC   t=62016895us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62571] TRC   t=62016904us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62578] TRC   t=62016911us gap=104 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62584] TRC   t=62016920us gap=113 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.46] [  62590] TRC   t=62016929us gap=122 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62597] TRC   t=62016933us gap=126 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62603] TRC   t=62016941us gap=134 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62610] TRC   t=62016945us gap=138 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62616] TRC   t=62016957us gap=150 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62623] TRC   t=62016961us gap=154 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62629] TRC   t=62016973us gap=166 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.50] [  62635] TRC   t=62016977us gap=170 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62642] TRC   t=62016985us gap=178 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62648] TRC   t=62016989us gap=182 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62655] TRC   t=62017002us gap=195 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62661] TRC   t=62017009us gap=202 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62667] TRC   t=62017018us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62674] TRC   t=62017026us gap=219 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.54] [  62680] TRC   t=62017044us gap=237 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62687] TRC   t=62017071us gap=264 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62693] TRC   t=62017075us gap=268 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62700] TRC   t=62017083us gap=276 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62706] TRC   t=62017091us gap=284 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62712] TRC   t=62017103us gap=296 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.58] [  62719] TRC   t=62017111us gap=304 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.58] [  62725] TRC   t=62017123us gap=316 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.62] [  62732] TRC   t=62017964us gap=1157 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.62] [  62739] TRC   t=62018003us gap=39 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.62] [  62745] TRC   t=62018016us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.62] [  62751] TRC   t=62049411us gap=31447 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.62] [  62758] TRC   t=62049415us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.62] [  62765] TRC   t=62184590us gap=135179 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.62] [  62772] TRC   t=62184598us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.66] [  62778] TRC   t=62184666us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.66] [  62784] TRC   t=62184674us gap=84 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.66] [  62790] TRC   t=62225168us gap=40578 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.66] [  62797] TRC   t=62225173us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.66] [  62804] TRC   t=62268255us gap=43087 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.66] [  62811] TRC   t=62268259us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.66] [  62817] TRC   t=62268267us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62823] TRC   t=62268276us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62830] TRC   t=62268283us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62836] TRC   t=62268292us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62842] TRC   t=62268300us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62849] TRC   t=62268304us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62855] TRC   t=62268325us gap=70 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.70] [  62861] TRC   t=62268443us gap=188 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62868] TRC   t=62268454us gap=199 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.74] [  62874] TRC   t=62268462us gap=207 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62881] TRC   t=62268474us gap=219 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62887] TRC   t=62268492us gap=237 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62893] TRC   t=62268505us gap=250 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62900] TRC   t=62268513us gap=258 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.74] [  62906] TRC   t=62268526us gap=271 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.78] [  62913] TRC   t=62268538us gap=283 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.78] [  62919] TRC   t=62268546us gap=291 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.78] [  62925] TRC   t=62268553us gap=298 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  42.78] [  62932] TRC   t=62268561us gap=306 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.78] [  62938] TRC   t=62268581us gap=326 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.78] [  62945] TRC   t=62268625us gap=370 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.83] [  62951] TRC   t=62268637us gap=382 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.83] [  62958] TRC   t=62268645us gap=390 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.83] [  62964] TRC   t=62296657us gap=28402 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.83] [  62971] TRC   t=62296661us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.83] [  62977] TRC   t=62332642us gap=35985 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.83] [  62984] TRC   t=62332646us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.83] [  62990] TRC   t=62352936us gap=20294 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.87] [  62997] TRC   t=62352945us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.87] [  63004] TRC   t=62360622us gap=7686 dir=CW  CLK=0 DT=1 -> diterima
+[  42.87] [  63010] TRC   t=62360627us gap=5 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.87] [  63016] TRC   t=62360634us gap=12 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.87] [  63022] TRC   t=62360694us gap=72 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.87] [  63029] TRC   t=62360706us gap=84 dir=-- CLK=0 DT=1 -> tolak debounce
+[  42.87] [  63035] TRC   t=62360714us gap=92 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.91] [  63041] TRC   t=62361093us gap=471 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.91] [  63048] TRC   t=62361114us gap=492 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.91] [  63054] TRC   t=62361126us gap=504 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  42.91] [  63061] TRC   t=62416903us gap=56281 dir=CCW CLK=1 DT=1 -> diterima
+[  42.91] [  63067] TRC   t=62416916us gap=13 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.91] [  63073] TRC   t=62416920us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.91] [  63080] TRC   t=62520415us gap=103512 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  42.98] [  63087] TRC   t=62520419us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.98] [  63093] TRC   t=62520445us gap=30 dir=-- CLK=0 DT=0 -> tolak debounce
+[  42.98] [  63099] TRC   t=62565055us gap=44640 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.98] [  63106] TRC   t=62565064us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  42.98] [  63160] TRC   t=63159935us gap=594880 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  42.98] [  63160] TRC   t=63159944us gap=9 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  42.98] [  63162] TRC   t=63159952us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.02] [  63168] TRC   t=63159959us gap=24 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.02] [  63175] TRC   t=63159972us gap=37 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.02] [  63181] TRC   t=63159985us gap=50 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.02] [  63188] TRC   t=63160004us gap=69 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.02] [  63194] TRC   t=63160035us gap=100 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.02] [  63200] TRC   t=63160072us gap=137 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.02] [  63207] TRC   t=63160098us gap=163 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.06] [  63213] TRC   t=63160106us gap=171 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.06] [  63220] TRC   t=63160118us gap=183 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  43.06] [  63226] TRC   t=63160131us gap=196 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.06] [  63233] TRC   t=63179779us gap=19844 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.06] [  63240] TRC   t=63179783us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.06] [  63246] TRC   t=63214330us gap=34551 dir=CW  CLK=0 DT=1 -> diterima
+[  43.06] [  63252] TRC   t=63214339us gap=9 dir=-- CLK=0 DT=1 -> tolak debounce
+[  43.10] [  63258] TRC   t=63214347us gap=17 dir=-- CLK=0 DT=1 -> tolak debounce
+[  43.10] [  63265] TRC   t=63214360us gap=30 dir=-- CLK=0 DT=1 -> tolak debounce
+[  43.10] [  63271] TRC   t=63214372us gap=42 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  43.10] [  63277] TRC   t=63214376us gap=46 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  43.10] [  63284] TRC   t=63214384us gap=54 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.10] [  63290] TRC   t=63214388us gap=58 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.10] [  63297] TRC   t=63214432us gap=102 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.14] [  63303] TRC   t=63214440us gap=110 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.14] [  63310] TRC   t=63232573us gap=18243 dir=CCW CLK=1 DT=1 -> diterima
+[  43.14] [  63316] TRC   t=63232578us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.14] [  63322] TRC   t=63257799us gap=25226 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.14] [  63329] TRC   t=63257803us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.14] [  63335] TRC   t=63257819us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.14] [  63341] TRC   t=63257832us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63348] TRC   t=63257844us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63354] TRC   t=63257852us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63360] TRC   t=63257860us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63367] TRC   t=63257871us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63373] TRC   t=63257879us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63379] TRC   t=63257897us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.18] [  63386] TRC   t=63276940us gap=19141 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.22] [  63393] TRC   t=63276944us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.22] [  63399] TRC   t=63276952us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.22] [  63405] TRC   t=63318808us gap=41868 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.22] [  63412] TRC   t=63318812us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.22] [  63419] TRC   t=63318824us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.22] [  63425] TRC   t=63318828us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63431] TRC   t=63318836us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63438] TRC   t=63318840us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63444] TRC   t=63318848us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63450] TRC   t=63318856us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63457] TRC   t=63318869us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63463] TRC   t=63318873us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.27] [  63469] TRC   t=63318880us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63476] TRC   t=63318888us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63482] TRC   t=63318896us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63488] TRC   t=63318910us gap=102 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63495] TRC   t=63318922us gap=114 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63501] TRC   t=63318979us gap=171 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63507] TRC   t=63318987us gap=179 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.31] [  63514] TRC   t=63318994us gap=186 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.35] [  63520] TRC   t=63319007us gap=199 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.35] [  63527] TRC   t=63334598us gap=15790 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.35] [  63534] TRC   t=63334607us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.35] [  63540] TRC   t=63357799us gap=23201 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.35] [  63547] TRC   t=63357808us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.35] [  63553] TRC   t=63375632us gap=17833 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.35] [  63560] TRC   t=63375641us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.39] [  63566] TRC   t=63411107us gap=35475 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.39] [  63573] TRC   t=63411111us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.39] [  63579] TRC   t=63411119us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.39] [  63586] TRC   t=63430602us gap=19495 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.39] [  63593] TRC   t=63430607us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.39] [  63599] TRC   t=63459315us gap=28713 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.39] [  63606] TRC   t=63459319us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.43] [  63612] TRC   t=63459333us gap=18 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.43] [  63618] TRC   t=63459337us gap=22 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.43] [  63625] TRC   t=63459484us gap=169 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.43] [  63631] TRC   t=63459488us gap=173 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.43] [  63638] TRC   t=63459501us gap=186 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.43] [  63644] TRC   t=63459505us gap=190 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.43] [  63650] TRC   t=63459517us gap=202 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  43.47] [  63657] TRC   t=63459521us gap=206 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.47] [  63663] TRC   t=63459529us gap=214 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.47] [  63670] TRC   t=63459533us gap=218 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.47] [  63676] TRC   t=63459545us gap=230 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.47] [  63683] TRC   t=63459549us gap=234 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.47] [  63689] TRC   t=63459563us gap=248 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.47] [  63696] TRC   t=63459567us gap=252 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63702] TRC   t=63459575us gap=260 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63708] TRC   t=63459579us gap=264 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.51] [  63715] TRC   t=63459586us gap=271 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63721] TRC   t=63459595us gap=280 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63728] TRC   t=63459603us gap=288 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63734] TRC   t=63459611us gap=296 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.51] [  63740] TRC   t=63459619us gap=304 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63747] TRC   t=63459623us gap=308 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63753] TRC   t=63459631us gap=316 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63760] TRC   t=63459635us gap=320 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  43.55] [  63766] TRC   t=63459647us gap=332 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63773] TRC   t=63459663us gap=348 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63779] TRC   t=63459667us gap=352 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.55] [  63785] TRC   t=63459675us gap=360 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63792] TRC   t=63459679us gap=364 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63798] TRC   t=63459687us gap=372 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63805] TRC   t=63459720us gap=405 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63811] TRC   t=63459727us gap=412 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63818] TRC   t=63459735us gap=420 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63824] TRC   t=63459744us gap=429 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.59] [  63830] TRC   t=63459752us gap=437 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.63] [  63837] TRC   t=63479694us gap=20379 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.63] [  63844] TRC   t=63479703us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.63] [  63850] TRC   t=63504167us gap=24473 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.63] [  63857] TRC   t=63504171us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.63] [  63863] TRC   t=63504183us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.63] [  63870] TRC   t=63504187us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63876] TRC   t=63504195us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63882] TRC   t=63504199us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63889] TRC   t=63504207us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63895] TRC   t=63504249us gap=82 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63901] TRC   t=63504253us gap=86 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63908] TRC   t=63504265us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.67] [  63914] TRC   t=63504269us gap=102 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63920] TRC   t=63504281us gap=114 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63927] TRC   t=63504289us gap=122 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63933] TRC   t=63504297us gap=130 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  43.71] [  63940] TRC   t=63504301us gap=134 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63946] TRC   t=63504309us gap=142 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63952] TRC   t=63504321us gap=154 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.71] [  63959] TRC   t=63504334us gap=167 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.75] [  63965] TRC   t=63504341us gap=174 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.75] [  63972] TRC   t=63504356us gap=189 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.75] [  63978] TRC   t=63504369us gap=202 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.75] [  63985] TRC   t=63504373us gap=206 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.75] [  63991] TRC   t=63520148us gap=15981 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.75] [  63998] TRC   t=63520156us gap=8 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.75] [  64004] TRC   t=63520160us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.79] [  64010] TRC   t=63535845us gap=15697 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.79] [  64017] TRC   t=63535849us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.79] [  64024] TRC   t=63535857us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.79] [  64030] TRC   t=63535861us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.79] [  64036] TRC   t=63535873us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.79] [  64043] TRC   t=63535927us gap=82 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.80] [  64049] TRC   t=63535931us gap=86 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.84] [  64055] TRC   t=63535943us gap=98 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.84] [  64062] TRC   t=63554328us gap=18483 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.84] [  64069] TRC   t=63554337us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.84] [  64075] TRC   t=63578822us gap=24494 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.84] [  64082] TRC   t=63578826us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.84] [  64088] TRC   t=63578834us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.84] [  64094] TRC   t=63578838us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.88] [  64101] TRC   t=63596849us gap=18027 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  43.88] [  64108] TRC   t=63596853us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.88] [  64114] TRC   t=63629718us gap=32869 dir=CW  CLK=0 DT=1 -> diterima
+[  43.88] [  64120] TRC   t=63629723us gap=5 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.88] [  64126] TRC   t=63629731us gap=13 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  43.88] [  64133] TRC   t=63665518us gap=35800 dir=CW  CLK=0 DT=0 -> diterima
+[  43.88] [  64139] TRC   t=63665523us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.92] [  64145] TRC   t=63665530us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.92] [  64152] TRC   t=63665534us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.92] [  64158] TRC   t=63804995us gap=139477 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  43.92] [  64165] TRC   t=63805000us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.92] [  64171] TRC   t=63805012us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.92] [  64177] TRC   t=63805020us gap=25 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.92] [  64184] TRC   t=63805028us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.96] [  64190] TRC   t=63805035us gap=40 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  43.96] [  64197] TRC   t=63805048us gap=53 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.96] [  64203] TRC   t=63805056us gap=61 dir=-- CLK=1 DT=1 -> tolak debounce
+[  43.96] [  64209] TRC   t=63805095us gap=100 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.96] [  64216] TRC   t=63805099us gap=104 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.96] [  64222] TRC   t=63805112us gap=117 dir=-- CLK=0 DT=0 -> tolak debounce
+[  43.96] [  64229] TRC   t=63805119us gap=124 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64235] TRC   t=63805127us gap=132 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64241] TRC   t=63805135us gap=140 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64248] TRC   t=63805147us gap=152 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64254] TRC   t=63805161us gap=166 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64261] TRC   t=63805217us gap=222 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.00] [  64267] TRC   t=63805224us gap=229 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  44.00] [  64274] TRC   t=63805232us gap=237 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.20] [  64280] TRC   t=63805245us gap=250 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.20] [  64286] TRC   t=63854479us gap=49484 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  44.20] [  64293] TRC   t=63854483us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  44.20] [  64300] ENC   dir=CW  detent=-2
+[  44.20] [  64308] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  44.20] [  64403] REL   KEY1 release → Hi-Z
+[  44.87] [  65181] TRC   t=65181845us gap=1327366 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  44.87] [  65182] TRC   t=65181849us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.87] [  65199] TRC   t=65199277us gap=17432 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  44.87] [  65200] TRC   t=65199281us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  44.87] [  65223] TRC   t=65222959us gap=23682 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  44.87] [  65223] TRC   t=65222963us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65225] TRC   t=65222971us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65231] TRC   t=65222975us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65237] TRC   t=65222988us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65244] TRC   t=65222992us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65250] TRC   t=65222999us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65256] TRC   t=65223008us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.91] [  65263] TRC   t=65223016us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.95] [  65269] TRC   t=65223023us gap=64 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.95] [  65275] TRC   t=65223032us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.95] [  65282] TRC   t=65223040us gap=81 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.95] [  65288] TRC   t=65235173us gap=12214 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  44.95] [  65295] TRC   t=65235177us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  44.95] [  65301] TRC   t=65239905us gap=4732 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  44.95] [  65308] TRC   t=65239909us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65314] TRC   t=65239916us gap=11 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65321] TRC   t=65239920us gap=15 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65327] TRC   t=65239933us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65333] TRC   t=65239937us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65340] TRC   t=65239945us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  44.99] [  65346] TRC   t=65239949us gap=44 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  44.99] [  65352] TRC   t=65239961us gap=56 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65359] TRC   t=65239965us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65365] TRC   t=65239973us gap=68 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65371] TRC   t=65239981us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65378] TRC   t=65239989us gap=84 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65384] TRC   t=65239999us gap=94 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65390] TRC   t=65240008us gap=103 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.03] [  65397] TRC   t=65240015us gap=110 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65403] TRC   t=65240019us gap=114 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65410] TRC   t=65240032us gap=127 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65416] TRC   t=65240036us gap=131 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65422] TRC   t=65240043us gap=138 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65429] TRC   t=65240047us gap=142 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65435] TRC   t=65240060us gap=155 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.07] [  65442] TRC   t=65240064us gap=159 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65448] TRC   t=65240072us gap=167 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65455] TRC   t=65240075us gap=170 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65461] TRC   t=65240088us gap=183 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65467] TRC   t=65240092us gap=187 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65474] TRC   t=65240104us gap=199 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.11] [  65480] TRC   t=65240108us gap=203 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  45.11] [  65487] TRC   t=65240116us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65493] TRC   t=65240120us gap=215 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65500] TRC   t=65240133us gap=228 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65506] TRC   t=65240136us gap=231 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65512] TRC   t=65240144us gap=239 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65519] TRC   t=65240148us gap=243 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65525] TRC   t=65240161us gap=256 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.15] [  65532] TRC   t=65252395us gap=12490 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.19] [  65539] TRC   t=65252400us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.19] [  65545] TRC   t=65264455us gap=12060 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.19] [  65552] TRC   t=65264464us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.19] [  65558] TRC   t=65277078us gap=12623 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.19] [  65565] TRC   t=65277082us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.19] [  65571] TRC   t=65277090us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.19] [  65578] TRC   t=65277098us gap=20 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.23] [  65584] TRC   t=65286092us gap=9014 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.23] [  65591] TRC   t=65286101us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.23] [  65597] TRC   t=65286108us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.23] [  65603] TRC   t=65286112us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.23] [  65610] TRC   t=65286125us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.23] [  65616] TRC   t=65286129us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.23] [  65622] TRC   t=65286137us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.28] [  65629] TRC   t=65303725us gap=17633 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.28] [  65636] TRC   t=65303729us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.28] [  65642] TRC   t=65321289us gap=17564 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.28] [  65649] TRC   t=65321293us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.28] [  65655] TRC   t=65321305us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.28] [  65661] TRC   t=65321309us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65668] TRC   t=65321325us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65674] TRC   t=65321333us gap=44 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65680] TRC   t=65321377us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65687] TRC   t=65321385us gap=96 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65693] TRC   t=65321398us gap=109 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.32] [  65699] TRC   t=65321402us gap=113 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  45.32] [  65706] TRC   t=65321409us gap=120 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65712] TRC   t=65321413us gap=124 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65719] TRC   t=65321426us gap=137 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65725] TRC   t=65321430us gap=141 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65732] TRC   t=65321438us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65738] TRC   t=65321442us gap=153 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65745] TRC   t=65321475us gap=186 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.36] [  65751] TRC   t=65321482us gap=193 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  45.40] [  65757] TRC   t=65321486us gap=197 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65764] TRC   t=65321499us gap=210 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65770] TRC   t=65321503us gap=214 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65777] TRC   t=65321511us gap=222 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65783] TRC   t=65321515us gap=226 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65790] TRC   t=65321527us gap=238 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.40] [  65796] TRC   t=65321535us gap=246 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65802] TRC   t=65321547us gap=258 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65809] TRC   t=65321627us gap=338 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65815] TRC   t=65321635us gap=346 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65822] TRC   t=65321688us gap=399 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65828] TRC   t=65321697us gap=408 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65834] TRC   t=65321704us gap=415 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.44] [  65841] TRC   t=65321708us gap=419 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65847] TRC   t=65321721us gap=432 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65854] TRC   t=65321725us gap=436 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65860] TRC   t=65321732us gap=443 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65867] TRC   t=65321736us gap=447 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65873] TRC   t=65321749us gap=460 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65879] TRC   t=65321757us gap=468 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.48] [  65886] TRC   t=65321761us gap=472 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65892] TRC   t=65321773us gap=484 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65899] TRC   t=65321777us gap=488 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65905] TRC   t=65321785us gap=496 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65912] TRC   t=65321809us gap=520 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65918] TRC   t=65321821us gap=532 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65924] TRC   t=65321829us gap=540 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.52] [  65931] TRC   t=65321841us gap=552 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65937] TRC   t=65321853us gap=564 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65944] TRC   t=65321861us gap=572 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65950] TRC   t=65321874us gap=585 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65956] TRC   t=65321878us gap=589 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65963] TRC   t=65321886us gap=597 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65969] TRC   t=65321931us gap=642 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.56] [  65976] TRC   t=65321938us gap=649 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  65982] TRC   t=65321951us gap=662 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  65989] TRC   t=65321955us gap=666 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  65995] TRC   t=65321963us gap=674 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  66001] TRC   t=65321971us gap=682 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  66008] TRC   t=65321979us gap=690 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  66014] TRC   t=65321983us gap=694 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.60] [  66021] TRC   t=65340565us gap=19276 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.64] [  66028] TRC   t=65340570us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.64] [  66034] TRC   t=65346369us gap=5804 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.64] [  66041] TRC   t=65346378us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.64] [  66047] TRC   t=65347040us gap=671 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.64] [  66053] TRC   t=65347053us gap=684 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.64] [  66060] TRC   t=65347078us gap=709 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.64] [  66066] TRC   t=65347085us gap=716 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.68] [  66073] TRC   t=65347100us gap=731 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  45.68] [  66079] TRC   t=65347108us gap=739 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.68] [  66086] TRC   t=65347127us gap=758 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.68] [  66092] TRC   t=65347250us gap=881 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.68] [  66099] TRC   t=65347258us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.68] [  66105] TRC   t=65347265us gap=15 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.68] [  66111] TRC   t=65347300us gap=50 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66118] TRC   t=65347310us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66124] TRC   t=65347327us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66130] TRC   t=65347367us gap=117 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66137] TRC   t=65347383us gap=133 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66143] TRC   t=65347435us gap=185 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.72] [  66150] TRC   t=65347453us gap=203 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.76] [  66156] TRC   t=65347461us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.76] [  66162] TRC   t=65347496us gap=246 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  45.76] [  66169] TRC   t=65378769us gap=31519 dir=CW  CLK=1 DT=0 -> diterima
+[  45.76] [  66175] TRC   t=65378774us gap=5 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  45.76] [  66181] TRC   t=65378786us gap=17 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  45.76] [  66188] TRC   t=65378790us gap=21 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  45.76] [  66194] TRC   t=65407356us gap=28587 dir=CCW CLK=0 DT=0 -> diterima
+[  45.80] [  66200] TRC   t=65407361us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.80] [  66207] TRC   t=65407375us gap=19 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.80] [  66213] TRC   t=65407388us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.80] [  66219] TRC   t=65407392us gap=36 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.80] [  66226] TRC   t=65429266us gap=21910 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.80] [  66233] TRC   t=65429271us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.80] [  66239] TRC   t=65448063us gap=18797 dir=CW  CLK=0 DT=1 -> diterima
+[  45.85] [  66245] TRC   t=65448090us gap=27 dir=-- CLK=0 DT=1 -> tolak debounce
+[  45.85] [  66251] TRC   t=65448098us gap=35 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  45.85] [  66258] TRC   t=65448110us gap=47 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  45.85] [  66264] TRC   t=65472421us gap=24358 dir=CCW CLK=1 DT=1 -> diterima
+[  45.85] [  66270] TRC   t=65472426us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.85] [  66277] TRC   t=65499528us gap=27107 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.85] [  66283] TRC   t=65499541us gap=13 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  45.89] [  66290] TRC   t=65499545us gap=17 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  45.89] [  66296] TRC   t=65499553us gap=25 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  45.89] [  66303] TRC   t=65499565us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.89] [  66309] TRC   t=65499573us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.89] [  66315] TRC   t=65528513us gap=28985 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.89] [  66322] TRC   t=65528517us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.89] [  66329] TRC   t=65568279us gap=39766 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.93] [  66336] TRC   t=65568283us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.93] [  66342] TRC   t=65610852us gap=42573 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.93] [  66349] TRC   t=65610857us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.93] [  66355] TRC   t=65651059us gap=40207 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.93] [  66362] TRC   t=65651067us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.93] [  66368] TRC   t=65665700us gap=14641 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  45.93] [  66375] TRC   t=65665704us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  45.97] [  66381] TRC   t=65685072us gap=19372 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  45.97] [  66388] TRC   t=65685081us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.97] [  66395] TRC   t=65685290us gap=218 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.97] [  66401] TRC   t=65685298us gap=226 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.97] [  66407] TRC   t=65685311us gap=239 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.97] [  66414] TRC   t=65685314us gap=242 dir=-- CLK=0 DT=0 -> tolak debounce
+[  45.97] [  66420] TRC   t=65707547us gap=22475 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  46.01] [  66427] TRC   t=65707551us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  46.01] [  66433] TRC   t=65741227us gap=33680 dir=CW  CLK=0 DT=1 -> diterima
+[  46.01] [  66440] TRC   t=65741237us gap=10 dir=-- CLK=0 DT=1 -> tolak debounce
+[  46.01] [  66446] TRC   t=65741250us gap=23 dir=-- CLK=0 DT=1 -> tolak debounce
+[  46.01] [  66452] TRC   t=65741274us gap=47 dir=-- CLK=0 DT=1 -> tolak debounce
+[  46.01] [  66459] TRC   t=65741282us gap=55 dir=-- CLK=0 DT=1 -> tolak debounce
+[  46.01] [  66465] TRC   t=65741289us gap=62 dir=-- CLK=0 DT=1 -> tolak debounce
+[  46.05] [  66471] TRC   t=65741302us gap=75 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  46.05] [  66478] TRC   t=65761095us gap=19868 dir=CCW CLK=1 DT=1 -> diterima
+[  46.05] [  66484] TRC   t=65761100us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  46.05] [  66490] TRC   t=65789411us gap=28316 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  46.05] [  66497] TRC   t=65789415us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.05] [  66503] TRC   t=65789423us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.05] [  66510] TRC   t=65789427us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66516] TRC   t=65789439us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66522] TRC   t=65789443us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66529] TRC   t=65789451us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66535] TRC   t=65789455us gap=44 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  46.09] [  66541] TRC   t=65789467us gap=56 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66548] TRC   t=65789471us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.09] [  66554] TRC   t=65789484us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66560] TRC   t=65789488us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66567] TRC   t=65789495us gap=84 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66573] TRC   t=65789499us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66579] TRC   t=65789512us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66586] TRC   t=65789516us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66592] TRC   t=65789524us gap=113 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.13] [  66599] TRC   t=65789527us gap=116 dir=-- CLK=0 DT=0 -> tolak debounce
+[  46.33] [  66605] TRC   t=65815664us gap=26253 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  46.33] [  66612] TRC   t=65815668us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  46.33] [  66618] TRC   19 edge hilang (buffer penuh)
+[  47.19] [  67726] TRC   t=67726618us gap=1910954 dir=CW  CLK=0 DT=1 -> diterima
+[  47.19] [  67727] TRC   t=67726623us gap=5 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.19] [  67728] TRC   t=67726631us gap=13 dir=-- CLK=0 DT=1 -> tolak debounce
+[  47.19] [  67734] TRC   t=67726639us gap=21 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.19] [  67741] TRC   t=67726647us gap=29 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  47.19] [  67747] TRC   t=67726651us gap=33 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  47.23] [  67754] TRC   t=67726664us gap=46 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67760] TRC   t=67726668us gap=50 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67766] TRC   t=67726676us gap=58 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67773] TRC   t=67726680us gap=62 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67779] TRC   t=67726692us gap=74 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67786] TRC   t=67726700us gap=82 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.23] [  67792] TRC   t=67726718us gap=100 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.27] [  67799] TRC   t=67726722us gap=104 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.27] [  67805] TRC   t=67726730us gap=112 dir=-- CLK=1 DT=0 -> tolak debounce
+[  47.27] [  67811] TRC   t=67726738us gap=120 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  47.27] [  67818] TRC   t=67726746us gap=128 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.27] [  67824] TRC   t=67726750us gap=132 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.27] [  67831] TRC   t=67726763us gap=145 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.27] [  67837] TRC   t=67726767us gap=149 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  47.31] [  67844] TRC   t=67736438us gap=9820 dir=CCW CLK=1 DT=1 -> diterima
+[  47.31] [  67850] TRC   t=67736443us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.31] [  67856] TRC   t=67739084us gap=2646 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  47.31] [  67863] TRC   t=67739088us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.31] [  67869] TRC   t=67739101us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.31] [  67876] TRC   t=67739105us gap=21 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.31] [  67882] TRC   t=67739113us gap=29 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  47.35] [  67888] TRC   t=67739117us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.35] [  67895] TRC   t=67739129us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.35] [  67901] TRC   t=67739133us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.35] [  67908] TRC   t=67739141us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.35] [  67914] TRC   t=67750326us gap=11242 dir=CW  CLK=1 DT=0 -> diterima
+[  47.35] [  67920] TRC   t=67750331us gap=5 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  47.35] [  67926] TRC   t=67750339us gap=13 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  47.39] [  67933] TRC   t=67750348us gap=22 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  47.39] [  67939] TRC   t=67772259us gap=21933 dir=CCW CLK=0 DT=0 -> diterima
+[  47.39] [  67945] TRC   t=67772264us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.39] [  67952] TRC   t=67772271us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.39] [  67958] TRC   t=67772275us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.39] [  67964] TRC   t=67772288us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.39] [  67971] TRC   t=67772292us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.43] [  67977] TRC   t=67772312us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.43] [  67983] TRC   t=67772316us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.43] [  67990] TRC   t=67772323us gap=64 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.43] [  67996] TRC   t=67772332us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.43] [  68002] TRC   t=67772340us gap=81 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  47.43] [  68009] TRC   t=67772344us gap=85 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.43] [  68015] TRC   t=67772356us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.47] [  68021] TRC   t=67772360us gap=101 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.47] [  68028] TRC   t=67772368us gap=109 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  47.47] [  68034] TRC   t=67772372us gap=113 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.47] [  68041] TRC   t=67772384us gap=125 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.47] [  68047] TRC   t=67772388us gap=129 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.47] [  68053] TRC   t=67772396us gap=137 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.47] [  68060] TRC   t=67772405us gap=146 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.51] [  68066] TRC   t=67772413us gap=154 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.51] [  68073] TRC   t=67772417us gap=158 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.51] [  68079] TRC   t=67772488us gap=229 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.51] [  68086] TRC   t=67772492us gap=233 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  47.51] [  68092] TRC   t=67772504us gap=245 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.51] [  68099] TRC   t=67772508us gap=249 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.51] [  68105] TRC   t=67772516us gap=257 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.55] [  68111] TRC   t=67772520us gap=261 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.55] [  68118] TRC   t=67786200us gap=13941 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  47.55] [  68125] TRC   t=67786204us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.55] [  68131] TRC   t=67818827us gap=32627 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  47.55] [  68138] TRC   t=67818831us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.55] [  68144] TRC   t=67847970us gap=29143 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  47.55] [  68151] TRC   t=67847978us gap=8 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.59] [  68157] TRC   t=67898814us gap=50844 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  47.59] [  68164] TRC   t=67898823us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.59] [  68171] TRC   t=67898859us gap=45 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.59] [  68177] TRC   t=67898863us gap=49 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.59] [  68183] TRC   t=67898876us gap=62 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.59] [  68190] TRC   t=67898880us gap=66 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.59] [  68196] TRC   t=67898892us gap=78 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.64] [  68202] TRC   t=67898896us gap=82 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.64] [  68209] TRC   t=67898904us gap=90 dir=-- CLK=1 DT=1 -> tolak debounce
+[  47.64] [  68215] TRC   t=67898908us gap=94 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.64] [  68221] TRC   t=67898920us gap=106 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.64] [  68228] TRC   t=67898924us gap=110 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.64] [  68234] TRC   t=67898932us gap=118 dir=-- CLK=0 DT=0 -> tolak debounce
+[  47.64] [  68240] TRC   t=67898944us gap=130 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68247] TRC   t=67898952us gap=138 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68253] TRC   t=67898956us gap=142 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68260] TRC   t=67898964us gap=150 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68266] TRC   t=67898976us gap=162 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68273] TRC   t=67898980us gap=166 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.63] [  68279] TRC   t=67898993us gap=179 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.63] [  68285] TRC   t=67898997us gap=183 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.67] [  68292] TRC   t=67899004us gap=190 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.67] [  68298] TRC   t=67922361us gap=23547 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  50.67] [  68305] TRC   t=67922366us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.67] [  68311] TRC   t=67980790us gap=58429 dir=CW  CLK=0 DT=1 -> diterima
+[  50.67] [  68318] TRC   t=67980802us gap=12 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.67] [  68324] TRC   t=68004146us gap=23356 dir=CCW CLK=1 DT=1 -> diterima
+[  50.67] [  68330] TRC   t=68004151us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.71] [  68336] TRC   t=68030600us gap=26454 dir=CW  CLK=0 DT=1 -> diterima
+[  50.71] [  68343] TRC   t=68030617us gap=17 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.71] [  68349] TRC   t=68030625us gap=25 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.71] [  68355] TRC   t=68030629us gap=29 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.71] [  68362] TRC   t=68030644us gap=44 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.71] [  68368] TRC   t=68030652us gap=52 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  50.71] [  68375] TRC   t=68043749us gap=13149 dir=CCW CLK=1 DT=1 -> diterima
+[  50.75] [  68381] TRC   t=68043758us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.75] [  68387] TRC   t=68047501us gap=3752 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  50.75] [  68394] TRC   t=68047505us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.75] [  68400] TRC   t=68047513us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.75] [  68407] TRC   t=68047522us gap=21 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.75] [  68413] TRC   t=68047529us gap=28 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.75] [  68419] TRC   t=68047533us gap=32 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.79] [  68426] TRC   t=68047541us gap=40 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.79] [  68432] TRC   t=68047550us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.79] [  68438] TRC   t=68047558us gap=57 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.79] [  68445] TRC   t=68047562us gap=61 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.79] [  68451] TRC   t=68047574us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.79] [  68457] TRC   t=68047578us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.79] [  68464] TRC   t=68047586us gap=85 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68470] TRC   t=68047590us gap=89 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68476] TRC   t=68047602us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68483] TRC   t=68047606us gap=105 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68489] TRC   t=68047619us gap=118 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68496] TRC   t=68047623us gap=122 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.83] [  68502] TRC   t=68047630us gap=129 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.88] [  68509] TRC   t=68047634us gap=133 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.88] [  68515] TRC   t=68061632us gap=14131 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  50.88] [  68522] TRC   t=68061637us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.88] [  68528] TRC   t=68074055us gap=12423 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  50.88] [  68535] TRC   t=68074060us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.88] [  68541] TRC   t=68074072us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.88] [  68548] TRC   t=68074080us gap=25 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.92] [  68554] TRC   t=68074084us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.92] [  68560] TRC   t=68087410us gap=13355 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  50.92] [  68567] TRC   t=68087415us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.92] [  68574] TRC   t=68100875us gap=13465 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  50.92] [  68580] TRC   t=68100879us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.92] [  68587] TRC   t=68119548us gap=18673 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  50.92] [  68594] TRC   t=68119552us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  50.96] [  68600] TRC   t=68150296us gap=30748 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  50.96] [  68607] TRC   t=68150305us gap=9 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.96] [  68613] TRC   t=68150313us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.96] [  68620] TRC   t=68150316us gap=20 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  50.96] [  68626] TRC   t=68150329us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.96] [  68632] TRC   t=68150333us gap=37 dir=-- CLK=0 DT=0 -> tolak debounce
+[  50.96] [  68639] TRC   t=68150341us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.00] [  68645] TRC   t=68150345us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.00] [  68651] TRC   t=68150357us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.00] [  68658] TRC   t=68150361us gap=65 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.00] [  68664] TRC   t=68173536us gap=23240 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  51.00] [  68671] TRC   t=68173540us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.00] [  68677] TRC   t=68187600us gap=14064 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  51.00] [  68684] TRC   t=68187604us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68690] TRC   t=68187620us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68697] TRC   t=68187624us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68703] TRC   t=68187639us gap=39 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68709] TRC   t=68187652us gap=52 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68716] TRC   t=68187660us gap=60 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68722] TRC   t=68187668us gap=68 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.04] [  68728] TRC   t=68187676us gap=76 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68735] TRC   t=68187680us gap=80 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68741] TRC   t=68187688us gap=88 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68747] TRC   t=68187700us gap=100 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68754] TRC   t=68187704us gap=104 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68760] TRC   t=68187721us gap=121 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.08] [  68767] TRC   t=68187725us gap=125 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.08] [  68773] TRC   t=68187733us gap=133 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.12] [  68779] TRC   t=68187736us gap=136 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.12] [  68786] TRC   t=68187749us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.12] [  68792] TRC   t=68187759us gap=159 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.12] [  68799] TRC   t=68187768us gap=168 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.12] [  68805] TRC   t=68187779us gap=179 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.12] [  68812] TRC   t=68187783us gap=183 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.12] [  68818] TRC   t=68187849us gap=249 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68824] TRC   t=68187853us gap=253 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68831] TRC   t=68187876us gap=276 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68837] TRC   t=68187895us gap=295 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68844] TRC   t=68187903us gap=303 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68850] TRC   t=68187935us gap=335 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68856] TRC   t=68187956us gap=356 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.16] [  68863] TRC   t=68187970us gap=370 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68869] TRC   t=68187977us gap=377 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68876] TRC   t=68187985us gap=385 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68882] TRC   t=68187994us gap=394 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68889] TRC   t=68188035us gap=435 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68895] TRC   t=68188049us gap=449 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68901] TRC   t=68188053us gap=453 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.20] [  68908] TRC   t=68188120us gap=520 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68914] TRC   t=68188131us gap=531 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68921] TRC   t=68188168us gap=568 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68927] TRC   t=68188176us gap=576 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68933] TRC   t=68188206us gap=606 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68940] TRC   t=68188218us gap=618 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.24] [  68946] TRC   t=68188228us gap=628 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68953] TRC   t=68188238us gap=638 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68959] TRC   t=68188270us gap=670 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68966] TRC   t=68188277us gap=677 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68972] TRC   t=68188285us gap=685 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68978] TRC   t=68188297us gap=697 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68985] TRC   t=68188305us gap=705 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.28] [  68991] TRC   t=68188318us gap=718 dir=-- CLK=0 DT=0 -> tolak debounce
+[  51.32] [  68998] TRC   t=68188342us gap=742 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  51.32] [  69004] TRC   t=68223645us gap=34097 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  51.32] [  69011] TRC   t=68223650us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.32] [  69017] TRC   t=68291199us gap=67554 dir=CW  CLK=0 DT=1 -> diterima
+[  51.32] [  69024] TRC   t=68291204us gap=5 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.32] [  69030] TRC   t=68291212us gap=13 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.32] [  69036] TRC   t=68291228us gap=29 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.52] [  69042] TRC   t=68291236us gap=37 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  51.52] [  69049] TRC   t=68291249us gap=50 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  51.52] [  69055] TRC   t=68329646us gap=38447 dir=CCW CLK=1 DT=1 -> diterima
+[  51.52] [  69061] TRC   t=68329651us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  51.52] [  69068] TRC   36 edge hilang (buffer penuh)
+[  51.99] [  69738] TRC   t=69738143us gap=1408497 dir=CW  CLK=0 DT=1 -> diterima
+[  51.99] [  69738] TRC   t=69738156us gap=13 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.99] [  69739] TRC   t=69738172us gap=29 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  51.99] [  69746] TRC   t=69738184us gap=41 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.99] [  69752] TRC   t=69738192us gap=49 dir=-- CLK=0 DT=1 -> tolak debounce
+[  51.99] [  69758] TRC   t=69738210us gap=67 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.03] [  69765] TRC   t=69738218us gap=75 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.03] [  69771] TRC   t=69738230us gap=87 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.03] [  69778] TRC   t=69738238us gap=95 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.03] [  69784] TRC   t=69764860us gap=26717 dir=CCW CLK=1 DT=1 -> diterima
+[  52.03] [  69790] TRC   t=69764864us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.03] [  69808] TRC   t=69808862us gap=44002 dir=CW  CLK=0 DT=1 -> diterima
+[  52.03] [  69809] TRC   t=69808878us gap=16 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.03] [  69810] TRC   t=69808891us gap=29 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  52.07] [  69829] TRC   t=69829665us gap=20803 dir=CCW CLK=1 DT=1 -> diterima
+[  52.07] [  69830] TRC   t=69829669us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.07] [  69834] TRC   t=69834641us gap=4976 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.07] [  69837] TRC   t=69834645us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.07] [  69844] TRC   t=69834812us gap=171 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.07] [  69850] TRC   t=69834825us gap=184 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.11] [  69857] TRC   t=69834854us gap=213 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.11] [  69863] TRC   t=69834861us gap=220 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.11] [  69869] TRC   t=69834869us gap=228 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.11] [  69876] TRC   t=69852008us gap=17367 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.11] [  69883] TRC   t=69852012us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.11] [  69889] TRC   t=69865347us gap=13339 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.11] [  69896] TRC   t=69865355us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.15] [  69902] TRC   t=69874344us gap=8997 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.15] [  69909] TRC   t=69874348us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.15] [  69915] TRC   t=69877384us gap=3040 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.15] [  69922] TRC   t=69877388us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.15] [  69928] TRC   t=69877396us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.15] [  69935] TRC   t=69877408us gap=24 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.15] [  69941] TRC   t=69877416us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.19] [  69947] TRC   t=69885825us gap=8441 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.19] [  69954] TRC   t=69885834us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.19] [  69960] TRC   t=69891921us gap=6096 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.19] [  69967] TRC   t=69891929us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.19] [  69974] TRC   t=69900726us gap=8805 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.19] [  69980] TRC   t=69900730us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.19] [  69987] TRC   t=69903811us gap=3085 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.23] [  69993] TRC   t=69903816us gap=5 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  52.23] [  70000] TRC   t=69903823us gap=12 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  52.23] [  70006] TRC   t=69903827us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.23] [  70013] TRC   t=69903840us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.23] [  70019] TRC   t=69903844us gap=33 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  52.23] [  70025] TRC   t=69903856us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.23] [  70032] TRC   t=69903860us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.27] [  70038] TRC   t=69903868us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.27] [  70044] TRC   t=69903872us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.27] [  70051] TRC   t=69903884us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.27] [  70057] TRC   t=69912808us gap=8997 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.27] [  70064] TRC   t=69912812us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.27] [  70070] TRC   t=69919863us gap=7055 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.27] [  70077] TRC   t=69919868us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.31] [  70083] TRC   t=69919875us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.31] [  70090] TRC   t=69919888us gap=25 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.31] [  70096] TRC   t=69919919us gap=56 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.31] [  70102] TRC   t=69931695us gap=11832 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.31] [  70109] TRC   t=69931704us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.32] [  70115] TRC   t=69931711us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.32] [  70122] TRC   t=69931715us gap=20 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.35] [  70128] TRC   t=69947485us gap=15790 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.36] [  70135] TRC   t=69947489us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.36] [  70141] TRC   t=69947496us gap=11 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.36] [  70148] TRC   t=69947500us gap=15 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.36] [  70154] TRC   t=69947513us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.36] [  70160] TRC   t=69947517us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.36] [  70167] TRC   t=69947525us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.40] [  70173] TRC   t=69947533us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.40] [  70179] TRC   t=69968207us gap=20722 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.40] [  70186] TRC   t=69968211us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.40] [  70192] TRC   t=69968223us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.40] [  70199] TRC   t=69968227us gap=20 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.40] [  70205] TRC   t=70029328us gap=61121 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.44] [  70212] TRC   t=70029333us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70218] TRC   t=70029340us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70225] TRC   t=70029376us gap=48 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70231] TRC   t=70029383us gap=55 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70237] TRC   t=70029400us gap=72 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70244] TRC   t=70029486us gap=158 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.44] [  70250] TRC   t=70029499us gap=171 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.48] [  70256] TRC   t=70029503us gap=175 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.48] [  70263] TRC   t=70029510us gap=182 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.48] [  70269] TRC   t=70029514us gap=186 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  52.48] [  70276] TRC   t=70029527us gap=199 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.48] [  70282] TRC   t=70029531us gap=203 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.48] [  70289] TRC   t=70029539us gap=211 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.48] [  70295] TRC   t=70029547us gap=219 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70301] TRC   t=70029555us gap=227 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70308] TRC   t=70029559us gap=231 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70314] TRC   t=70029581us gap=253 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70321] TRC   t=70029589us gap=261 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70327] TRC   t=70029598us gap=270 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70334] TRC   t=70029629us gap=301 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.52] [  70340] TRC   t=70029650us gap=322 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70346] TRC   t=70029654us gap=326 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70353] TRC   t=70029661us gap=333 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  52.56] [  70359] TRC   t=70029674us gap=346 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70366] TRC   t=70029682us gap=354 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70372] TRC   t=70029689us gap=361 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70379] TRC   t=70029702us gap=374 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.56] [  70385] TRC   t=70029709us gap=381 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.60] [  70391] TRC   t=70029722us gap=394 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70398] TRC   t=70029726us gap=398 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70404] TRC   t=70029734us gap=406 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70411] TRC   t=70029746us gap=418 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70417] TRC   t=70029750us gap=422 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70424] TRC   t=70029758us gap=430 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.60] [  70430] TRC   t=70029762us gap=434 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.64] [  70436] TRC   t=70029774us gap=446 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.64] [  70443] TRC   t=70029778us gap=450 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.64] [  70449] TRC   t=70029786us gap=458 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.64] [  70456] TRC   t=70029795us gap=467 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.64] [  70462] TRC   t=70029802us gap=474 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.64] [  70468] TRC   t=70052348us gap=23020 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.64] [  70475] TRC   t=70052357us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  52.68] [  70482] TRC   t=70093398us gap=41050 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  52.68] [  70489] TRC   t=70093402us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.68] [  70495] TRC   t=70093444us gap=46 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.68] [  70501] TRC   t=70093464us gap=66 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  52.68] [  70508] TRC   t=70093472us gap=74 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.68] [  70514] TRC   t=70093491us gap=93 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.68] [  70520] TRC   t=70093499us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.72] [  70527] TRC   t=70129388us gap=35990 dir=CW  CLK=1 DT=0 -> diterima
+[  52.72] [  70533] TRC   t=70129397us gap=9 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  52.72] [  70539] TRC   t=70129401us gap=13 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  52.72] [  70546] TRC   t=70291009us gap=161621 dir=CCW CLK=0 DT=0 -> diterima
+[  52.72] [  70552] TRC   t=70291014us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.72] [  70558] TRC   t=70291128us gap=119 dir=-- CLK=0 DT=0 -> tolak debounce
+[  52.72] [  70564] TRC   t=70333068us gap=42059 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  52.92] [  70571] TRC   t=70333072us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.43] [  71314] TRC   t=71314508us gap=981440 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.43] [  71315] TRC   t=71314513us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.43] [  71316] TRC   t=71314520us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.43] [  71323] TRC   t=71314524us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.43] [  71329] TRC   t=71314537us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.43] [  71335] TRC   t=71314541us gap=33 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.47] [  71342] TRC   t=71314548us gap=40 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.47] [  71348] TRC   t=71314557us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.47] [  71354] TRC   t=71328583us gap=14075 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  53.47] [  71361] TRC   t=71328592us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.47] [  71368] TRC   t=71331244us gap=2661 dir=CCW CLK=1 DT=0 -> diterima
+[  53.47] [  71374] TRC   t=71331248us gap=4 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.47] [  71380] TRC   t=71331261us gap=17 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.51] [  71386] TRC   t=71331265us gap=21 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.51] [  71393] TRC   t=71331273us gap=29 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.51] [  71399] TRC   t=71331281us gap=37 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.51] [  71406] TRC   t=71331289us gap=45 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.51] [  71412] TRC   t=71339251us gap=8007 dir=CW  CLK=1 DT=1 -> diterima
+[  53.51] [  71418] TRC   t=71339261us gap=10 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.51] [  71424] TRC   t=71343183us gap=3932 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.55] [  71431] TRC   t=71343188us gap=5 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.55] [  71438] TRC   t=71352686us gap=9503 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  53.55] [  71444] TRC   t=71352699us gap=13 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.55] [  71451] TRC   t=71354731us gap=2045 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.55] [  71458] TRC   t=71354740us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.55] [  71464] TRC   t=71354748us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.55] [  71470] TRC   t=71354752us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.59] [  71476] TRC   t=71354765us gap=34 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.59] [  71483] TRC   t=71361737us gap=7006 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  53.59] [  71490] TRC   t=71361746us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.59] [  71496] TRC   t=71364712us gap=2975 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  53.59] [  71503] TRC   t=71364716us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.59] [  71509] TRC   t=71364724us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.59] [  71515] TRC   t=71364728us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.63] [  71522] TRC   t=71364740us gap=28 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  53.63] [  71528] TRC   t=71364744us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.63] [  71534] TRC   t=71364752us gap=40 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.63] [  71541] TRC   t=71364761us gap=49 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.63] [  71547] TRC   t=71364769us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.63] [  71553] TRC   t=71364773us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.64] [  71560] TRC   t=71364785us gap=73 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.68] [  71566] TRC   t=71364789us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.68] [  71572] TRC   t=71370598us gap=5886 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.68] [  71579] TRC   t=71370602us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.68] [  71586] TRC   t=71370610us gap=12 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.68] [  71592] TRC   t=71370619us gap=21 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.68] [  71598] TRC   t=71372268us gap=1670 dir=CW  CLK=1 DT=0 -> diterima
+[  53.68] [  71604] TRC   t=71372273us gap=5 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.72] [  71611] TRC   t=71372281us gap=13 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.72] [  71617] TRC   t=71378460us gap=6192 dir=CW  CLK=1 DT=1 -> diterima
+[  53.72] [  71623] TRC   t=71378469us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.72] [  71629] TRC   t=71381431us gap=2971 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.72] [  71636] TRC   t=71381440us gap=9 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.72] [  71642] TRC   t=71381448us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.72] [  71649] TRC   t=71381452us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.76] [  71655] TRC   t=71391333us gap=9902 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  53.76] [  71662] TRC   t=71391337us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.76] [  71668] TRC   t=71393862us gap=2529 dir=CCW CLK=1 DT=0 -> diterima
+[  53.76] [  71674] TRC   t=71393877us gap=15 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.76] [  71681] TRC   t=71393885us gap=23 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.76] [  71687] TRC   t=71393914us gap=52 dir=-- CLK=1 DT=0 -> tolak debounce
+[  53.76] [  71693] TRC   t=71393929us gap=67 dir=-- CLK=1 DT=0 -> tolak debounce
+[  53.80] [  71700] TRC   t=71393933us gap=71 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.80] [  71706] TRC   t=71393941us gap=79 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.80] [  71713] TRC   t=71412155us gap=18293 dir=CW  CLK=1 DT=1 -> diterima
+[  53.80] [  71719] TRC   t=71412160us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.80] [  71725] TRC   t=71430228us gap=18073 dir=CCW CLK=1 DT=0 -> diterima
+[  53.80] [  71731] TRC   t=71430242us gap=14 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.80] [  71738] TRC   t=71430250us gap=22 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.84] [  71744] TRC   t=71430258us gap=30 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.84] [  71750] TRC   t=71430262us gap=34 dir=-- CLK=0 DT=1 -> tolak debounce
+[  53.84] [  71757] TRC   t=71430275us gap=47 dir=-- CLK=1 DT=0 -> tolak debounce
+[  53.84] [  71763] TRC   t=71430279us gap=51 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.84] [  71770] TRC   t=71430287us gap=59 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.84] [  71776] TRC   t=71430291us gap=63 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.84] [  71782] TRC   t=71430303us gap=75 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  53.88] [  71789] TRC   t=71448262us gap=18034 dir=CW  CLK=1 DT=1 -> diterima
+[  53.88] [  71795] TRC   t=71448272us gap=10 dir=-- CLK=1 DT=1 -> tolak debounce
+[  53.88] [  71801] TRC   t=71461104us gap=12842 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  53.88] [  71808] TRC   t=71461113us gap=9 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  53.88] [  71815] TRC   t=71461120us gap=16 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.88] [  71821] TRC   t=71461124us gap=20 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.88] [  71827] TRC   t=71461141us gap=37 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  53.92] [  71834] TRC   t=71461149us gap=45 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  53.92] [  71840] TRC   t=71461162us gap=58 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.92] [  71846] TRC   t=71461170us gap=66 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.92] [  71853] TRC   t=71461174us gap=70 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.92] [  71859] TRC   t=71461187us gap=83 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.92] [  71865] TRC   t=71461191us gap=87 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.92] [  71872] TRC   t=71461201us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71878] TRC   t=71461213us gap=109 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71884] TRC   t=71461217us gap=113 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  53.96] [  71891] TRC   t=71461225us gap=121 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71897] TRC   t=71461238us gap=134 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71904] TRC   t=71461242us gap=138 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71910] TRC   t=71461253us gap=149 dir=-- CLK=0 DT=0 -> tolak debounce
+[  53.96] [  71917] TRC   t=71461262us gap=158 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71923] TRC   t=71461270us gap=166 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71929] TRC   t=71461274us gap=170 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.00] [  71936] TRC   t=71461286us gap=182 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71942] TRC   t=71461290us gap=186 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71949] TRC   t=71461298us gap=194 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71955] TRC   t=71461302us gap=198 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.00] [  71962] TRC   t=71461314us gap=210 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  71968] TRC   t=71461398us gap=294 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  71974] TRC   t=71461402us gap=298 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  71981] TRC   t=71461415us gap=311 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.04] [  71987] TRC   t=71461422us gap=318 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  71994] TRC   t=71461426us gap=322 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  72000] TRC   t=71461439us gap=335 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.04] [  72007] TRC   t=71461443us gap=339 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72013] TRC   t=71461486us gap=382 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72019] TRC   t=71461644us gap=540 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72026] TRC   t=71461652us gap=548 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72032] TRC   t=71461661us gap=557 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72039] TRC   t=71461669us gap=565 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.08] [  72045] TRC   t=71461673us gap=569 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.12] [  72052] TRC   t=71480066us gap=18962 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.12] [  72058] TRC   t=71480070us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.12] [  72065] TRC   t=71480082us gap=16 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.12] [  72071] TRC   t=71480086us gap=20 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.12] [  72077] TRC   t=71496340us gap=16274 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.12] [  72084] TRC   t=71496344us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.12] [  72091] TRC   t=71496352us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72097] TRC   t=71496361us gap=21 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72103] TRC   t=71496368us gap=28 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.16] [  72110] TRC   t=71496372us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72116] TRC   t=71496385us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72122] TRC   t=71496389us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72129] TRC   t=71496397us gap=57 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.16] [  72135] TRC   t=71496409us gap=69 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.20] [  72141] TRC   t=71496417us gap=77 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.20] [  72148] TRC   t=71496425us gap=85 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.20] [  72154] TRC   t=71496437us gap=97 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.20] [  72160] TRC   t=71496441us gap=101 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.21] [  72167] TRC   t=71496470us gap=130 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.21] [  72173] TRC   t=71496474us gap=134 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.21] [  72180] TRC   t=71496486us gap=146 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.25] [  72186] TRC   t=71510851us gap=14511 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.25] [  72193] TRC   t=71510855us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.25] [  72199] TRC   t=71517175us gap=6324 dir=CCW CLK=1 DT=0 -> diterima
+[  54.25] [  72205] TRC   t=71517189us gap=14 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.25] [  72212] TRC   t=71517201us gap=26 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  54.25] [  72218] TRC   t=71517209us gap=34 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.25] [  72224] TRC   t=71517234us gap=59 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72231] TRC   t=71517242us gap=67 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72237] TRC   t=71517254us gap=79 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72243] TRC   t=71517283us gap=108 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72250] TRC   t=71517301us gap=126 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72256] TRC   t=71517309us gap=134 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72263] TRC   t=71517322us gap=147 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.29] [  72269] TRC   t=71517400us gap=225 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  54.33] [  72276] TRC   t=71517426us gap=251 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  54.33] [  72282] TRC   t=71531619us gap=14444 dir=CW  CLK=1 DT=1 -> diterima
+[  54.33] [  72288] TRC   t=71531624us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.33] [  72294] TRC   t=71538017us gap=6398 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.33] [  72301] TRC   t=71538021us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.33] [  72308] TRC   t=71538029us gap=12 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.33] [  72314] TRC   t=71538033us gap=16 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.37] [  72320] TRC   t=71538045us gap=28 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.37] [  72327] TRC   t=71538049us gap=32 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.37] [  72333] TRC   t=71538062us gap=45 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.37] [  72339] TRC   t=71538070us gap=53 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.37] [  72346] TRC   t=71538078us gap=61 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.37] [  72352] TRC   t=71549144us gap=11127 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.37] [  72359] TRC   t=71549149us gap=5 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.41] [  72365] TRC   t=71560229us gap=9010 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.41] [  72372] TRC   t=71562894us gap=2665 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.41] [  72379] TRC   t=71572179us gap=9285 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.41] [  72386] TRC   t=71574738us gap=2559 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.41] [  72393] TRC   t=71582825us gap=8087 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.41] [  72399] TRC   t=71588360us gap=5535 dir=CCW CLK=1 DT=0 -> diterima
+[  54.41] [  72405] TRC   t=71597623us gap=9263 dir=CW  CLK=1 DT=1 -> diterima
+[  54.45] [  72412] TRC   t=71600001us gap=2378 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.45] [  72418] TRC   t=71610333us gap=10332 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.45] [  72425] TRC   t=71622574us gap=12241 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.45] [  72432] TRC   t=71622578us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.45] [  72439] TRC   t=71633768us gap=11194 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.45] [  72445] TRC   t=71633772us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.49] [  72452] TRC   t=71646459us gap=12691 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.49] [  72459] TRC   t=71646463us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.49] [  72465] TRC   t=71660501us gap=14042 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.49] [  72472] TRC   t=71660510us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.49] [  72478] TRC   t=71705374us gap=44873 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.49] [  72485] TRC   t=71705382us gap=8 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.49] [  72491] TRC   t=71722698us gap=17324 dir=CCW CLK=0 DT=1 -> diterima
+[  54.53] [  72497] TRC   t=71722703us gap=5 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  54.53] [  72504] TRC   t=71722716us gap=18 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  54.53] [  72510] TRC   t=71722720us gap=22 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  54.53] [  72517] TRC   t=71754260us gap=31562 dir=CW  CLK=0 DT=0 -> diterima
+[  54.53] [  72523] TRC   t=71754265us gap=5 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.53] [  72529] TRC   t=71754278us gap=18 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.53] [  72535] TRC   t=71754282us gap=22 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.57] [  72542] TRC   t=71754294us gap=34 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.57] [  72548] TRC   t=71754298us gap=38 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.57] [  72554] TRC   t=71754306us gap=46 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.57] [  72561] TRC   t=71754310us gap=50 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.57] [  72567] TRC   t=71754325us gap=65 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.57] [  72573] TRC   t=71772601us gap=18341 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.57] [  72580] TRC   t=71772605us gap=4 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.61] [  72587] TRC   t=71828814us gap=56213 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  54.61] [  72594] TRC   t=71828818us gap=4 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.61] [  72600] TRC   t=71828831us gap=17 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.61] [  72606] TRC   t=71828835us gap=21 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.61] [  72613] TRC   t=71828843us gap=29 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.61] [  72619] TRC   t=71828847us gap=33 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.61] [  72625] TRC   t=71828859us gap=45 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  54.65] [  72632] TRC   t=71828863us gap=49 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.65] [  72638] TRC   t=71828871us gap=57 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.65] [  72644] TRC   t=71828880us gap=66 dir=-- CLK=0 DT=0 -> tolak debounce
+[  54.65] [  72651] TRC   t=71853652us gap=24838 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.65] [  72658] TRC   t=71853661us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.65] [  72664] TRC   t=71853669us gap=17 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.65] [  72670] TRC   t=71853673us gap=21 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.69] [  72677] TRC   t=71901504us gap=47852 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  54.69] [  72683] TRC   t=71901513us gap=9 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.69] [  72690] TRC   t=71901526us gap=22 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  54.69] [  72696] TRC   t=71901533us gap=29 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  54.69] [  72703] TRC   t=71901554us gap=50 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  54.69] [  72709] TRC   t=71901562us gap=58 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  54.69] [  72715] TRC   t=71901617us gap=113 dir=-- CLK=1 DT=1 -> tolak debounce
+[  54.89] [  72722] TRC   t=72186777us gap=284446 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  54.89] [  72729] TRC   t=72186790us gap=13 dir=CCW CLK=0 DT=0 -> tolak debounce
+[  54.89] [  72735] TRC   t=72186794us gap=17 dir=-- CLK=1 DT=0 -> tolak debounce
+[  54.89] [  72742] TRC   t=72186801us gap=24 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  54.89] [  72748] TRC   t=72186810us gap=33 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  54.89] [  72754] TRC   t=72186818us gap=41 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  54.89] [  72761] TRC   101 edge hilang (buffer penuh)
+[ 300.00] === capture selesai ===

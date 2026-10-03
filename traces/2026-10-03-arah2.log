@@ -1,0 +1,1029 @@
+[   0.00] === capture mulai — PUTAR KNOB SEKARANG ===
+[   0.20] OK    log level=3
+[  10.54] [  25547] BTN   press
+[  10.54] [  25549] ENC   dir=CCW detent=4294967295
+[  10.54] [  25549] TRC   t=25549225us gap=25549225 dir=CCW CLK=1 DT=1 -> diterima
+[  10.54] [  25555] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.54] [  25579] BTN   release clicks=1
+[  10.54] [  25583] TRC   t=25583307us gap=34082 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  10.54] [  25613] BTN   press
+[  10.54] [  25650] REL   KEY1 release → Hi-Z
+[  10.74] [  25677] ENC   dir=CCW detent=4294967294
+[  10.74] [  25677] TRC   t=25677124us gap=127899 dir=CCW CLK=1 DT=1 -> diterima
+[  10.74] [  25677] TRC   t=25677132us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  10.74] [  25687] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.74] [  25712] BTN   release clicks=2
+[  10.74] [  25782] REL   KEY1 release → Hi-Z
+[  10.94] [  26002] TRC   t=26002753us gap=325629 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  10.94] [  26003] TRC   t=26002806us gap=325682 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  10.94] [  26004] TRC   t=26002878us gap=325754 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  10.94] [  26011] TRC   t=26002950us gap=325826 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  10.94] [  26032] BTN   press
+[  10.94] [  26064] ENC   dir=CCW detent=4294967293
+[  10.94] [  26064] TRC   t=26064269us gap=387145 dir=CCW CLK=1 DT=1 -> diterima
+[  10.94] [  26070] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.14] [  26095] BTN   release clicks=3
+[  11.14] [  26165] REL   KEY1 release → Hi-Z
+[  11.34] [  26495] BTN   resolve clicks=3 (3 press) -> PREV
+[  11.34] [  26500] ACT   slot=PREV line=KEY2 duty=550 meas=-- emit 100ms
+[  11.54] [  26595] REL   KEY2 release → Hi-Z
+[  12.34] [  27554] TRC   t=27554480us gap=1490211 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  12.34] [  27555] TRC   t=27554507us gap=1490238 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  12.34] [  27556] TRC   t=27554957us gap=1490688 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  12.34] [  27584] BTN   press
+[  12.34] [  27584] ENC   dir=CCW detent=4294967292
+[  12.34] [  27584] TRC   t=27584317us gap=1520048 dir=CCW CLK=1 DT=1 -> diterima
+[  12.34] [  27590] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.34] [  27615] BTN   release clicks=1
+[  12.54] [  27685] REL   KEY1 release → Hi-Z
+[  12.74] [  27940] TRC   t=27940028us gap=355711 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  12.74] [  27940] TRC   t=27940045us gap=355728 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  12.74] [  27969] BTN   press
+[  12.74] [  28048] ENC   dir=CCW detent=4294967291
+[  12.74] [  28048] TRC   t=28048007us gap=463690 dir=CCW CLK=1 DT=1 -> diterima
+[  12.91] [  28054] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.91] [  28078] BTN   release clicks=2
+[  12.91] [  28148] REL   KEY1 release → Hi-Z
+[  12.91] [  28207] ENC   dir=CW  detent=4294967292
+[  12.91] [  28208] TRC   t=28207638us gap=159631 dir=CW  CLK=1 DT=0 -> diterima
+[  12.91] [  28208] TRC   t=28207651us gap=13 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.91] [  28213] TRC   t=28208061us gap=423 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.91] [  28219] TRC   t=28208073us gap=435 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28226] TRC   t=28208081us gap=443 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28232] TRC   t=28208093us gap=455 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28239] TRC   t=28208223us gap=585 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28245] TRC   t=28208230us gap=592 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28252] TRC   t=28208497us gap=859 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28258] TRC   t=28208528us gap=890 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.95] [  28265] TRC   t=28208536us gap=898 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  12.99] [  28271] TRC   t=28208548us gap=910 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.99] [  28278] TRC   t=28208561us gap=923 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.99] [  28284] TRC   t=28208573us gap=935 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.99] [  28291] TRC   t=28208581us gap=943 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.99] [  28297] TRC   t=28208593us gap=955 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  12.99] [  28304] TRC   t=28208601us gap=963 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  12.99] [  28310] TRC   t=28208613us gap=975 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28317] TRC   t=28208626us gap=988 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28323] TRC   t=28208633us gap=995 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28330] TRC   t=28208646us gap=1008 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28336] TRC   t=28208658us gap=1020 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28343] TRC   t=28208671us gap=1033 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.03] [  28349] TRC   t=28208678us gap=1040 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.03] [  28356] TRC   t=28208686us gap=1048 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.07] [  28363] TRC   t=28209952us gap=2314 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  13.07] [  28369] TRC   t=28209965us gap=2327 dir=CW  CLK=1 DT=0 -> diterima
+[  13.07] [  28375] TRC   t=28210000us gap=35 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.07] [  28381] TRC   t=28210061us gap=96 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.07] [  28388] TRC   t=28210073us gap=108 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.07] [  28394] TRC   t=28210109us gap=144 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.07] [  28401] TRC   t=28210121us gap=156 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28407] TRC   t=28210129us gap=164 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28414] TRC   t=28210143us gap=178 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28420] TRC   t=28210151us gap=186 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28427] TRC   t=28210321us gap=356 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28433] TRC   t=28210329us gap=364 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.12] [  28440] TRC   t=28215157us gap=5192 dir=CW  CLK=1 DT=0 -> diterima
+[  13.12] [  28446] TRC   t=28215169us gap=12 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.16] [  28452] TRC   t=28215182us gap=25 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.16] [  28459] TRC   t=28215263us gap=106 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.16] [  28465] TRC   t=28215408us gap=251 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.16] [  28472] TRC   t=28215420us gap=263 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.16] [  28478] TRC   t=28215499us gap=342 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.16] [  28485] TRC   t=28215637us gap=480 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.36] [  28491] TRC   t=28316030us gap=100873 dir=CCW CLK=1 DT=1 -> diterima
+[  13.36] [  28498] BTN   resolve clicks=2 (2 press) -> NEXT
+[  13.36] [  28507] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[  13.36] [  28513] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  13.36] [  28513] ENC   dir=CW  detent=4294967293
+[  13.36] [  28602] REL   KEY2 release → Hi-Z
+[  13.36] [  28608] REL   KEY1 release → Hi-Z
+[  13.36] [  28633] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  13.44] [  28728] REL   KEY1 release → Hi-Z
+[  13.44] [  28731] BTN   press
+[  13.44] [  28745] ENC   dir=CCW detent=4294967292
+[  13.44] [  28745] TRC   t=28745216us gap=429186 dir=CCW CLK=1 DT=1 -> diterima
+[  13.44] [  28753] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  13.44] [  28776] BTN   release clicks=1
+[  13.44] [  28793] ENC   dir=CW  detent=4294967293
+[  13.44] [  28793] TRC   t=28793222us gap=48006 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  13.44] [  28794] TRC   t=28793230us gap=48014 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  13.48] [  28798] TRC   t=28793243us gap=48027 dir=CW  CLK=1 DT=0 -> diterima
+[  13.48] [  28804] TRC   t=28793455us gap=212 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.48] [  28811] TRC   t=28793901us gap=658 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.48] [  28817] TRC   t=28794033us gap=790 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.48] [  28824] TRC   t=28794045us gap=802 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.48] [  28830] TRC   t=28794065us gap=822 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  13.48] [  28837] TRC   t=28794093us gap=850 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  13.48] [  28844] BTN   press
+[  13.68] [  28848] REL   KEY1 release → Hi-Z
+[  13.68] [  28873] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  13.68] [  28968] REL   KEY1 release → Hi-Z
+[  13.88] [  29090] ENC   dir=CCW detent=4294967292
+[  13.88] [  29090] TRC   t=29090572us gap=297329 dir=CCW CLK=1 DT=1 -> diterima
+[  13.88] [  29096] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  13.88] [  29121] BTN   release clicks=2
+[  13.88] [  29191] REL   KEY1 release → Hi-Z
+[  14.06] [  29366] BTN   press
+[  14.06] [  29420] ENC   dir=CCW detent=4294967291
+[  14.06] [  29420] TRC   t=29420323us gap=329751 dir=CCW CLK=1 DT=1 -> diterima
+[  14.06] [  29426] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  14.06] [  29451] BTN   release clicks=3
+[  14.06] [  29474] ENC   dir=CW  detent=4294967292
+[  14.06] [  29474] TRC   t=29474024us gap=53701 dir=CW  CLK=1 DT=0 -> diterima
+[  14.06] [  29474] TRC   t=29474037us gap=13 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.06] [  29479] TRC   t=29474045us gap=21 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29485] TRC   t=29474154us gap=130 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29492] TRC   t=29474187us gap=163 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29498] TRC   t=29474194us gap=170 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29505] TRC   t=29474258us gap=234 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29511] TRC   t=29474334us gap=310 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.10] [  29518] TRC   t=29474381us gap=357 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.10] [  29524] TRC   t=29474389us gap=365 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.30] [  29531] TRC   t=29474396us gap=372 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.30] [  29537] TRC   t=29474404us gap=380 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.30] [  29544] TRC   t=29474418us gap=394 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.30] [  29550] TRC   t=29474532us gap=508 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.30] [  29562] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.30] [  29587] BTN   press
+[  14.30] [  29657] REL   KEY1 release → Hi-Z
+[  14.30] [  29749] ENC   dir=CCW detent=4294967291
+[  14.50] [  29750] TRC   t=29749948us gap=275924 dir=CCW CLK=1 DT=1 -> diterima
+[  14.50] [  29755] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  14.50] [  29780] BTN   release clicks=4
+[  14.50] [  29850] REL   KEY1 release → Hi-Z
+[  14.50] [  29879] TRC   t=29879010us gap=129062 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.50] [  29908] BTN   press
+[  14.63] [  29973] ENC   dir=CCW detent=4294967290
+[  14.63] [  29973] TRC   t=29973306us gap=223358 dir=CCW CLK=1 DT=1 -> diterima
+[  14.63] [  29979] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  14.63] [  30004] BTN   release clicks=5
+[  14.63] [  30074] REL   KEY1 release → Hi-Z
+[  14.63] [  30088] ENC   dir=CW  detent=4294967291
+[  14.63] [  30088] TRC   t=30088220us gap=114914 dir=CW  CLK=1 DT=0 -> diterima
+[  14.63] [  30089] TRC   t=30088228us gap=8 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.63] [  30093] TRC   t=30088865us gap=645 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.67] [  30100] TRC   t=30088877us gap=657 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.67] [  30106] TRC   t=30088918us gap=698 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.67] [  30113] TRC   t=30088930us gap=710 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.67] [  30119] TRC   t=30089012us gap=792 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.67] [  30126] TRC   t=30089121us gap=901 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.67] [  30132] TRC   t=30089129us gap=909 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.67] [  30139] TRC   t=30089156us gap=936 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.85] [  30150] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.85] [  30175] BTN   press
+[  14.85] [  30245] REL   KEY1 release → Hi-Z
+[  14.85] [  30247] ENC   dir=CCW detent=4294967290
+[  14.85] [  30247] TRC   t=30247420us gap=159200 dir=CCW CLK=1 DT=1 -> diterima
+[  14.85] [  30270] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  14.85] [  30278] BTN   release clicks=6
+[  14.85] [  30342] TRC   t=30342532us gap=95112 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.85] [  30343] TRC   t=30342637us gap=95217 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.95] [  30344] TRC   t=30342691us gap=95271 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.95] [  30350] TRC   t=30342699us gap=95279 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.95] [  30365] REL   KEY1 release → Hi-Z
+[  14.95] [  30372] BTN   press
+[  14.95] [  30392] ENC   dir=CCW detent=4294967289
+[  14.95] [  30392] TRC   t=30392290us gap=144870 dir=CCW CLK=1 DT=1 -> diterima
+[  14.95] [  30398] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  14.95] [  30423] BTN   release clicks=7
+[  14.95] [  30454] ENC   dir=CW  detent=4294967290
+[  14.95] [  30454] TRC   t=30454136us gap=61846 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.99] [  30454] TRC   t=30454143us gap=61853 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  14.99] [  30459] TRC   t=30454151us gap=61861 dir=CW  CLK=1 DT=0 -> diterima
+[  14.99] [  30465] TRC   t=30454184us gap=33 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.99] [  30472] TRC   t=30454218us gap=67 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.99] [  30478] TRC   t=30454422us gap=271 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  14.99] [  30485] TRC   t=30454582us gap=431 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.99] [  30491] TRC   t=30458496us gap=4345 dir=CW  CLK=1 DT=0 -> diterima
+[  15.03] [  30497] TRC   t=30458508us gap=12 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  15.03] [  30504] TRC   t=30458560us gap=64 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.03] [  30510] TRC   t=30458586us gap=90 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  15.03] [  30517] TRC   t=30458632us gap=136 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.03] [  30523] TRC   t=30458646us gap=150 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.03] [  30530] TRC   t=30458658us gap=162 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.03] [  30536] TRC   t=30458678us gap=182 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.20] [  30543] TRC   t=30458686us gap=190 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  15.20] [  30549] TRC   t=30458839us gap=343 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  15.20] [  30556] TRC   t=30532447us gap=73951 dir=CCW CLK=1 DT=1 -> diterima
+[  15.20] [  30567] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.20] [  30662] REL   KEY1 release → Hi-Z
+[  15.20] [  30673] TRC   t=30673229us gap=140782 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  15.20] [  30703] BTN   press
+[  15.20] [  30729] ENC   dir=CCW detent=4294967289
+[  15.40] [  30730] TRC   t=30729669us gap=197222 dir=CCW CLK=1 DT=1 -> diterima
+[  15.40] [  30735] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  15.40] [  30760] BTN   release clicks=8
+[  15.40] [  30830] REL   KEY1 release → Hi-Z
+[  15.60] [  31160] BTN   klik x8 diabaikan (maks 3)
+[  17.00] [  32511] ENC   dir=CCW detent=4294967288
+[  17.00] [  32511] TRC   t=32511633us gap=1781964 dir=CCW CLK=1 DT=1 -> diterima
+[  17.00] [  32517] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  17.00] [  32580] ENC   dir=CCW detent=4294967287
+[  17.00] [  32581] TRC   t=32580776us gap=69143 dir=CCW CLK=1 DT=1 -> diterima
+[  17.00] [  32612] REL   KEY1 release → Hi-Z
+[  17.00] [  32637] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  17.20] [  32732] REL   KEY1 release → Hi-Z
+[  17.46] [  33163] ENC   dir=CCW detent=4294967286
+[  17.46] [  33163] TRC   t=33163200us gap=582424 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  17.46] [  33164] TRC   t=33163216us gap=582440 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  17.46] [  33168] TRC   t=33163232us gap=582456 dir=CCW CLK=1 DT=1 -> diterima
+[  17.46] [  33175] TRC   t=33163283us gap=51 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  17.46] [  33181] TRC   t=33163317us gap=85 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  17.46] [  33193] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  17.46] [  33193] BTN   press
+[  17.66] [  33201] ENC   dir=CCW detent=4294967285
+[  17.66] [  33201] TRC   t=33201256us gap=38024 dir=CCW CLK=1 DT=1 -> diterima
+[  17.66] [  33235] BTN   release clicks=1
+[  17.66] [  33288] REL   KEY1 release → Hi-Z
+[  17.66] [  33313] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  17.66] [  33408] REL   KEY1 release → Hi-Z
+[  17.86] [  33635] BTN   resolve clicks=1 (1 press) -> PLAY
+[  18.06] [  33640] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[  18.06] [  33735] REL   KEY1 release → Hi-Z
+[  18.87] [  34671] TRC   t=34671317us gap=1470061 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  18.87] [  34702] BTN   press
+[  18.87] [  34722] ENC   dir=CCW detent=4294967284
+[  18.87] [  34722] TRC   t=34721983us gap=1520727 dir=CCW CLK=1 DT=1 -> diterima
+[  18.87] [  34728] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  19.07] [  34752] BTN   release clicks=1
+[  19.07] [  34822] REL   KEY1 release → Hi-Z
+[  19.27] [  35152] BTN   resolve clicks=1 (1 press) -> PLAY
+[  19.27] [  35157] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[  19.47] [  35252] REL   KEY1 release → Hi-Z
+[  22.07] [  38177] ENC   dir=CW  detent=4294967285
+[  22.07] [  38177] TRC   t=38177370us gap=3455387 dir=CW  CLK=1 DT=0 -> diterima
+[  22.07] [  38183] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  22.07] [  38208] BTN   press
+[  22.07] [  38212] ENC   dir=CCW detent=4294967284
+[  22.07] [  38213] TRC   t=38212799us gap=35429 dir=CCW CLK=1 DT=1 -> diterima
+[  22.27] [  38243] BTN   release clicks=1
+[  22.27] [  38278] REL   KEY1 release → Hi-Z
+[  22.27] [  38303] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  22.27] [  38303] BTN   press
+[  22.27] [  38398] REL   KEY1 release → Hi-Z
+[  22.67] [  38674] ENC   dir=CCW detent=4294967283
+[  22.67] [  38674] TRC   t=38674664us gap=461865 dir=CCW CLK=1 DT=1 -> diterima
+[  22.67] [  38680] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  22.67] [  38705] BTN   release clicks=2
+[  22.67] [  38775] REL   KEY1 release → Hi-Z
+[  23.07] [  39105] BTN   resolve clicks=2 (2 press) -> NEXT
+[  23.07] [  39110] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[  23.07] [  39205] REL   KEY2 release → Hi-Z
+[  25.27] [  41588] TRC   t=41588530us gap=2913866 dir=CCW CLK=1 DT=1 -> diterima
+[  25.27] [  41589] ENC   dir=CCW detent=4294967282
+[  25.27] [  41594] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  25.27] [  41633] BTN   press
+[  25.27] [  41648] ENC   dir=CCW detent=4294967281
+[  25.27] [  41648] TRC   t=41648203us gap=59673 dir=CCW CLK=1 DT=1 -> diterima
+[  25.27] [  41678] BTN   release clicks=1
+[  25.27] [  41689] REL   KEY1 release → Hi-Z
+[  25.27] [  41714] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  25.47] [  41809] REL   KEY1 release → Hi-Z
+[  25.61] [  41961] ENC   dir=CCW detent=4294967280
+[  25.61] [  41961] TRC   t=41961300us gap=313097 dir=CCW CLK=1 DT=1 -> diterima
+[  25.61] [  41967] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  25.61] [  42062] REL   KEY1 release → Hi-Z
+[  25.61] [  42074] ENC   dir=CW  detent=4294967281
+[  25.62] [  42074] TRC   t=42074256us gap=112956 dir=CW  CLK=1 DT=0 -> diterima
+[  25.62] [  42075] TRC   t=42074264us gap=8 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.62] [  42079] TRC   t=42074276us gap=20 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.66] [  42086] TRC   t=42074293us gap=37 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.66] [  42092] TRC   t=42074301us gap=45 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.66] [  42098] TRC   t=42074380us gap=124 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.66] [  42105] TRC   t=42074393us gap=137 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  25.66] [  42117] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  25.66] [  42132] ENC   dir=CCW detent=4294967280
+[  25.66] [  42133] TRC   t=42132833us gap=58577 dir=CCW CLK=1 DT=1 -> diterima
+[  25.86] [  42133] TRC   t=42132841us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  25.86] [  42168] BTN   resolve clicks=1 (1 press) -> PLAY
+[  25.86] [  42173] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[  25.86] [  42236] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  25.86] [  42331] REL   KEY1 release → Hi-Z
+[  25.93] [  42367] ENC   dir=CCW detent=4294967279
+[  25.93] [  42368] TRC   t=42367896us gap=235063 dir=CCW CLK=1 DT=1 -> diterima
+[  25.93] [  42368] TRC   t=42367966us gap=70 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  25.93] [  42373] TRC   t=42368019us gap=123 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  25.93] [  42385] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  25.93] [  42397] BTN   press
+[  25.93] [  42425] ENC   dir=CCW detent=4294967278
+[  25.93] [  42425] TRC   t=42425089us gap=57193 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  26.13] [  42425] TRC   t=42425102us gap=57206 dir=CCW CLK=1 DT=1 -> diterima
+[  26.13] [  42460] BTN   release clicks=1
+[  26.13] [  42479] REL   KEY1 release → Hi-Z
+[  26.13] [  42504] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  26.13] [  42599] REL   KEY1 release → Hi-Z
+[  26.33] [  42860] BTN   resolve clicks=1 (1 press) -> PLAY
+[  26.33] [  42865] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[  26.53] [  42960] REL   KEY1 release → Hi-Z
+[  27.13] [  43720] ENC   dir=CCW detent=4294967277
+[  27.13] [  43720] TRC   t=43720370us gap=1295268 dir=CCW CLK=1 DT=1 -> diterima
+[  27.13] [  43726] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.13] [  43726] TRC   t=43722536us gap=2166 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  27.13] [  43731] TRC   t=43729531us gap=9161 dir=CCW CLK=1 DT=1 -> diterima
+[  27.21] [  43737] TRC   t=43732800us gap=3269 dir=CCW CLK=1 DT=1 -> diterima
+[  27.21] [  43743] TRC   t=43732898us gap=98 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  27.21] [  43749] TRC   t=43732905us gap=105 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  27.21] [  43756] TRC   t=43741183us gap=8383 dir=CCW CLK=1 DT=1 -> diterima
+[  27.21] [  43762] TRC   t=43761814us gap=20631 dir=CCW CLK=1 DT=1 -> diterima
+[  27.21] [  43768] ENC   dir=CCW detent=4294967276
+[  27.21] [  43821] REL   KEY1 release → Hi-Z
+[  27.21] [  43826] ENC   dir=CCW detent=4294967275
+[  27.31] [  43827] TRC   t=43826714us gap=64900 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  27.31] [  43827] TRC   t=43826723us gap=64909 dir=CCW CLK=1 DT=1 -> diterima
+[  27.31] [  43832] TRC   t=43826776us gap=53 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  27.31] [  43838] TRC   t=43826796us gap=73 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  27.31] [  43844] TRC   t=43826861us gap=138 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  27.31] [  43856] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.31] [  43857] ENC   dir=CCW detent=4294967274
+[  27.31] [  43860] TRC   t=43855162us gap=28439 dir=CCW CLK=1 DT=1 -> diterima
+[  27.31] [  43944] BTN   press
+[  27.51] [  43951] REL   KEY1 release → Hi-Z
+[  27.51] [  43959] ENC   dir=CCW detent=4294967273
+[  27.51] [  43959] TRC   t=43959439us gap=104277 dir=CCW CLK=1 DT=1 -> diterima
+[  27.51] [  43976] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.51] [  43990] BTN   release clicks=1
+[  27.51] [  44071] REL   KEY1 release → Hi-Z
+[  27.51] [  44096] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.51] [  44118] ENC   dir=CCW detent=4294967272
+[  27.51] [  44119] TRC   t=44118816us gap=159377 dir=CCW CLK=1 DT=1 -> diterima
+[  27.68] [  44191] REL   KEY1 release → Hi-Z
+[  27.68] [  44203] BTN   press
+[  27.68] [  44210] ENC   dir=CCW detent=4294967271
+[  27.68] [  44211] TRC   t=44210931us gap=92115 dir=CCW CLK=1 DT=1 -> diterima
+[  27.68] [  44216] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.68] [  44241] BTN   release clicks=2
+[  27.68] [  44311] REL   KEY1 release → Hi-Z
+[  27.69] [  44336] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.69] [  44346] BTN   press
+[  27.69] [  44348] ENC   dir=CCW detent=4294967270
+[  27.89] [  44349] TRC   t=44348782us gap=137851 dir=CCW CLK=1 DT=1 -> diterima
+[  27.89] [  44379] BTN   release clicks=3
+[  27.89] [  44431] REL   KEY1 release → Hi-Z
+[  27.89] [  44434] BTN   press
+[  27.89] [  44456] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  27.89] [  44489] TRC   t=44489183us gap=140401 dir=CCW CLK=1 DT=1 -> diterima
+[  27.89] [  44489] ENC   dir=CCW detent=4294967269
+[  27.89] [  44519] BTN   release clicks=4
+[  27.89] [  44551] REL   KEY1 release → Hi-Z
+[  28.09] [  44576] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.09] [  44633] BTN   press
+[  28.09] [  44636] ENC   dir=CCW detent=4294967268
+[  28.09] [  44637] TRC   t=44636898us gap=147715 dir=CCW CLK=1 DT=1 -> diterima
+[  28.09] [  44667] BTN   release clicks=5
+[  28.09] [  44671] REL   KEY1 release → Hi-Z
+[  28.09] [  44696] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.09] [  44783] ENC   dir=CCW detent=4294967267
+[  28.09] [  44784] TRC   t=44783954us gap=147056 dir=CCW CLK=1 DT=1 -> diterima
+[  28.29] [  44791] REL   KEY1 release → Hi-Z
+[  28.29] [  44816] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.29] [  44817] BTN   press
+[  28.29] [  44911] REL   KEY1 release → Hi-Z
+[  28.29] [  44912] ENC   dir=CCW detent=4294967266
+[  28.29] [  44913] TRC   t=44912688us gap=128734 dir=CCW CLK=1 DT=1 -> diterima
+[  28.29] [  44936] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.29] [  44943] BTN   release clicks=6
+[  28.49] [  45031] REL   KEY1 release → Hi-Z
+[  28.49] [  45056] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.49] [  45151] REL   KEY1 release → Hi-Z
+[  28.49] [  45176] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.67] [  45271] REL   KEY1 release → Hi-Z
+[  28.67] [  45296] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.67] [  45343] BTN   klik x6 diabaikan (maks 3)
+[  28.67] [  45358] ENC   dir=CCW detent=4294967265
+[  28.67] [  45358] TRC   t=45358020us gap=445332 dir=CCW CLK=1 DT=1 -> diterima
+[  28.67] [  45377] ENC   dir=CCW detent=4294967264
+[  28.67] [  45378] TRC   t=45377796us gap=19776 dir=CCW CLK=1 DT=1 -> diterima
+[  28.67] [  45391] REL   KEY1 release → Hi-Z
+[  28.67] [  45416] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.82] [  45425] ENC   dir=CCW detent=4294967263
+[  28.82] [  45426] TRC   t=45425702us gap=47906 dir=CCW CLK=1 DT=1 -> diterima
+[  28.82] [  45482] ENC   dir=CCW detent=4294967262
+[  28.82] [  45482] TRC   t=45482381us gap=56679 dir=CCW CLK=1 DT=1 -> diterima
+[  28.82] [  45511] REL   KEY1 release → Hi-Z
+[  28.82] [  45513] BTN   press
+[  28.82] [  45517] TRC   t=45517329us gap=34948 dir=CCW CLK=1 DT=1 -> diterima
+[  28.82] [  45517] ENC   dir=CCW detent=4294967261
+[  28.82] [  45536] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  28.82] [  45547] BTN   release clicks=1
+[  29.02] [  45596] ENC   dir=CCW detent=4294967260
+[  29.02] [  45597] TRC   t=45596708us gap=79379 dir=CCW CLK=1 DT=1 -> diterima
+[  29.02] [  45631] REL   KEY1 release → Hi-Z
+[  29.02] [  45656] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.02] [  45688] BTN   press
+[  29.02] [  45696] ENC   dir=CCW detent=4294967259
+[  29.02] [  45696] TRC   t=45696042us gap=99334 dir=CCW CLK=1 DT=1 -> diterima
+[  29.02] [  45726] BTN   release clicks=2
+[  29.02] [  45751] REL   KEY1 release → Hi-Z
+[  29.02] [  45776] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.02] [  45815] ENC   dir=CCW detent=4294967258
+[  29.21] [  45815] TRC   t=45815563us gap=119521 dir=CCW CLK=1 DT=1 -> diterima
+[  29.21] [  45871] REL   KEY1 release → Hi-Z
+[  29.21] [  45878] TRC   t=45878354us gap=62791 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  29.21] [  45896] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.21] [  45908] BTN   press
+[  29.21] [  45928] ENC   dir=CCW detent=4294967257
+[  29.21] [  45928] TRC   t=45928273us gap=112710 dir=CCW CLK=1 DT=1 -> diterima
+[  29.21] [  45959] BTN   release clicks=3
+[  29.21] [  45991] REL   KEY1 release → Hi-Z
+[  29.32] [  46016] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.32] [  46022] BTN   press
+[  29.32] [  46031] ENC   dir=CCW detent=4294967256
+[  29.32] [  46031] TRC   t=46031282us gap=103009 dir=CCW CLK=1 DT=1 -> diterima
+[  29.32] [  46062] BTN   release clicks=4
+[  29.32] [  46089] ENC   dir=CCW detent=4294967255
+[  29.32] [  46089] TRC   t=46089501us gap=58219 dir=CCW CLK=1 DT=1 -> diterima
+[  29.32] [  46090] TRC   t=46089521us gap=20 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  29.32] [  46094] TRC   t=46089554us gap=53 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  29.32] [  46111] REL   KEY1 release → Hi-Z
+[  29.32] [  46119] BTN   press
+[  29.51] [  46136] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.51] [  46142] ENC   dir=CCW detent=4294967254
+[  29.51] [  46142] TRC   t=46142375us gap=52874 dir=CCW CLK=1 DT=1 -> diterima
+[  29.51] [  46173] BTN   release clicks=5
+[  29.51] [  46231] REL   KEY1 release → Hi-Z
+[  29.51] [  46256] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.51] [  46256] BTN   press
+[  29.51] [  46283] ENC   dir=CCW detent=4294967253
+[  29.51] [  46283] TRC   t=46283665us gap=141290 dir=CCW CLK=1 DT=1 -> diterima
+[  29.51] [  46314] BTN   release clicks=6
+[  29.71] [  46351] REL   KEY1 release → Hi-Z
+[  29.71] [  46376] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.71] [  46446] BTN   press
+[  29.71] [  46471] REL   KEY1 release → Hi-Z
+[  29.71] [  46496] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.71] [  46506] ENC   dir=CCW detent=4294967252
+[  29.71] [  46506] TRC   t=46506301us gap=222636 dir=CCW CLK=1 DT=1 -> diterima
+[  29.71] [  46536] BTN   release clicks=7
+[  29.91] [  46591] REL   KEY1 release → Hi-Z
+[  29.91] [  46616] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  29.91] [  46711] REL   KEY1 release → Hi-Z
+[  29.91] [  46736] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.11] [  46831] REL   KEY1 release → Hi-Z
+[  30.12] [  46856] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.12] [  46936] BTN   klik x7 diabaikan (maks 3)
+[  30.12] [  46951] REL   KEY1 release → Hi-Z
+[  30.12] [  46976] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.20] [  47062] ENC   dir=CCW detent=4294967251
+[  30.20] [  47063] TRC   t=47062717us gap=556416 dir=CCW CLK=1 DT=1 -> diterima
+[  30.20] [  47071] REL   KEY1 release → Hi-Z
+[  30.20] [  47073] ENC   dir=CCW detent=4294967250
+[  30.20] [  47074] TRC   t=47073772us gap=11055 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  30.20] [  47075] TRC   t=47073793us gap=11076 dir=CCW CLK=1 DT=1 -> diterima
+[  30.20] [  47087] ENC   dir=CCW detent=4294967249
+[  30.20] [  47087] TRC   t=47087200us gap=13407 dir=CCW CLK=1 DT=1 -> diterima
+[  30.32] [  47096] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.32] [  47124] ENC   dir=CCW detent=4294967248
+[  30.32] [  47124] TRC   t=47124638us gap=37438 dir=CCW CLK=1 DT=1 -> diterima
+[  30.32] [  47191] REL   KEY1 release → Hi-Z
+[  30.32] [  47199] ENC   dir=CCW detent=4294967247
+[  30.32] [  47200] TRC   t=47199788us gap=75150 dir=CCW CLK=1 DT=1 -> diterima
+[  30.32] [  47200] TRC   t=47199812us gap=24 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  30.32] [  47205] TRC   t=47199835us gap=47 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  30.32] [  47216] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.32] [  47229] BTN   press
+[  30.39] [  47231] ENC   dir=CCW detent=4294967246
+[  30.39] [  47231] TRC   t=47231191us gap=31403 dir=CCW CLK=1 DT=1 -> diterima
+[  30.39] [  47261] BTN   release clicks=1
+[  30.39] [  47267] ENC   dir=CCW detent=4294967245
+[  30.39] [  47267] TRC   t=47267273us gap=36082 dir=CCW CLK=1 DT=1 -> diterima
+[  30.39] [  47268] TRC   t=47267324us gap=51 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  30.39] [  47272] TRC   t=47267358us gap=85 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  30.39] [  47302] TRC   t=47302269us gap=34996 dir=CCW CLK=1 DT=1 -> diterima
+[  30.53] [  47302] ENC   dir=CCW detent=4294967244
+[  30.53] [  47311] REL   KEY1 release → Hi-Z
+[  30.53] [  47336] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.53] [  47362] ENC   dir=CCW detent=4294967243
+[  30.53] [  47363] TRC   t=47362962us gap=60693 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  30.53] [  47363] TRC   t=47362975us gap=60706 dir=CCW CLK=1 DT=1 -> diterima
+[  30.53] [  47397] ENC   dir=CCW detent=4294967242
+[  30.53] [  47397] TRC   t=47397524us gap=34549 dir=CCW CLK=1 DT=1 -> diterima
+[  30.53] [  47431] REL   KEY1 release → Hi-Z
+[  30.73] [  47456] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.73] [  47496] BTN   press
+[  30.73] [  47507] ENC   dir=CCW detent=4294967241
+[  30.73] [  47507] TRC   t=47507162us gap=109638 dir=CCW CLK=1 DT=1 -> diterima
+[  30.73] [  47537] BTN   release clicks=2
+[  30.73] [  47551] REL   KEY1 release → Hi-Z
+[  30.73] [  47576] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.73] [  47671] REL   KEY1 release → Hi-Z
+[  30.93] [  47696] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  30.93] [  47791] REL   KEY1 release → Hi-Z
+[  30.93] [  47816] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.13] [  47911] REL   KEY1 release → Hi-Z
+[  31.13] [  47936] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.13] [  47937] BTN   resolve clicks=2 (2 press) -> NEXT
+[  31.13] [  47942] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[  31.13] [  48031] REL   KEY1 release → Hi-Z
+[  31.13] [  48037] REL   KEY2 release → Hi-Z
+[  31.13] [  48056] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.33] [  48151] REL   KEY1 release → Hi-Z
+[  31.33] [  48176] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.33] [  48271] REL   KEY1 release → Hi-Z
+[  31.33] [  48296] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.53] [  48391] REL   KEY1 release → Hi-Z
+[  31.53] [  48416] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  31.53] [  48511] REL   KEY1 release → Hi-Z
+[  32.13] [  49187] ENC   dir=CCW detent=4294967240
+[  32.13] [  49187] TRC   t=49187219us gap=1680057 dir=CCW CLK=1 DT=1 -> diterima
+[  32.13] [  49188] TRC   t=49187239us gap=20 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.13] [  49197] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.19] [  49208] ENC   dir=CCW detent=4294967239
+[  32.19] [  49209] TRC   t=49208968us gap=21749 dir=CCW CLK=1 DT=1 -> diterima
+[  32.19] [  49229] ENC   dir=CW  detent=4294967240
+[  32.19] [  49230] TRC   t=49229637us gap=20669 dir=CW  CLK=1 DT=0 -> diterima
+[  32.19] [  49230] TRC   t=49229674us gap=37 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.19] [  49234] TRC   t=49229704us gap=67 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  32.19] [  49241] TRC   t=49229717us gap=80 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  32.19] [  49266] ENC   dir=CCW detent=4294967239
+[  32.27] [  49266] TRC   t=49266529us gap=36892 dir=CCW CLK=1 DT=1 -> diterima
+[  32.27] [  49292] REL   KEY1 release → Hi-Z
+[  32.27] [  49317] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.27] [  49325] ENC   dir=CCW detent=4294967238
+[  32.27] [  49325] TRC   t=49325131us gap=58602 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  32.27] [  49326] TRC   t=49325151us gap=58622 dir=CCW CLK=1 DT=1 -> diterima
+[  32.27] [  49330] TRC   t=49325173us gap=22 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.27] [  49336] TRC   t=49325317us gap=166 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.32] [  49343] TRC   t=49325329us gap=178 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.32] [  49349] TRC   t=49325352us gap=201 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.32] [  49356] TRC   t=49352061us gap=26910 dir=CCW CLK=1 DT=1 -> diterima
+[  32.32] [  49362] ENC   dir=CCW detent=4294967237
+[  32.32] [  49378] ENC   dir=CCW detent=4294967236
+[  32.32] [  49378] TRC   t=49378092us gap=26031 dir=CCW CLK=1 DT=1 -> diterima
+[  32.32] [  49399] ENC   dir=CCW detent=4294967235
+[  32.32] [  49399] TRC   t=49399460us gap=21368 dir=CCW CLK=1 DT=1 -> diterima
+[  32.32] [  49412] REL   KEY1 release → Hi-Z
+[  32.37] [  49414] ENC   dir=CW  detent=4294967236
+[  32.37] [  49414] TRC   t=49414442us gap=14982 dir=CW  CLK=1 DT=0 -> diterima
+[  32.37] [  49415] TRC   t=49414452us gap=10 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.37] [  49420] TRC   t=49414469us gap=27 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.37] [  49437] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.37] [  49437] ENC   dir=CCW detent=4294967235
+[  32.37] [  49437] TRC   t=49436992us gap=22550 dir=CCW CLK=1 DT=1 -> diterima
+[  32.37] [  49466] ENC   dir=CCW detent=4294967234
+[  32.41] [  49466] TRC   t=49465972us gap=28980 dir=CCW CLK=1 DT=1 -> diterima
+[  32.41] [  49467] TRC   t=49465985us gap=13 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.41] [  49471] TRC   t=49466138us gap=166 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.41] [  49477] TRC   t=49466173us gap=201 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.41] [  49484] TRC   t=49466215us gap=243 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.41] [  49490] TRC   t=49466246us gap=274 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.41] [  49497] TRC   t=49466356us gap=384 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.54] [  49503] TRC   t=49491822us gap=25850 dir=CCW CLK=1 DT=1 -> diterima
+[  32.54] [  49510] ENC   dir=CCW detent=4294967233
+[  32.54] [  49532] REL   KEY1 release → Hi-Z
+[  32.54] [  49547] TRC   t=49547540us gap=55718 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  32.54] [  49557] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.54] [  49577] BTN   press
+[  32.54] [  49600] ENC   dir=CCW detent=4294967232
+[  32.54] [  49601] TRC   t=49600905us gap=109083 dir=CCW CLK=1 DT=1 -> diterima
+[  32.54] [  49601] TRC   t=49600913us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.54] [  49636] BTN   release clicks=1
+[  32.61] [  49652] REL   KEY1 release → Hi-Z
+[  32.61] [  49660] ENC   dir=CCW detent=4294967231
+[  32.61] [  49661] TRC   t=49660728us gap=59823 dir=CCW CLK=1 DT=1 -> diterima
+[  32.61] [  49661] TRC   t=49660813us gap=85 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  32.61] [  49677] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.61] [  49695] ENC   dir=CCW detent=4294967230
+[  32.61] [  49695] TRC   t=49694993us gap=34265 dir=CCW CLK=1 DT=1 -> diterima
+[  32.61] [  49695] TRC   t=49695001us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  32.78] [  49731] ENC   dir=CW  detent=4294967231
+[  32.78] [  49731] TRC   t=49731211us gap=36218 dir=CW  CLK=1 DT=0 -> diterima
+[  32.78] [  49761] BTN   press
+[  32.78] [  49772] REL   KEY1 release → Hi-Z
+[  32.78] [  49797] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.78] [  49797] ENC   dir=CCW detent=4294967230
+[  32.78] [  49797] TRC   t=49795671us gap=64460 dir=CCW CLK=1 DT=1 -> diterima
+[  32.79] [  49831] BTN   release clicks=2
+[  32.79] [  49888] TRC   t=49888463us gap=92792 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  32.79] [  49892] REL   KEY1 release → Hi-Z
+[  32.97] [  49917] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.97] [  49918] BTN   press
+[  32.97] [  49940] TRC   t=49940516us gap=144845 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  32.97] [  49941] TRC   t=49940567us gap=144896 dir=CCW CLK=1 DT=1 -> diterima
+[  32.97] [  49942] ENC   dir=CCW detent=4294967229
+[  32.97] [  49972] BTN   release clicks=3
+[  32.97] [  50012] REL   KEY1 release → Hi-Z
+[  32.97] [  50037] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  32.97] [  50059] BTN   press
+[  32.97] [  50111] ENC   dir=CCW detent=4294967228
+[  32.97] [  50111] TRC   t=50111327us gap=170760 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  33.11] [  50112] TRC   t=50111335us gap=170768 dir=CCW CLK=1 DT=1 -> diterima
+[  33.11] [  50132] REL   KEY1 release → Hi-Z
+[  33.11] [  50146] BTN   release clicks=4
+[  33.11] [  50157] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.11] [  50192] BTN   press
+[  33.11] [  50197] ENC   dir=CCW detent=4294967227
+[  33.11] [  50197] TRC   t=50197404us gap=86069 dir=CCW CLK=1 DT=1 -> diterima
+[  33.11] [  50248] TRC   t=50248603us gap=51199 dir=CCW CLK=1 DT=1 -> diterima
+[  33.11] [  50249] ENC   dir=CCW detent=4294967226
+[  33.11] [  50252] REL   KEY1 release → Hi-Z
+[  33.22] [  50277] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.22] [  50279] BTN   release clicks=5
+[  33.22] [  50286] ENC   dir=CCW detent=4294967225
+[  33.22] [  50286] TRC   t=50286528us gap=37925 dir=CCW CLK=1 DT=1 -> diterima
+[  33.22] [  50316] BTN   press
+[  33.22] [  50319] ENC   dir=CCW detent=4294967224
+[  33.22] [  50320] TRC   t=50319771us gap=33243 dir=CCW CLK=1 DT=1 -> diterima
+[  33.22] [  50372] REL   KEY1 release → Hi-Z
+[  33.22] [  50385] ENC   dir=CCW detent=4294967223
+[  33.22] [  50385] TRC   t=50385369us gap=65598 dir=CCW CLK=1 DT=1 -> diterima
+[  33.37] [  50397] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.37] [  50416] BTN   release clicks=6
+[  33.37] [  50480] BTN   press
+[  33.37] [  50483] ENC   dir=CCW detent=4294967222
+[  33.38] [  50483] TRC   t=50483290us gap=97921 dir=CCW CLK=1 DT=1 -> diterima
+[  33.38] [  50492] REL   KEY1 release → Hi-Z
+[  33.38] [  50517] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.38] [  50518] BTN   release clicks=7
+[  33.38] [  50526] TRC   t=50526323us gap=43033 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[  33.38] [  50556] BTN   press
+[  33.38] [  50560] ENC   dir=CCW detent=4294967221
+[  33.52] [  50560] TRC   t=50560430us gap=77140 dir=CCW CLK=1 DT=1 -> diterima
+[  33.52] [  50591] BTN   release clicks=8
+[  33.52] [  50612] REL   KEY1 release → Hi-Z
+[  33.52] [  50637] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.52] [  50642] ENC   dir=CW  detent=4294967222
+[  33.52] [  50642] TRC   t=50642445us gap=82015 dir=CW  CLK=1 DT=0 -> diterima
+[  33.52] [  50643] TRC   t=50642453us gap=8 dir=CW  CLK=1 DT=0 -> tolak debounce
+[  33.52] [  50678] BTN   press
+[  33.52] [  50693] ENC   dir=CCW detent=4294967221
+[  33.52] [  50694] TRC   t=50693708us gap=51263 dir=CCW CLK=1 DT=1 -> diterima
+[  33.72] [  50724] BTN   release clicks=9
+[  33.72] [  50732] REL   KEY1 release → Hi-Z
+[  33.72] [  50757] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.72] [  50852] REL   KEY1 release → Hi-Z
+[  33.72] [  50877] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.92] [  50972] REL   KEY1 release → Hi-Z
+[  33.92] [  50997] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.92] [  51092] REL   KEY1 release → Hi-Z
+[  33.92] [  51117] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  33.92] [  51124] BTN   klik x9 diabaikan (maks 3)
+[  34.12] [  51212] REL   KEY1 release → Hi-Z
+[  34.12] [  51237] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  34.12] [  51332] REL   KEY1 release → Hi-Z
+[  34.12] [  51357] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  34.32] [  51452] REL   KEY1 release → Hi-Z
+[  34.32] [  51477] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  34.32] [  51572] REL   KEY1 release → Hi-Z
+[ 190.55] [ 205840] BTN   press
+[ 190.75] [ 206041] ENC   dir=CCW detent=4294967220
+[ 190.75] [ 206041] TRC   t=206041160us gap=155347452 dir=CCW CLK=1 DT=1 -> diterima
+[ 190.75] [ 206047] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 190.75] [ 206072] BTN   release clicks=1
+[ 190.75] [ 206142] REL   KEY1 release → Hi-Z
+[ 191.15] [ 206472] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 191.15] [ 206477] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 191.15] [ 206572] REL   KEY1 release → Hi-Z
+[ 193.93] [ 209568] TRC   t=209568458us gap=3527298 dir=CCW CLK=1 DT=1 -> diterima
+[ 193.93] [ 209569] ENC   dir=CCW detent=4294967219
+[ 193.93] [ 209574] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 193.93] [ 209580] ENC   dir=CCW detent=4294967218
+[ 193.93] [ 209580] TRC   t=209580256us gap=11798 dir=CCW CLK=1 DT=1 -> diterima
+[ 193.93] [ 209621] ENC   dir=CCW detent=4294967217
+[ 193.93] [ 209621] TRC   t=209621605us gap=41349 dir=CCW CLK=1 DT=1 -> diterima
+[ 193.93] [ 209669] REL   KEY1 release → Hi-Z
+[ 194.13] [ 209694] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 194.13] [ 209789] REL   KEY1 release → Hi-Z
+[ 194.13] [ 209814] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 194.13] [ 209909] REL   KEY1 release → Hi-Z
+[ 194.53] [ 210293] TRC   t=210293412us gap=671807 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 194.53] [ 210311] ENC   dir=CCW detent=4294967216
+[ 194.53] [ 210311] TRC   t=210311285us gap=689680 dir=CCW CLK=1 DT=1 -> diterima
+[ 194.53] [ 210317] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 194.73] [ 210362] ENC   dir=CCW detent=4294967215
+[ 194.73] [ 210362] TRC   t=210362189us gap=50904 dir=CCW CLK=1 DT=1 -> diterima
+[ 194.73] [ 210412] REL   KEY1 release → Hi-Z
+[ 194.73] [ 210437] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 194.73] [ 210532] REL   KEY1 release → Hi-Z
+[ 195.13] [ 210851] BTN   press
+[ 195.13] [ 210854] ENC   dir=CCW detent=4294967214
+[ 195.13] [ 210854] TRC   t=210854345us gap=492156 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.13] [ 210860] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.13] [ 210885] BTN   release clicks=1
+[ 195.13] [ 210955] REL   KEY1 release → Hi-Z
+[ 195.13] [ 210962] ENC   dir=CCW detent=4294967213
+[ 195.13] [ 210963] TRC   t=210962900us gap=108555 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.13] [ 210980] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.31] [ 211020] ENC   dir=CCW detent=4294967212
+[ 195.31] [ 211020] TRC   t=211020030us gap=57130 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.31] [ 211075] REL   KEY1 release → Hi-Z
+[ 195.31] [ 211100] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.31] [ 211147] ENC   dir=CCW detent=4294967211
+[ 195.31] [ 211148] TRC   t=211147824us gap=127794 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.31] [ 211148] TRC   t=211147832us gap=8 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 195.31] [ 211195] REL   KEY1 release → Hi-Z
+[ 195.31] [ 211196] ENC   dir=CCW detent=4294967210
+[ 195.42] [ 211197] TRC   t=211196810us gap=48986 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.42] [ 211220] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.42] [ 211258] ENC   dir=CCW detent=4294967209
+[ 195.42] [ 211259] TRC   t=211258880us gap=62070 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.42] [ 211289] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 195.42] [ 211294] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 195.42] [ 211316] ENC   dir=CCW detent=4294967208
+[ 195.42] [ 211316] TRC   t=211315986us gap=57106 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 195.61] [ 211316] TRC   t=211315993us gap=57113 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.61] [ 211340] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.61] [ 211410] ENC   dir=CCW detent=4294967207
+[ 195.61] [ 211411] TRC   t=211410827us gap=94834 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.61] [ 211428] ENC   dir=CCW detent=4294967206
+[ 195.61] [ 211429] TRC   t=211428690us gap=17863 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.61] [ 211435] REL   KEY1 release → Hi-Z
+[ 195.61] [ 211460] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.61] [ 211529] ENC   dir=CCW detent=4294967205
+[ 195.81] [ 211529] TRC   t=211529546us gap=100856 dir=CCW CLK=1 DT=1 -> diterima
+[ 195.81] [ 211555] REL   KEY1 release → Hi-Z
+[ 195.81] [ 211580] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 195.81] [ 211675] REL   KEY1 release → Hi-Z
+[ 195.81] [ 211700] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 196.01] [ 211795] REL   KEY1 release → Hi-Z
+[ 196.01] [ 211820] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 196.01] [ 211915] REL   KEY1 release → Hi-Z
+[ 196.01] [ 211940] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 196.21] [ 212035] REL   KEY1 release → Hi-Z
+[ 198.01] [ 214128] BTN   press
+[ 198.01] [ 214142] ENC   dir=CCW detent=4294967204
+[ 198.01] [ 214142] TRC   t=214142240us gap=2612694 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.01] [ 214148] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 198.13] [ 214173] BTN   release clicks=1
+[ 198.13] [ 214243] REL   KEY1 release → Hi-Z
+[ 198.13] [ 214247] TRC   t=214247205us gap=104965 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.13] [ 214248] TRC   t=214247337us gap=105097 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.13] [ 214249] TRC   t=214247354us gap=17 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.13] [ 214255] TRC   t=214247362us gap=25 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.13] [ 214262] TRC   t=214248926us gap=1589 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.17] [ 214268] TRC   t=214249185us gap=1848 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.17] [ 214274] TRC   t=214249205us gap=20 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.17] [ 214281] TRC   t=214249525us gap=340 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.17] [ 214287] TRC   t=214249541us gap=356 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.17] [ 214294] TRC   t=214249553us gap=368 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.17] [ 214301] TRC   t=214249566us gap=381 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.17] [ 214307] TRC   t=214249576us gap=391 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.21] [ 214314] TRC   t=214249985us gap=800 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.21] [ 214320] TRC   t=214250026us gap=841 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.21] [ 214327] TRC   t=214250244us gap=1059 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.21] [ 214334] TRC   t=214250324us gap=1139 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.21] [ 214340] TRC   t=214250358us gap=1173 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.21] [ 214347] TRC   t=214252437us gap=3252 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.21] [ 214353] TRC   t=214253021us gap=584 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.25] [ 214360] TRC   t=214253029us gap=592 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.25] [ 214366] TRC   t=214253149us gap=712 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.25] [ 214373] TRC   t=214253157us gap=720 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.25] [ 214379] TRC   t=214253180us gap=743 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.25] [ 214386] TRC   t=214253188us gap=751 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.25] [ 214393] TRC   t=214253200us gap=763 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.25] [ 214399] TRC   t=214253218us gap=781 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.29] [ 214406] TRC   t=214253957us gap=1520 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.29] [ 214412] TRC   t=214253976us gap=19 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.29] [ 214418] TRC   t=214254064us gap=107 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.29] [ 214425] TRC   t=214254633us gap=676 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.29] [ 214432] TRC   t=214254915us gap=958 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.29] [ 214438] TRC   t=214255271us gap=1314 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.33] [ 214445] TRC   t=214255388us gap=1431 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.33] [ 214452] TRC   t=214256179us gap=2222 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.33] [ 214458] TRC   t=214256297us gap=2340 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.33] [ 214464] TRC   t=214256625us gap=328 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.33] [ 214471] TRC   t=214256651us gap=354 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.33] [ 214477] TRC   t=214257086us gap=789 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.33] [ 214484] TRC   t=214257834us gap=1537 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.37] [ 214490] TRC   t=214258055us gap=1758 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.37] [ 214497] TRC   t=214258080us gap=25 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.37] [ 214503] TRC   t=214258972us gap=917 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.37] [ 214510] TRC   t=214259197us gap=1142 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.38] [ 214516] TRC   t=214259234us gap=1179 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.38] [ 214523] TRC   t=214259266us gap=1211 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.38] [ 214530] TRC   t=214259675us gap=1620 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.42] [ 214536] TRC   t=214259826us gap=151 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.42] [ 214542] TRC   t=214259875us gap=200 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.42] [ 214549] TRC   t=214260240us gap=565 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.42] [ 214556] TRC   t=214260254us gap=579 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.42] [ 214562] TRC   t=214260269us gap=594 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.42] [ 214569] TRC   t=214260566us gap=891 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.42] [ 214575] TRC   t=214260972us gap=1297 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.46] [ 214582] TRC   t=214260980us gap=1305 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.46] [ 214589] TRC   t=214260997us gap=1322 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.46] [ 214595] TRC   t=214261224us gap=1549 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.46] [ 214602] TRC   t=214261369us gap=1694 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.46] [ 214608] TRC   t=214261886us gap=517 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.46] [ 214615] TRC   t=214262144us gap=775 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.46] [ 214621] TRC   t=214262194us gap=825 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.50] [ 214628] TRC   t=214262202us gap=833 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.50] [ 214634] TRC   t=214262341us gap=972 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.50] [ 214641] TRC   t=214262472us gap=1103 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.50] [ 214648] TRC   t=214263194us gap=1825 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.50] [ 214654] TRC   t=214263327us gap=133 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.50] [ 214660] TRC   t=214263343us gap=149 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.54] [ 214667] TRC   t=214263393us gap=199 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 198.54] [ 214674] TRC   t=214338556us gap=75362 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.54] [ 214680] TRC   t=214371764us gap=33208 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.54] [ 214686] TRC   t=214371813us gap=49 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.54] [ 214693] TRC   t=214406929us gap=35165 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.54] [ 214699] TRC   t=214474670us gap=67741 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.54] [ 214705] TRC   t=214474715us gap=45 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.58] [ 214712] TRC   t=214474731us gap=61 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.58] [ 214718] TRC   t=214474796us gap=126 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 198.58] [ 214725] TRC   t=214474867us gap=197 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 198.58] [ 214731] TRC   t=214541723us gap=67053 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.58] [ 214738] TRC   t=214547280us gap=5557 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.58] [ 214744] TRC   t=214547624us gap=5901 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.58] [ 214750] TRC   t=214657734us gap=116011 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.58] [ 214757] ENC   dir=CW  detent=4294967205
+[ 198.70] [ 214766] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[ 198.70] [ 214787] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 198.70] [ 214792] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 198.70] [ 214849] TRC   t=214849933us gap=192199 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 198.70] [ 214879] BTN   press
+[ 198.70] [ 214879] ENC   dir=CCW detent=4294967204
+[ 198.70] [ 214879] TRC   t=214879192us gap=221458 dir=CCW CLK=1 DT=1 -> diterima
+[ 198.70] [ 214885] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[ 198.70] [ 214886] ENC   dir=CW  detent=4294967205
+[ 198.90] [ 214889] TRC   t=214886659us gap=7467 dir=CW  CLK=1 DT=0 -> diterima
+[ 198.90] [ 214980] REL   KEY1 release → Hi-Z
+[ 198.90] [ 215005] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[ 198.90] [ 215100] REL   KEY1 release → Hi-Z
+[ 199.10] [ 215125] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[ 199.10] [ 215125] ENC   dir=CCW detent=4294967204
+[ 199.10] [ 215125] TRC   t=215122624us gap=235965 dir=CCW CLK=1 DT=1 -> diterima
+[ 199.10] [ 215159] BTN   release clicks=1
+[ 199.10] [ 215220] REL   KEY1 release → Hi-Z
+[ 199.50] [ 215559] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 199.50] [ 215564] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 199.50] [ 215659] REL   KEY1 release → Hi-Z
+[ 199.90] [ 216189] BTN   press
+[ 199.90] [ 216194] ENC   dir=CCW detent=4294967203
+[ 199.90] [ 216194] TRC   t=216194264us gap=1071640 dir=CCW CLK=1 DT=1 -> diterima
+[ 199.90] [ 216200] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.07] [ 216224] BTN   release clicks=1
+[ 200.07] [ 216291] ENC   dir=CCW detent=4294967202
+[ 200.07] [ 216292] TRC   t=216291954us gap=97690 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.07] [ 216295] REL   KEY1 release → Hi-Z
+[ 200.07] [ 216320] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.07] [ 216339] ENC   dir=CCW detent=4294967201
+[ 200.07] [ 216339] TRC   t=216339326us gap=47372 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.07] [ 216384] ENC   dir=CCW detent=4294967200
+[ 200.07] [ 216385] TRC   t=216384778us gap=45452 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.15] [ 216390] ENC   dir=CCW detent=4294967199
+[ 200.15] [ 216391] TRC   t=216390880us gap=6102 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 200.15] [ 216393] TRC   t=216390905us gap=6127 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.15] [ 216415] REL   KEY1 release → Hi-Z
+[ 200.15] [ 216420] BTN   press
+[ 200.15] [ 216423] ENC   dir=CCW detent=4294967198
+[ 200.15] [ 216424] TRC   t=216423780us gap=32875 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.15] [ 216440] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.15] [ 216454] BTN   release clicks=2
+[ 200.15] [ 216483] ENC   dir=CCW detent=4294967197
+[ 200.30] [ 216484] TRC   t=216483913us gap=60133 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.30] [ 216515] ENC   dir=CCW detent=4294967196
+[ 200.30] [ 216515] TRC   t=216515384us gap=31471 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.30] [ 216535] REL   KEY1 release → Hi-Z
+[ 200.30] [ 216560] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.30] [ 216560] ENC   dir=CCW detent=4294967195
+[ 200.30] [ 216560] TRC   t=216558500us gap=43116 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.30] [ 216611] ENC   dir=CCW detent=4294967194
+[ 200.30] [ 216612] TRC   t=216611746us gap=53246 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.50] [ 216655] REL   KEY1 release → Hi-Z
+[ 200.50] [ 216680] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.50] [ 216718] ENC   dir=CCW detent=4294967193
+[ 200.50] [ 216718] TRC   t=216718131us gap=106385 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.50] [ 216775] REL   KEY1 release → Hi-Z
+[ 200.50] [ 216800] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.50] [ 216828] ENC   dir=CCW detent=4294967192
+[ 200.50] [ 216828] TRC   t=216828157us gap=110026 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.50] [ 216858] BTN   resolve clicks=2 (2 press) -> NEXT
+[ 200.70] [ 216863] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[ 200.70] [ 216895] REL   KEY1 release → Hi-Z
+[ 200.70] [ 216920] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.70] [ 216957] ENC   dir=CCW detent=4294967191
+[ 200.70] [ 216957] TRC   t=216957411us gap=129254 dir=CCW CLK=1 DT=1 -> diterima
+[ 200.70] [ 216958] REL   KEY2 release → Hi-Z
+[ 200.70] [ 217008] BTN   press
+[ 200.70] [ 217015] REL   KEY1 release → Hi-Z
+[ 200.70] [ 217040] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.90] [ 217135] REL   KEY1 release → Hi-Z
+[ 200.90] [ 217160] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 200.90] [ 217255] REL   KEY1 release → Hi-Z
+[ 200.90] [ 217280] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 201.10] [ 217322] ENC   dir=CCW detent=4294967190
+[ 201.10] [ 217323] TRC   t=217322947us gap=365536 dir=CCW CLK=1 DT=1 -> diterima
+[ 201.10] [ 217323] TRC   t=217323107us gap=160 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 201.10] [ 217328] TRC   t=217323302us gap=355 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 201.10] [ 217352] BTN   release clicks=1
+[ 201.10] [ 217375] REL   KEY1 release → Hi-Z
+[ 201.10] [ 217400] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 201.10] [ 217495] REL   KEY1 release → Hi-Z
+[ 201.30] [ 217520] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 201.30] [ 217615] REL   KEY1 release → Hi-Z
+[ 201.30] [ 217640] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 201.30] [ 217735] REL   KEY1 release → Hi-Z
+[ 201.50] [ 217752] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 201.50] [ 217757] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 201.50] [ 217763] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 201.50] [ 217858] REL   KEY1 release → Hi-Z
+[ 203.90] [ 220490] TRC   t=220490851us gap=3167904 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 203.90] [ 220513] ENC   dir=CCW detent=4294967189
+[ 203.90] [ 220513] TRC   t=220513222us gap=3190275 dir=CCW CLK=1 DT=1 -> diterima
+[ 203.90] [ 220519] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 203.90] [ 220528] ENC   dir=CCW detent=4294967188
+[ 203.90] [ 220528] TRC   t=220528156us gap=14934 dir=CCW CLK=1 DT=1 -> diterima
+[ 203.90] [ 220568] BTN   press
+[ 203.90] [ 220574] ENC   dir=CCW detent=4294967187
+[ 203.90] [ 220574] TRC   t=220574030us gap=45874 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.07] [ 220601] ENC   dir=CCW detent=4294967186
+[ 204.07] [ 220601] TRC   t=220601476us gap=27446 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.07] [ 220614] REL   KEY1 release → Hi-Z
+[ 204.07] [ 220632] BTN   release clicks=1
+[ 204.07] [ 220639] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.07] [ 220734] REL   KEY1 release → Hi-Z
+[ 204.07] [ 220743] ENC   dir=CW  detent=4294967187
+[ 204.07] [ 220743] TRC   t=220743414us gap=141938 dir=CW  CLK=1 DT=0 -> diterima
+[ 204.07] [ 220744] TRC   t=220743427us gap=13 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.18] [ 220748] TRC   t=220743434us gap=20 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.18] [ 220760] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.18] [ 220766] ENC   dir=CCW detent=4294967186
+[ 204.18] [ 220766] TRC   t=220766521us gap=23107 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.18] [ 220773] BTN   press
+[ 204.18] [ 220795] ENC   dir=CCW detent=4294967185
+[ 204.18] [ 220795] TRC   t=220795622us gap=29101 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.18] [ 220826] BTN   release clicks=2
+[ 204.18] [ 220855] REL   KEY1 release → Hi-Z
+[ 204.18] [ 220880] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.30] [ 220888] TRC   t=220888916us gap=93294 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 204.30] [ 220889] TRC   t=220888946us gap=93324 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 204.30] [ 220891] TRC   t=220889116us gap=93494 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 204.30] [ 220918] BTN   press
+[ 204.30] [ 220920] ENC   dir=CCW detent=4294967184
+[ 204.30] [ 220920] TRC   t=220920271us gap=124649 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.30] [ 220951] BTN   release clicks=3
+[ 204.30] [ 220975] REL   KEY1 release → Hi-Z
+[ 204.30] [ 221000] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.34] [ 221011] ENC   dir=CCW detent=4294967183
+[ 204.34] [ 221011] TRC   t=221011204us gap=90933 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 204.34] [ 221012] TRC   t=221011217us gap=90946 dir=CW  CLK=0 DT=0 -> tolak CLK=0
+[ 204.34] [ 221017] TRC   t=221011230us gap=90959 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.34] [ 221023] TRC   t=221011338us gap=108 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.34] [ 221029] TRC   t=221011356us gap=126 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.34] [ 221036] TRC   t=221011378us gap=148 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.38] [ 221043] TRC   t=221011462us gap=232 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 204.38] [ 221049] TRC   t=221011477us gap=247 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.38] [ 221056] TRC   t=221011502us gap=272 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 204.38] [ 221062] TRC   t=221011520us gap=290 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.38] [ 221069] TRC   t=221011532us gap=302 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.38] [ 221076] TRC   t=221011559us gap=329 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.38] [ 221082] TRC   t=221011567us gap=337 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 204.56] [ 221089] TRC   t=221011581us gap=351 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.56] [ 221095] TRC   t=221011708us gap=478 dir=CCW CLK=1 DT=1 -> tolak debounce
+[ 204.56] [ 221102] TRC   t=221038227us gap=26997 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.56] [ 221108] REL   KEY1 release → Hi-Z
+[ 204.56] [ 221112] ENC   dir=CCW detent=4294967182
+[ 204.56] [ 221120] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.56] [ 221215] REL   KEY1 release → Hi-Z
+[ 204.56] [ 221240] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.56] [ 221294] ENC   dir=CCW detent=4294967181
+[ 204.70] [ 221294] TRC   t=221294423us gap=256196 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.70] [ 221325] BTN   press
+[ 204.70] [ 221335] REL   KEY1 release → Hi-Z
+[ 204.70] [ 221340] ENC   dir=CCW detent=4294967180
+[ 204.70] [ 221340] TRC   t=221340034us gap=45611 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.70] [ 221344] ENC   dir=CCW detent=4294967179
+[ 204.70] [ 221344] TRC   t=221344647us gap=4613 dir=CCW CLK=1 DT=1 -> diterima
+[ 204.70] [ 221348] TRC   t=221345926us gap=1279 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 204.70] [ 221360] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.90] [ 221455] REL   KEY1 release → Hi-Z
+[ 204.90] [ 221480] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.91] [ 221575] REL   KEY1 release → Hi-Z
+[ 204.91] [ 221600] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 204.96] [ 221693] ENC   dir=CW  detent=4294967180
+[ 204.96] [ 221694] TRC   t=221693893us gap=349246 dir=CW  CLK=1 DT=0 -> diterima
+[ 204.96] [ 221694] TRC   t=221693973us gap=80 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.96] [ 221699] TRC   t=221694005us gap=112 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 204.96] [ 221706] TRC   t=221694212us gap=319 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 204.96] [ 221712] TRC   t=221694235us gap=342 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 204.96] [ 221719] TRC   t=221694252us gap=359 dir=CW  CLK=0 DT=0 -> tolak debounce
+[ 205.16] [ 221725] TRC   t=221694363us gap=470 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 205.16] [ 221732] TRC   t=221694388us gap=495 dir=CW  CLK=1 DT=0 -> tolak debounce
+[ 205.16] [ 221739] BTN   release clicks=4
+[ 205.16] [ 221742] REL   KEY1 release → Hi-Z
+[ 205.36] [ 222139] BTN   klik x4 diabaikan (maks 3)
+[ 208.57] [ 225655] BTN   press
+[ 208.77] [ 225821] ENC   dir=CCW detent=4294967179
+[ 208.77] [ 225822] TRC   t=225821903us gap=4128010 dir=CCW CLK=1 DT=1 -> diterima
+[ 208.77] [ 225827] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 208.77] [ 225852] BTN   release clicks=1
+[ 208.97] [ 225922] REL   KEY1 release → Hi-Z
+[ 209.17] [ 226252] BTN   resolve clicks=1 (1 press) -> PLAY
+[ 209.17] [ 226257] ACT   slot=PLAY line=KEY1 duty=800 meas=-- emit 100ms
+[ 209.37] [ 226352] REL   KEY1 release → Hi-Z
+[ 210.17] [ 227249] BTN   press
+[ 210.17] [ 227388] ENC   dir=CCW detent=4294967178
+[ 210.17] [ 227388] TRC   t=227388461us gap=1566558 dir=CCW CLK=1 DT=1 -> diterima
+[ 210.17] [ 227394] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 210.37] [ 227419] BTN   release clicks=1
+[ 210.37] [ 227489] REL   KEY1 release → Hi-Z
+[ 210.57] [ 227659] BTN   press
+[ 210.57] [ 227784] ENC   dir=CCW detent=4294967177
+[ 210.57] [ 227785] TRC   t=227784853us gap=396392 dir=CCW CLK=1 DT=1 -> diterima
+[ 210.57] [ 227790] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[ 210.57] [ 227815] BTN   release clicks=2
+[ 210.77] [ 227885] REL   KEY1 release → Hi-Z
+[ 210.97] [ 228215] BTN   resolve clicks=2 (2 press) -> NEXT
+[ 210.97] [ 228220] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[ 211.17] [ 228315] REL   KEY2 release → Hi-Z
+[ 300.00] === capture selesai ===

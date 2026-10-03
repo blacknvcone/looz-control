@@ -1,0 +1,682 @@
+[   0.00] === capture mulai — PUTAR KNOB SEKARANG ===
+[   0.20] OK    log level=3
+[   6.01] [ 519472] TRC   t=519472287us gap=470699781 dir=CCW CLK=1 DT=0 -> diterima
+[   6.65] [ 520213] ENC   dir=CCW detent=-1
+[   6.65] [ 520213] TRC   t=520213642us gap=741355 dir=CCW CLK=0 DT=0 -> diterima
+[   6.66] [ 520214] TRC   t=520213651us gap=9 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   6.66] [ 520218] TRC   t=520213664us gap=22 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   6.66] [ 520225] TRC   t=520218648us gap=5006 dir=CCW CLK=0 DT=1 -> diterima
+[   6.66] [ 520231] TRC   t=520221999us gap=3351 dir=CCW CLK=1 DT=1 -> diterima
+[   6.66] [ 520237] TRC   t=520222013us gap=14 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[   6.86] [ 520249] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   6.86] [ 520344] REL   KEY1 release → Hi-Z
+[   6.86] [ 520466] TRC   t=520466382us gap=244383 dir=CCW CLK=1 DT=0 -> diterima
+[   6.91] [ 520495] ENC   dir=CCW detent=-2
+[   6.91] [ 520495] TRC   t=520495344us gap=28962 dir=CCW CLK=0 DT=0 -> diterima
+[   6.91] [ 520496] TRC   t=520495353us gap=9 dir=CW  CLK=1 DT=0 -> tolak debounce
+[   6.91] [ 520500] TRC   t=520495361us gap=17 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[   6.91] [ 520506] TRC   t=520495374us gap=30 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[   6.91] [ 520513] TRC   t=520495382us gap=38 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[   6.91] [ 520520] TRC   t=520495395us gap=51 dir=CCW CLK=0 DT=0 -> tolak debounce
+[   7.03] [ 520526] TRC   t=520495403us gap=59 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   7.03] [ 520533] TRC   t=520498501us gap=3157 dir=CCW CLK=0 DT=1 -> diterima
+[   7.03] [ 520539] TRC   t=520500680us gap=2179 dir=CCW CLK=1 DT=1 -> diterima
+[   7.03] [ 520545] TRC   t=520537599us gap=36919 dir=CCW CLK=1 DT=0 -> diterima
+[   7.03] [ 520557] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   7.03] [ 520651] ENC   dir=CCW detent=-3
+[   7.03] [ 520651] TRC   t=520651352us gap=113753 dir=CCW CLK=0 DT=0 -> diterima
+[   7.23] [ 520652] TRC   t=520651366us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   7.23] [ 520656] TRC   t=520656019us gap=4667 dir=CCW CLK=0 DT=1 -> diterima
+[   7.23] [ 520662] TRC   t=520656028us gap=9 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[   7.23] [ 520669] TRC   t=520658861us gap=2842 dir=CCW CLK=1 DT=1 -> diterima
+[   7.23] [ 520680] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   7.23] [ 520775] REL   KEY1 release → Hi-Z
+[   7.43] [ 520899] TRC   t=520899352us gap=240491 dir=CCW CLK=1 DT=0 -> diterima
+[   7.43] [ 520938] ENC   dir=CCW detent=-4
+[   7.43] [ 520939] TRC   t=520938844us gap=39492 dir=CCW CLK=0 DT=0 -> diterima
+[   7.43] [ 520944] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   7.43] [ 520945] TRC   t=520943442us gap=4598 dir=CCW CLK=0 DT=1 -> diterima
+[   7.43] [ 520948] TRC   t=520946701us gap=3259 dir=CCW CLK=1 DT=1 -> diterima
+[   7.43] [ 520955] TRC   t=520946714us gap=13 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[   7.43] [ 521039] REL   KEY1 release → Hi-Z
+[   7.52] [ 521141] TRC   t=521141908us gap=195207 dir=CCW CLK=1 DT=0 -> diterima
+[   7.52] [ 521142] TRC   t=521141950us gap=42 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[   7.52] [ 521144] TRC   t=521142012us gap=104 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[   7.52] [ 521181] ENC   dir=CCW detent=-5
+[   7.52] [ 521182] TRC   t=521181930us gap=40022 dir=CCW CLK=0 DT=0 -> diterima
+[   7.52] [ 521187] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   7.52] [ 521188] TRC   t=521187494us gap=5564 dir=CCW CLK=0 DT=1 -> diterima
+[   7.72] [ 521192] TRC   t=521190816us gap=3322 dir=CCW CLK=1 DT=1 -> diterima
+[   7.72] [ 521282] REL   KEY1 release → Hi-Z
+[   7.72] [ 521343] TRC   t=521343603us gap=152787 dir=CCW CLK=1 DT=0 -> diterima
+[   7.72] [ 521383] ENC   dir=CCW detent=-6
+[   7.72] [ 521384] TRC   t=521383837us gap=40234 dir=CCW CLK=0 DT=0 -> diterima
+[   7.72] [ 521384] TRC   t=521383851us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   7.72] [ 521388] TRC   t=521383859us gap=22 dir=CW  CLK=1 DT=0 -> tolak debounce
+[   7.72] [ 521395] TRC   t=521383867us gap=30 dir=CCW CLK=0 DT=0 -> tolak debounce
+[   7.83] [ 521401] TRC   t=521394142us gap=10305 dir=CCW CLK=0 DT=1 -> diterima
+[   7.83] [ 521408] TRC   t=521394155us gap=13 dir=CW  CLK=0 DT=0 -> tolak debounce
+[   7.83] [ 521414] TRC   t=521394163us gap=21 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[   7.83] [ 521421] TRC   t=521394175us gap=33 dir=CCW CLK=0 DT=1 -> tolak debounce
+[   7.83] [ 521427] TRC   t=521394188us gap=46 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[   7.83] [ 521434] TRC   t=521398457us gap=4315 dir=CCW CLK=1 DT=1 -> diterima
+[   7.83] [ 521446] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[   8.03] [ 521541] REL   KEY1 release → Hi-Z
+[  10.09] [ 523963] TRC   t=523963372us gap=2564915 dir=CCW CLK=1 DT=0 -> diterima
+[  10.09] [ 523963] TRC   t=523963556us gap=184 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.09] [ 523965] TRC   t=523963563us gap=191 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.09] [ 523972] TRC   t=523963576us gap=204 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.09] [ 523979] TRC   t=523963583us gap=211 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.09] [ 523986] TRC   t=523978144us gap=14772 dir=CCW CLK=0 DT=0 -> diterima
+[  10.13] [ 523992] TRC   t=523978153us gap=9 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.13] [ 523999] TRC   t=523980551us gap=2407 dir=CCW CLK=0 DT=1 -> diterima
+[  10.13] [ 524005] TRC   t=523982379us gap=1828 dir=CCW CLK=1 DT=1 -> diterima
+[  10.13] [ 524011] TRC   t=524007844us gap=25465 dir=CCW CLK=1 DT=0 -> diterima
+[  10.13] [ 524017] ENC   dir=CCW detent=-7
+[  10.13] [ 524025] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.13] [ 524026] ENC   dir=CCW detent=-8
+[  10.13] [ 524029] TRC   t=524023442us gap=15598 dir=CCW CLK=0 DT=0 -> diterima
+[  10.20] [ 524035] TRC   t=524023457us gap=15 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.20] [ 524042] TRC   t=524026866us gap=3424 dir=CCW CLK=0 DT=1 -> diterima
+[  10.20] [ 524048] TRC   t=524026875us gap=9 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  10.20] [ 524055] TRC   t=524028960us gap=2094 dir=CCW CLK=1 DT=1 -> diterima
+[  10.20] [ 524099] TRC   t=524099822us gap=70862 dir=CCW CLK=1 DT=0 -> diterima
+[  10.20] [ 524100] TRC   t=524099846us gap=24 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.20] [ 524101] TRC   t=524099853us gap=31 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.20] [ 524120] REL   KEY1 release → Hi-Z
+[  10.24] [ 524127] ENC   dir=CCW detent=-9
+[  10.24] [ 524127] TRC   t=524127308us gap=27486 dir=CCW CLK=0 DT=0 -> diterima
+[  10.24] [ 524128] TRC   t=524127339us gap=31 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.24] [ 524132] TRC   t=524127352us gap=44 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.24] [ 524139] TRC   t=524127360us gap=52 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.24] [ 524145] TRC   t=524127373us gap=65 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.24] [ 524152] TRC   t=524127381us gap=73 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.32] [ 524159] TRC   t=524127389us gap=81 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.32] [ 524166] TRC   t=524131840us gap=4532 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.32] [ 524173] TRC   t=524131852us gap=4544 dir=CCW CLK=0 DT=1 -> diterima
+[  10.32] [ 524179] TRC   t=524131861us gap=9 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  10.32] [ 524186] TRC   t=524134355us gap=2503 dir=CCW CLK=1 DT=1 -> diterima
+[  10.32] [ 524197] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.32] [ 524252] TRC   t=524252197us gap=117842 dir=CCW CLK=1 DT=0 -> diterima
+[  10.36] [ 524253] TRC   t=524252205us gap=8 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.36] [ 524254] TRC   t=524252213us gap=16 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.36] [ 524260] TRC   t=524252221us gap=24 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.36] [ 524267] TRC   t=524252233us gap=36 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.36] [ 524274] TRC   t=524252246us gap=49 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.36] [ 524280] TRC   t=524252254us gap=57 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.36] [ 524287] TRC   t=524252262us gap=65 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.40] [ 524293] TRC   t=524252396us gap=199 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.40] [ 524300] TRC   t=524252461us gap=264 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.40] [ 524307] TRC   t=524252480us gap=283 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.41] [ 524314] TRC   t=524252493us gap=296 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.41] [ 524321] TRC   t=524252501us gap=304 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.41] [ 524328] TRC   t=524252529us gap=332 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.45] [ 524334] TRC   t=524252541us gap=344 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.45] [ 524341] TRC   t=524252549us gap=352 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.45] [ 524347] TRC   t=524252560us gap=363 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.45] [ 524354] TRC   t=524252578us gap=381 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.45] [ 524361] TRC   t=524252591us gap=394 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.45] [ 524368] TRC   t=524252598us gap=401 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.45] [ 524375] TRC   t=524252655us gap=458 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524381] TRC   t=524252662us gap=465 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524388] TRC   t=524252700us gap=503 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524395] TRC   t=524252708us gap=511 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524402] TRC   t=524252716us gap=519 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524409] TRC   t=524252739us gap=542 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.49] [ 524416] TRC   t=524252747us gap=550 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.53] [ 524423] TRC   t=524252755us gap=558 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.53] [ 524429] TRC   t=524252775us gap=578 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.53] [ 524436] TRC   t=524252788us gap=591 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.53] [ 524443] TRC   t=524252795us gap=598 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.53] [ 524449] TRC   t=524252824us gap=627 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.53] [ 524456] TRC   t=524252837us gap=640 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.53] [ 524462] TRC   t=524252851us gap=654 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.57] [ 524469] TRC   t=524252872us gap=675 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.57] [ 524476] TRC   t=524253141us gap=944 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.57] [ 524482] TRC   t=524253168us gap=971 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.57] [ 524489] TRC   t=524253199us gap=1002 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.57] [ 524496] TRC   t=524253239us gap=1042 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.57] [ 524503] TRC   t=524253255us gap=1058 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.61] [ 524510] TRC   t=524253284us gap=1087 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.61] [ 524517] TRC   t=524253316us gap=1119 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.61] [ 524524] TRC   t=524253333us gap=1136 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.61] [ 524531] TRC   t=524284876us gap=32679 dir=CCW CLK=0 DT=0 -> diterima
+[  10.61] [ 524537] TRC   t=524284890us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.61] [ 524544] TRC   t=524284900us gap=24 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.61] [ 524550] TRC   t=524284908us gap=32 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524557] TRC   t=524284921us gap=45 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524564] TRC   t=524284929us gap=53 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524571] TRC   t=524284942us gap=66 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524577] TRC   t=524284950us gap=74 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524584] TRC   t=524284958us gap=82 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.65] [ 524591] TRC   t=524284970us gap=94 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.69] [ 524598] TRC   t=524284989us gap=113 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.69] [ 524605] TRC   t=524290120us gap=5244 dir=CCW CLK=0 DT=1 -> diterima
+[  10.69] [ 524611] TRC   t=524292420us gap=2300 dir=CCW CLK=1 DT=1 -> diterima
+[  10.69] [ 524617] TRC   t=524348647us gap=56227 dir=CCW CLK=1 DT=0 -> diterima
+[  10.69] [ 524623] TRC   t=524348656us gap=9 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.69] [ 524630] TRC   t=524348663us gap=16 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.69] [ 524637] TRC   t=524383841us gap=35194 dir=CCW CLK=0 DT=0 -> diterima
+[  10.73] [ 524643] TRC   t=524389406us gap=5565 dir=CCW CLK=0 DT=1 -> diterima
+[  10.73] [ 524649] TRC   t=524389414us gap=8 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  10.73] [ 524656] TRC   t=524392628us gap=3222 dir=CCW CLK=1 DT=1 -> diterima
+[  10.73] [ 524662] TRC   t=524559079us gap=166451 dir=CCW CLK=1 DT=0 -> diterima
+[  10.73] [ 524668] TRC   t=524605850us gap=46771 dir=CCW CLK=0 DT=0 -> diterima
+[  10.73] [ 524674] TRC   t=524605859us gap=9 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.73] [ 524681] TRC   t=524611606us gap=5756 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  10.77] [ 524688] TRC   t=524611613us gap=5763 dir=CCW CLK=0 DT=1 -> diterima
+[  10.77] [ 524694] TRC   t=524614630us gap=3017 dir=CCW CLK=1 DT=1 -> diterima
+[  10.77] [ 524700] TRC   t=524647063us gap=32433 dir=CCW CLK=1 DT=0 -> diterima
+[  10.77] [ 524707] TRC   t=524647211us gap=148 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.77] [ 524713] TRC   t=524647490us gap=427 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.77] [ 524720] TRC   t=524647841us gap=778 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.77] [ 524727] TRC   t=524648038us gap=975 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.89] [ 524739] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.89] [ 524739] ENC   dir=CCW detent=-13
+[  10.89] [ 524742] TRC   t=524737190us gap=90127 dir=CCW CLK=0 DT=0 -> diterima
+[  10.89] [ 524749] TRC   t=524741970us gap=4780 dir=CCW CLK=0 DT=1 -> diterima
+[  10.89] [ 524755] TRC   t=524744423us gap=2453 dir=CCW CLK=1 DT=1 -> diterima
+[  10.89] [ 524834] REL   KEY1 release → Hi-Z
+[  10.89] [ 524859] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  10.89] [ 524863] TRC   t=524863432us gap=119009 dir=CCW CLK=1 DT=0 -> diterima
+[  10.93] [ 524864] TRC   t=524863641us gap=209 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.93] [ 524866] TRC   t=524863654us gap=222 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  10.93] [ 524873] TRC   t=524863662us gap=230 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  10.93] [ 524880] TRC   t=524863679us gap=247 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.93] [ 524887] TRC   t=524863706us gap=274 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  10.93] [ 524893] TRC   t=524863715us gap=283 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  10.93] [ 524900] TRC   t=524863723us gap=291 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  10.97] [ 524907] TRC   t=524863735us gap=303 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  10.97] [ 524913] TRC   t=524863751us gap=319 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.97] [ 524920] TRC   t=524863759us gap=327 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.97] [ 524927] TRC   t=524863777us gap=345 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.97] [ 524934] TRC   t=524863808us gap=376 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.97] [ 524941] TRC   t=524863816us gap=384 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  10.97] [ 524948] TRC   t=524878456us gap=15024 dir=CCW CLK=0 DT=0 -> diterima
+[  11.01] [ 524954] TRC   t=524881948us gap=3492 dir=CCW CLK=0 DT=1 -> diterima
+[  11.01] [ 524960] TRC   t=524884058us gap=2110 dir=CCW CLK=1 DT=1 -> diterima
+[  11.01] [ 524966] TRC   t=524892337us gap=8279 dir=CCW CLK=1 DT=0 -> diterima
+[  11.01] [ 524972] TRC   t=524918891us gap=26554 dir=CCW CLK=0 DT=0 -> diterima
+[  11.01] [ 524979] TRC   t=524918904us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  11.01] [ 524985] TRC   t=524921576us gap=2685 dir=CCW CLK=0 DT=1 -> diterima
+[  11.01] [ 524992] TRC   t=524923749us gap=2173 dir=CCW CLK=1 DT=1 -> diterima
+[  11.05] [ 524998] TRC   t=524989052us gap=65303 dir=CCW CLK=1 DT=0 -> diterima
+[  11.05] [ 525009] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.05] [ 525010] ENC   dir=CCW detent=-15
+[  11.05] [ 525025] ENC   dir=CCW detent=-16
+[  11.05] [ 525026] TRC   t=525025775us gap=36723 dir=CCW CLK=0 DT=0 -> diterima
+[  11.05] [ 525029] TRC   t=525029706us gap=3931 dir=CCW CLK=0 DT=1 -> diterima
+[  11.05] [ 525030] TRC   t=525029715us gap=9 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  11.05] [ 525037] TRC   t=525032257us gap=2551 dir=CCW CLK=1 DT=1 -> diterima
+[  11.14] [ 525043] TRC   t=525039212us gap=6955 dir=CCW CLK=1 DT=0 -> diterima
+[  11.14] [ 525070] ENC   dir=CCW detent=-17
+[  11.14] [ 525070] TRC   t=525070566us gap=31354 dir=CCW CLK=0 DT=0 -> diterima
+[  11.14] [ 525073] TRC   t=525073300us gap=2734 dir=CCW CLK=0 DT=1 -> diterima
+[  11.14] [ 525075] TRC   t=525075627us gap=2327 dir=CCW CLK=1 DT=1 -> diterima
+[  11.14] [ 525103] TRC   t=525103070us gap=27443 dir=CCW CLK=1 DT=0 -> diterima
+[  11.14] [ 525104] REL   KEY1 release → Hi-Z
+[  11.15] [ 525129] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.15] [ 525152] ENC   dir=CCW detent=-18
+[  11.18] [ 525152] TRC   t=525152552us gap=49482 dir=CCW CLK=0 DT=0 -> diterima
+[  11.18] [ 525156] TRC   t=525156559us gap=4007 dir=CCW CLK=0 DT=1 -> diterima
+[  11.18] [ 525159] TRC   t=525159679us gap=3120 dir=CCW CLK=1 DT=1 -> diterima
+[  11.19] [ 525174] TRC   t=525174344us gap=14665 dir=CCW CLK=1 DT=0 -> diterima
+[  11.19] [ 525174] TRC   t=525174463us gap=119 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.19] [ 525176] TRC   t=525174625us gap=281 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.23] [ 525183] TRC   t=525174660us gap=316 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.23] [ 525190] TRC   t=525174725us gap=381 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.23] [ 525196] TRC   t=525174733us gap=389 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.23] [ 525203] TRC   t=525174784us gap=440 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.23] [ 525210] TRC   t=525174813us gap=469 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.23] [ 525217] TRC   t=525174836us gap=492 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.23] [ 525223] TRC   t=525174941us gap=597 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.36] [ 525230] TRC   t=525175004us gap=660 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.36] [ 525237] TRC   t=525208519us gap=34175 dir=CCW CLK=0 DT=0 -> diterima
+[  11.36] [ 525243] TRC   t=525213180us gap=4661 dir=CCW CLK=0 DT=1 -> diterima
+[  11.36] [ 525249] TRC   t=525217026us gap=3846 dir=CCW CLK=1 DT=1 -> diterima
+[  11.36] [ 525255] TRC   t=525217035us gap=9 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  11.36] [ 525267] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.36] [ 525268] ENC   dir=CCW detent=-19
+[  11.36] [ 525362] REL   KEY1 release → Hi-Z
+[  11.40] [ 525387] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.40] [ 525392] TRC   t=525392194us gap=175168 dir=CCW CLK=1 DT=0 -> diterima
+[  11.40] [ 525393] TRC   t=525392207us gap=13 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.40] [ 525394] TRC   t=525392215us gap=21 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.40] [ 525401] TRC   t=525392223us gap=29 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.40] [ 525408] TRC   t=525392232us gap=38 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.40] [ 525415] TRC   t=525392257us gap=63 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525421] TRC   t=525392265us gap=71 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525428] TRC   t=525392290us gap=96 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525435] TRC   t=525392298us gap=104 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525442] TRC   t=525392311us gap=117 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525449] TRC   t=525392338us gap=144 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.44] [ 525456] TRC   t=525392346us gap=152 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.48] [ 525462] TRC   t=525392359us gap=165 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.48] [ 525469] TRC   t=525392383us gap=189 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.48] [ 525476] TRC   t=525392395us gap=201 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  11.48] [ 525483] TRC   t=525392444us gap=250 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.48] [ 525489] TRC   t=525392467us gap=273 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.48] [ 525496] TRC   t=525392489us gap=295 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.48] [ 525503] TRC   t=525392503us gap=309 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525509] TRC   t=525392511us gap=317 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525516] TRC   t=525392520us gap=326 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525523] TRC   t=525392536us gap=342 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525530] TRC   t=525392544us gap=350 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525537] TRC   t=525392586us gap=392 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.52] [ 525544] TRC   t=525392595us gap=401 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525550] TRC   t=525392607us gap=413 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525557] TRC   t=525392615us gap=421 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525564] TRC   t=525392634us gap=440 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525571] TRC   t=525392642us gap=448 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525578] TRC   t=525392661us gap=467 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525585] TRC   t=525392670us gap=476 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.56] [ 525592] TRC   t=525392688us gap=494 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.60] [ 525598] TRC   t=525392703us gap=509 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.60] [ 525605] TRC   t=525392735us gap=541 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.60] [ 525612] TRC   t=525392749us gap=555 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.60] [ 525619] TRC   t=525392822us gap=628 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.60] [ 525625] TRC   t=525392835us gap=641 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.61] [ 525632] TRC   t=525392853us gap=659 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.61] [ 525639] TRC   t=525392866us gap=672 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.64] [ 525646] TRC   t=525392921us gap=727 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.65] [ 525653] TRC   t=525392935us gap=741 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.65] [ 525660] TRC   t=525392948us gap=754 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  11.65] [ 525666] TRC   t=525392956us gap=762 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  11.65] [ 525673] TRC   t=525393059us gap=865 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  11.65] [ 525680] TRC   t=525463642us gap=71448 dir=CCW CLK=0 DT=0 -> diterima
+[  11.85] [ 525686] TRC   t=525463655us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  11.85] [ 525693] TRC   t=525471299us gap=7657 dir=CCW CLK=0 DT=1 -> diterima
+[  11.85] [ 525699] TRC   t=525476760us gap=5461 dir=CCW CLK=1 DT=1 -> diterima
+[  11.85] [ 525710] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  11.85] [ 525711] ENC   dir=CCW detent=-20
+[  11.85] [ 525805] REL   KEY1 release → Hi-Z
+[  11.85] [ 525830] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.05] [ 525925] REL   KEY1 release → Hi-Z
+[  12.05] [ 525950] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.05] [ 526045] REL   KEY1 release → Hi-Z
+[  12.05] [ 526070] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.25] [ 526165] REL   KEY1 release → Hi-Z
+[  12.25] [ 526190] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.25] [ 526285] REL   KEY1 release → Hi-Z
+[  12.25] [ 526310] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  12.45] [ 526405] REL   KEY1 release → Hi-Z
+[  13.91] [ 528121] TRC   t=528121748us gap=2644988 dir=CW  CLK=0 DT=1 -> diterima
+[  13.91] [ 528136] TRC   t=528136382us gap=14634 dir=CW  CLK=0 DT=0 -> diterima
+[  13.91] [ 528138] TRC   t=528138067us gap=1685 dir=CW  CLK=1 DT=0 -> diterima
+[  13.91] [ 528139] TRC   t=528139774us gap=1707 dir=CW  CLK=1 DT=1 -> diterima
+[  13.91] [ 528143] TRC   t=528141829us gap=2055 dir=CW  CLK=0 DT=1 -> diterima
+[  13.91] [ 528150] TRC   t=528141842us gap=13 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.95] [ 528156] TRC   t=528149101us gap=7272 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.95] [ 528163] TRC   t=528149109us gap=7280 dir=CW  CLK=0 DT=0 -> diterima
+[  13.95] [ 528170] TRC   t=528149123us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  13.95] [ 528176] TRC   t=528150650us gap=1541 dir=CW  CLK=1 DT=0 -> diterima
+[  13.95] [ 528182] TRC   t=528150659us gap=9 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  13.95] [ 528189] TRC   t=528152157us gap=1507 dir=CW  CLK=1 DT=1 -> diterima
+[  13.95] [ 528195] TRC   t=528160008us gap=7851 dir=CW  CLK=0 DT=1 -> diterima
+[  13.99] [ 528201] TRC   t=528160022us gap=14 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.99] [ 528208] TRC   t=528160035us gap=27 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.99] [ 528215] TRC   t=528160121us gap=113 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.99] [ 528222] TRC   t=528169126us gap=9118 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  13.99] [ 528229] TRC   t=528169134us gap=9126 dir=CW  CLK=0 DT=0 -> diterima
+[  13.99] [ 528235] TRC   t=528169148us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  13.99] [ 528242] TRC   t=528170658us gap=1524 dir=CW  CLK=1 DT=0 -> diterima
+[  14.09] [ 528248] TRC   t=528172109us gap=1451 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  14.09] [ 528254] TRC   t=528175090us gap=4432 dir=CW  CLK=0 DT=1 -> diterima
+[  14.09] [ 528261] TRC   t=528186455us gap=11365 dir=CW  CLK=0 DT=0 -> diterima
+[  14.09] [ 528267] TRC   t=528188457us gap=2002 dir=CW  CLK=1 DT=0 -> diterima
+[  14.09] [ 528273] TRC   t=528190237us gap=1780 dir=CW  CLK=1 DT=1 -> diterima
+[  14.09] [ 528279] ENC   dir=CW  detent=-17
+[  14.09] [ 528288] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.09] [ 528346] TRC   t=528346626us gap=156389 dir=CW  CLK=0 DT=1 -> diterima
+[  14.13] [ 528365] TRC   t=528365948us gap=19322 dir=CW  CLK=0 DT=0 -> diterima
+[  14.13] [ 528366] TRC   t=528365984us gap=36 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  14.13] [ 528367] TRC   t=528365997us gap=49 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.13] [ 528374] TRC   t=528366005us gap=57 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  14.13] [ 528380] TRC   t=528366017us gap=69 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.13] [ 528387] TRC   t=528366030us gap=82 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.13] [ 528394] TRC   t=528366037us gap=89 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  14.23] [ 528400] TRC   t=528366050us gap=102 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.23] [ 528407] TRC   t=528369636us gap=3688 dir=CW  CLK=1 DT=0 -> diterima
+[  14.23] [ 528413] TRC   t=528372374us gap=2738 dir=CW  CLK=1 DT=1 -> diterima
+[  14.23] [ 528425] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.23] [ 528425] ENC   dir=CW  detent=-16
+[  14.23] [ 528509] TRC   t=528509092us gap=136718 dir=CW  CLK=0 DT=1 -> diterima
+[  14.23] [ 528509] TRC   t=528509117us gap=25 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528511] TRC   t=528509220us gap=128 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528518] TRC   t=528509276us gap=184 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528524] TRC   t=528509309us gap=217 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528531] TRC   t=528509375us gap=283 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528538] TRC   t=528509552us gap=460 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528545] TRC   t=528509579us gap=487 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.27] [ 528552] TRC   t=528509591us gap=499 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528559] TRC   t=528509604us gap=512 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528566] TRC   t=528509618us gap=526 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528572] TRC   t=528509642us gap=550 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528579] TRC   t=528509658us gap=566 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528586] TRC   t=528509670us gap=578 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.32] [ 528593] TRC   t=528509707us gap=615 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.36] [ 528600] TRC   t=528509728us gap=636 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.36] [ 528607] TRC   t=528509740us gap=648 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.36] [ 528614] TRC   t=528509756us gap=664 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.36] [ 528620] TRC   t=528509769us gap=677 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  14.36] [ 528627] TRC   t=528509777us gap=685 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  14.36] [ 528634] TRC   t=528509794us gap=702 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.36] [ 528640] TRC   t=528509807us gap=715 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.40] [ 528647] TRC   t=528509820us gap=728 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.40] [ 528654] TRC   t=528509856us gap=764 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.40] [ 528661] TRC   t=528509905us gap=813 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  14.40] [ 528668] TRC   t=528509922us gap=830 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  14.40] [ 528674] TRC   t=528509941us gap=849 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  14.40] [ 528681] TRC   t=528509969us gap=877 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  14.44] [ 528687] TRC   t=528509991us gap=899 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.44] [ 528694] TRC   t=528510009us gap=917 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.44] [ 528701] TRC   t=528510037us gap=945 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.44] [ 528708] TRC   t=528510046us gap=954 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.44] [ 528715] TRC   t=528510391us gap=1299 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.44] [ 528722] TRC   t=528510419us gap=1327 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  14.44] [ 528728] TRC   t=528510440us gap=1348 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  14.48] [ 528735] TRC   t=528510559us gap=1467 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.48] [ 528742] TRC   t=528510604us gap=1512 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.48] [ 528749] TRC   t=528510618us gap=1526 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.48] [ 528756] TRC   t=528550451us gap=41359 dir=CW  CLK=0 DT=0 -> diterima
+[  14.48] [ 528762] TRC   t=528554940us gap=4489 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.48] [ 528769] TRC   t=528554953us gap=4502 dir=CW  CLK=1 DT=0 -> diterima
+[  14.52] [ 528775] TRC   t=528554967us gap=14 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  14.52] [ 528782] TRC   t=528558247us gap=3294 dir=CW  CLK=1 DT=1 -> diterima
+[  14.52] [ 528788] TRC   t=528653283us gap=95036 dir=CW  CLK=0 DT=1 -> diterima
+[  14.52] [ 528794] TRC   t=528653296us gap=13 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.52] [ 528801] TRC   t=528653309us gap=26 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.52] [ 528808] TRC   t=528653322us gap=39 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.52] [ 528815] TRC   t=528653350us gap=67 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528821] TRC   t=528653363us gap=80 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528828] TRC   t=528653375us gap=92 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528835] TRC   t=528653437us gap=154 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528842] TRC   t=528653722us gap=439 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528849] TRC   t=528653785us gap=502 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528856] TRC   t=528653799us gap=516 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.56] [ 528862] TRC   t=528653812us gap=529 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.60] [ 528869] TRC   t=528653824us gap=541 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.60] [ 528876] TRC   t=528653832us gap=549 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.60] [ 528883] TRC   t=528653925us gap=642 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.60] [ 528890] TRC   t=528682464us gap=29181 dir=CW  CLK=0 DT=0 -> diterima
+[  14.60] [ 528896] TRC   t=528686728us gap=4264 dir=CW  CLK=1 DT=0 -> diterima
+[  14.60] [ 528902] TRC   t=528689122us gap=2394 dir=CW  CLK=1 DT=1 -> diterima
+[  14.69] [ 528908] TRC   t=528763216us gap=74094 dir=CW  CLK=0 DT=1 -> diterima
+[  14.69] [ 528915] TRC   t=528824205us gap=60989 dir=CW  CLK=0 DT=0 -> diterima
+[  14.69] [ 528921] TRC   t=528824219us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.69] [ 528928] TRC   t=528824233us gap=28 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.69] [ 528934] TRC   t=528829746us gap=5541 dir=CW  CLK=1 DT=0 -> diterima
+[  14.69] [ 528941] TRC   t=528832610us gap=2864 dir=CW  CLK=1 DT=1 -> diterima
+[  14.69] [ 528952] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.69] [ 528952] ENC   dir=CW  detent=-13
+[  14.75] [ 529017] TRC   t=529017673us gap=185063 dir=CW  CLK=0 DT=1 -> diterima
+[  14.75] [ 529046] TRC   t=529046759us gap=29086 dir=CW  CLK=0 DT=0 -> diterima
+[  14.75] [ 529047] REL   KEY1 release → Hi-Z
+[  14.75] [ 529050] ENC   dir=CW  detent=-12
+[  14.75] [ 529050] TRC   t=529050752us gap=3993 dir=CW  CLK=1 DT=0 -> diterima
+[  14.75] [ 529054] TRC   t=529050765us gap=13 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  14.75] [ 529061] TRC   t=529052985us gap=2233 dir=CW  CLK=1 DT=1 -> diterima
+[  14.75] [ 529072] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.80] [ 529083] TRC   t=529082973us gap=29988 dir=CW  CLK=0 DT=1 -> diterima
+[  14.80] [ 529101] TRC   t=529101936us gap=18963 dir=CW  CLK=0 DT=0 -> diterima
+[  14.80] [ 529102] TRC   t=529101949us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.80] [ 529103] TRC   t=529101957us gap=21 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.80] [ 529110] TRC   t=529105036us gap=3100 dir=CW  CLK=1 DT=0 -> diterima
+[  14.80] [ 529116] TRC   t=529106937us gap=1901 dir=CW  CLK=1 DT=1 -> diterima
+[  14.80] [ 529123] TRC   t=529106950us gap=13 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  14.80] [ 529129] ENC   dir=CW  detent=-11
+[  14.89] [ 529167] REL   KEY1 release → Hi-Z
+[  14.89] [ 529192] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  14.89] [ 529192] TRC   t=529188414us gap=81477 dir=CW  CLK=0 DT=1 -> diterima
+[  14.89] [ 529193] TRC   t=529188447us gap=33 dir=CCW CLK=1 DT=1 -> tolak debounce
+[  14.89] [ 529199] TRC   t=529188463us gap=49 dir=CW  CLK=0 DT=1 -> tolak debounce
+[  14.89] [ 529206] TRC   t=529188495us gap=81 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  14.89] [ 529230] TRC   t=529230836us gap=42422 dir=CW  CLK=0 DT=0 -> diterima
+[  14.93] [ 529231] TRC   t=529230850us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.93] [ 529232] TRC   t=529230862us gap=26 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.93] [ 529239] TRC   t=529230874us gap=38 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.93] [ 529246] TRC   t=529230883us gap=47 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.93] [ 529253] TRC   t=529235269us gap=4433 dir=CW  CLK=1 DT=0 -> diterima
+[  14.93] [ 529259] TRC   t=529237553us gap=2284 dir=CW  CLK=1 DT=1 -> diterima
+[  14.93] [ 529265] ENC   dir=CW  detent=-10
+[  14.98] [ 529281] TRC   t=529281246us gap=43693 dir=CW  CLK=0 DT=1 -> diterima
+[  14.98] [ 529287] REL   KEY1 release → Hi-Z
+[  14.98] [ 529299] TRC   t=529299673us gap=18427 dir=CW  CLK=0 DT=0 -> diterima
+[  14.98] [ 529300] TRC   t=529299686us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.98] [ 529301] TRC   t=529299694us gap=21 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.98] [ 529308] TRC   t=529299710us gap=37 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  14.98] [ 529315] TRC   t=529299722us gap=49 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.02] [ 529322] TRC   t=529299735us gap=62 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.02] [ 529328] TRC   t=529299742us gap=69 dir=CCW CLK=0 DT=1 -> tolak debounce
+[  15.02] [ 529335] TRC   t=529299755us gap=82 dir=CW  CLK=0 DT=0 -> tolak debounce
+[  15.02] [ 529341] TRC   t=529299763us gap=90 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.02] [ 529348] TRC   t=529299775us gap=102 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.02] [ 529355] TRC   t=529299788us gap=115 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.02] [ 529362] TRC   t=529299795us gap=122 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.06] [ 529369] TRC   t=529299819us gap=146 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.06] [ 529376] TRC   t=529299832us gap=159 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.06] [ 529382] TRC   t=529302906us gap=3233 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.06] [ 529389] TRC   t=529302919us gap=3246 dir=CW  CLK=1 DT=0 -> diterima
+[  15.06] [ 529396] TRC   t=529302933us gap=14 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  15.06] [ 529402] TRC   t=529305376us gap=2457 dir=CW  CLK=1 DT=1 -> diterima
+[  15.06] [ 529408] TRC   t=529352279us gap=46903 dir=CW  CLK=0 DT=1 -> diterima
+[  15.10] [ 529415] TRC   t=529352314us gap=35 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.10] [ 529421] TRC   t=529381791us gap=29512 dir=CW  CLK=0 DT=0 -> diterima
+[  15.10] [ 529428] TRC   t=529381800us gap=9 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  15.10] [ 529434] TRC   t=529386116us gap=4325 dir=CW  CLK=1 DT=0 -> diterima
+[  15.10] [ 529441] TRC   t=529386130us gap=14 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  15.10] [ 529447] TRC   t=529389243us gap=3127 dir=CW  CLK=1 DT=1 -> diterima
+[  15.10] [ 529459] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.14] [ 529459] ENC   dir=CW  detent=-8
+[  15.14] [ 529462] TRC   t=529454994us gap=65751 dir=CW  CLK=0 DT=1 -> diterima
+[  15.14] [ 529468] TRC   t=529455010us gap=16 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.14] [ 529475] TRC   t=529455094us gap=100 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.14] [ 529482] TRC   t=529455115us gap=121 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.14] [ 529489] TRC   t=529455128us gap=134 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.14] [ 529496] TRC   t=529455143us gap=149 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529503] TRC   t=529455167us gap=173 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529509] TRC   t=529455194us gap=200 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529516] TRC   t=529455244us gap=250 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529523] TRC   t=529455257us gap=263 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529530] TRC   t=529455267us gap=273 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.18] [ 529537] TRC   t=529455332us gap=338 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529544] TRC   t=529455362us gap=368 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529551] TRC   t=529455403us gap=409 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529557] TRC   t=529455453us gap=459 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529564] TRC   t=529455476us gap=482 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529571] TRC   t=529455557us gap=563 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529578] TRC   t=529455656us gap=662 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.22] [ 529585] TRC   t=529455714us gap=720 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529592] TRC   t=529455754us gap=760 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529599] TRC   t=529455762us gap=768 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529605] TRC   t=529455814us gap=820 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529612] TRC   t=529455856us gap=862 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529619] TRC   t=529455877us gap=883 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.26] [ 529626] TRC   t=529455889us gap=895 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.38] [ 529633] TRC   t=529455902us gap=908 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.38] [ 529640] TRC   t=529456059us gap=1065 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.38] [ 529647] TRC   t=529456113us gap=1119 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  15.38] [ 529654] TRC   t=529551805us gap=96811 dir=CW  CLK=0 DT=0 -> diterima
+[  15.38] [ 529660] TRC   t=529564679us gap=12874 dir=CW  CLK=1 DT=0 -> diterima
+[  15.38] [ 529666] TRC   t=529571181us gap=6502 dir=CW  CLK=1 DT=1 -> diterima
+[  15.38] [ 529677] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.38] [ 529678] ENC   dir=CW  detent=-7
+[  15.58] [ 529772] REL   KEY1 release → Hi-Z
+[  15.58] [ 529797] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.58] [ 529892] REL   KEY1 release → Hi-Z
+[  15.58] [ 529917] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.78] [ 530012] REL   KEY1 release → Hi-Z
+[  15.78] [ 530037] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.78] [ 530132] REL   KEY1 release → Hi-Z
+[  15.78] [ 530157] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.98] [ 530252] REL   KEY1 release → Hi-Z
+[  15.98] [ 530277] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  15.98] [ 530372] REL   KEY1 release → Hi-Z
+[  15.98] [ 530397] ACT   slot=VOL+ line=KEY1 duty=550 meas=-- emit 100ms
+[  16.18] [ 530492] REL   KEY1 release → Hi-Z
+[  17.17] [ 531678] TRC   t=531678895us gap=2107714 dir=CCW CLK=1 DT=0 -> diterima
+[  17.17] [ 531693] TRC   t=531693462us gap=14567 dir=CCW CLK=0 DT=0 -> diterima
+[  17.17] [ 531694] TRC   t=531693475us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.17] [ 531695] TRC   t=531695960us gap=2498 dir=CCW CLK=0 DT=1 -> diterima
+[  17.17] [ 531701] TRC   t=531697981us gap=2021 dir=CCW CLK=1 DT=1 -> diterima
+[  17.17] [ 531710] ENC   dir=CCW detent=-8
+[  17.17] [ 531710] TRC   t=531710491us gap=12510 dir=CCW CLK=1 DT=0 -> diterima
+[  17.21] [ 531717] TRC   t=531710505us gap=14 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.21] [ 531723] TRC   t=531719562us gap=9071 dir=CCW CLK=0 DT=0 -> diterima
+[  17.21] [ 531730] TRC   t=531721934us gap=2372 dir=CCW CLK=0 DT=1 -> diterima
+[  17.21] [ 531736] TRC   t=531723619us gap=1685 dir=CCW CLK=1 DT=1 -> diterima
+[  17.21] [ 531742] TRC   t=531730222us gap=6603 dir=CCW CLK=1 DT=0 -> diterima
+[  17.21] [ 531748] TRC   t=531741324us gap=11102 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.21] [ 531755] TRC   t=531741337us gap=11115 dir=CCW CLK=0 DT=0 -> diterima
+[  17.25] [ 531761] TRC   t=531741350us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.25] [ 531768] TRC   t=531744262us gap=2925 dir=CCW CLK=0 DT=1 -> diterima
+[  17.25] [ 531774] TRC   t=531744275us gap=13 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  17.25] [ 531781] TRC   t=531746357us gap=2095 dir=CCW CLK=1 DT=1 -> diterima
+[  17.25] [ 531787] TRC   t=531766117us gap=19760 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  17.25] [ 531794] TRC   t=531766129us gap=19772 dir=CCW CLK=1 DT=0 -> diterima
+[  17.25] [ 531800] TRC   t=531766138us gap=9 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531807] TRC   t=531766151us gap=22 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531814] TRC   t=531766163us gap=34 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531821] TRC   t=531766176us gap=47 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531827] TRC   t=531766183us gap=54 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531834] TRC   t=531766199us gap=70 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.29] [ 531841] TRC   t=531766218us gap=89 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531848] TRC   t=531766237us gap=108 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531855] TRC   t=531766250us gap=121 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531861] TRC   t=531766263us gap=134 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531868] TRC   t=531766275us gap=146 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531875] TRC   t=531766283us gap=154 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.33] [ 531882] TRC   t=531780718us gap=14589 dir=CCW CLK=0 DT=0 -> diterima
+[  17.33] [ 531888] TRC   t=531780732us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.38] [ 531895] TRC   t=531785425us gap=4707 dir=CCW CLK=0 DT=1 -> diterima
+[  17.38] [ 531901] TRC   t=531787783us gap=2358 dir=CCW CLK=1 DT=1 -> diterima
+[  17.38] [ 531907] TRC   t=531787796us gap=13 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  17.38] [ 531914] TRC   t=531787809us gap=26 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  17.38] [ 531921] TRC   t=531814358us gap=26575 dir=CCW CLK=1 DT=0 -> diterima
+[  17.38] [ 531927] TRC   t=531814411us gap=53 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.38] [ 531934] TRC   t=531814436us gap=78 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.42] [ 531941] TRC   t=531814458us gap=100 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  17.42] [ 531947] TRC   t=531814473us gap=115 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  17.42] [ 531954] TRC   t=531814624us gap=266 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.42] [ 531961] TRC   t=531831012us gap=16654 dir=CCW CLK=0 DT=0 -> diterima
+[  17.42] [ 531967] TRC   t=531835108us gap=4096 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.42] [ 531974] TRC   t=531835115us gap=4103 dir=CCW CLK=0 DT=1 -> diterima
+[  17.42] [ 531980] TRC   t=531837847us gap=2732 dir=CCW CLK=1 DT=1 -> diterima
+[  17.46] [ 531986] TRC   t=531864977us gap=27130 dir=CCW CLK=1 DT=0 -> diterima
+[  17.46] [ 531992] TRC   t=531864990us gap=13 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  17.46] [ 531999] TRC   t=531864998us gap=21 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  17.46] [ 532005] TRC   t=531865011us gap=34 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.46] [ 532012] TRC   t=531865023us gap=46 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.46] [ 532019] TRC   t=531865046us gap=69 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532026] TRC   t=531865058us gap=81 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532032] TRC   t=531865067us gap=90 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532039] TRC   t=531865097us gap=120 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532046] TRC   t=531865109us gap=132 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532053] TRC   t=531865117us gap=140 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532060] TRC   t=531865138us gap=161 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.50] [ 532067] TRC   t=531865146us gap=169 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.54] [ 532073] TRC   t=531865158us gap=181 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.54] [ 532080] TRC   t=531889218us gap=24241 dir=CCW CLK=0 DT=0 -> diterima
+[  17.54] [ 532087] TRC   t=531895599us gap=6381 dir=CCW CLK=0 DT=1 -> diterima
+[  17.54] [ 532093] TRC   t=531899305us gap=3706 dir=CCW CLK=1 DT=1 -> diterima
+[  17.54] [ 532099] TRC   t=531899318us gap=13 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  17.54] [ 532106] TRC   t=531899331us gap=26 dir=-- CLK=1 DT=1 -> transisi tidak sah
+[  17.54] [ 532112] TRC   t=531926447us gap=27142 dir=CCW CLK=1 DT=0 -> diterima
+[  17.58] [ 532119] TRC   t=531928782us gap=2335 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.58] [ 532126] TRC   t=531928794us gap=2347 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.58] [ 532133] TRC   t=531928902us gap=2455 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.58] [ 532140] TRC   t=531964929us gap=38482 dir=CCW CLK=0 DT=0 -> diterima
+[  17.58] [ 532146] TRC   t=531971230us gap=6301 dir=CCW CLK=0 DT=1 -> diterima
+[  17.58] [ 532152] TRC   t=531974558us gap=3328 dir=CCW CLK=1 DT=1 -> diterima
+[  17.62] [ 532158] TRC   t=532018117us gap=43559 dir=CCW CLK=1 DT=0 -> diterima
+[  17.62] [ 532164] TRC   t=532018299us gap=182 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.62] [ 532171] TRC   t=532018313us gap=196 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.62] [ 532178] TRC   t=532018323us gap=206 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.62] [ 532185] TRC   t=532018351us gap=234 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.62] [ 532192] TRC   t=532018372us gap=255 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.62] [ 532199] TRC   t=532018384us gap=267 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.66] [ 532205] TRC   t=532018412us gap=295 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  17.66] [ 532212] TRC   t=532018420us gap=303 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  17.66] [ 532219] TRC   t=532018432us gap=315 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.66] [ 532225] TRC   t=532033653us gap=15536 dir=CCW CLK=0 DT=0 -> diterima
+[  17.66] [ 532232] TRC   t=532033667us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.66] [ 532238] TRC   t=532037833us gap=4180 dir=CCW CLK=0 DT=1 -> diterima
+[  17.66] [ 532245] TRC   t=532040497us gap=2664 dir=CCW CLK=1 DT=1 -> diterima
+[  17.70] [ 532251] TRC   t=532044345us gap=3848 dir=CCW CLK=1 DT=0 -> diterima
+[  17.70] [ 532257] TRC   t=532044412us gap=67 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.70] [ 532264] TRC   t=532074521us gap=30176 dir=CCW CLK=0 DT=0 -> diterima
+[  17.70] [ 532270] TRC   t=532077424us gap=2903 dir=CCW CLK=0 DT=1 -> diterima
+[  17.70] [ 532276] TRC   t=532079924us gap=2500 dir=CCW CLK=1 DT=1 -> diterima
+[  17.70] [ 532282] TRC   t=532110824us gap=30900 dir=CCW CLK=1 DT=0 -> diterima
+[  17.70] [ 532289] TRC   t=532135756us gap=24932 dir=CCW CLK=0 DT=0 -> diterima
+[  17.74] [ 532295] TRC   t=532139010us gap=3254 dir=CCW CLK=0 DT=1 -> diterima
+[  17.74] [ 532301] TRC   t=532141431us gap=2421 dir=CCW CLK=1 DT=1 -> diterima
+[  17.74] [ 532307] TRC   t=532144724us gap=3293 dir=CCW CLK=1 DT=0 -> diterima
+[  17.74] [ 532313] TRC   t=532169536us gap=24812 dir=CCW CLK=0 DT=0 -> diterima
+[  17.74] [ 532320] TRC   t=532171787us gap=2251 dir=CCW CLK=0 DT=1 -> diterima
+[  17.74] [ 532326] TRC   t=532173839us gap=2052 dir=CCW CLK=1 DT=1 -> diterima
+[  17.74] [ 532332] TRC   t=532183054us gap=9215 dir=CCW CLK=1 DT=0 -> diterima
+[  17.78] [ 532338] TRC   t=532183094us gap=40 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.78] [ 532345] TRC   t=532183163us gap=109 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.78] [ 532352] TRC   t=532198732us gap=15678 dir=CCW CLK=0 DT=0 -> diterima
+[  17.78] [ 532358] TRC   t=532201129us gap=2397 dir=CCW CLK=0 DT=1 -> diterima
+[  17.78] [ 532364] TRC   t=532203269us gap=2140 dir=CCW CLK=1 DT=1 -> diterima
+[  17.78] [ 532370] TRC   t=532211358us gap=8089 dir=CCW CLK=1 DT=0 -> diterima
+[  17.78] [ 532376] TRC   t=532244843us gap=33485 dir=CCW CLK=0 DT=0 -> diterima
+[  17.82] [ 532383] TRC   t=532248439us gap=3596 dir=CCW CLK=0 DT=1 -> diterima
+[  17.82] [ 532389] TRC   t=532251437us gap=2998 dir=CCW CLK=1 DT=1 -> diterima
+[  17.82] [ 532395] TRC   t=532296982us gap=45545 dir=CCW CLK=1 DT=0 -> diterima
+[  17.82] [ 532401] TRC   t=532297057us gap=75 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.82] [ 532408] TRC   t=532326966us gap=29984 dir=CCW CLK=0 DT=0 -> diterima
+[  17.82] [ 532414] TRC   t=532326979us gap=13 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.82] [ 532421] TRC   t=532330710us gap=3744 dir=CCW CLK=0 DT=1 -> diterima
+[  17.86] [ 532427] TRC   t=532334071us gap=3361 dir=CCW CLK=1 DT=1 -> diterima
+[  17.86] [ 532433] TRC   t=532353875us gap=19804 dir=CCW CLK=1 DT=0 -> diterima
+[  17.86] [ 532439] TRC   t=532354675us gap=800 dir=CW  CLK=1 DT=1 -> tolak debounce
+[  17.86] [ 532446] TRC   t=532354911us gap=1036 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  17.86] [ 532453] TRC   t=532355876us gap=2001 dir=CW  CLK=1 DT=1 -> diterima
+[  17.86] [ 532459] TRC   t=532356011us gap=135 dir=CCW CLK=1 DT=0 -> tolak debounce
+[  17.86] [ 532466] TRC   t=532358351us gap=2475 dir=CW  CLK=1 DT=1 -> diterima
+[  17.90] [ 532472] TRC   t=532368493us gap=10142 dir=CCW CLK=1 DT=0 -> diterima
+[  17.90] [ 532478] TRC   t=532368544us gap=51 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.90] [ 532485] TRC   t=532368725us gap=232 dir=-- CLK=1 DT=0 -> transisi tidak sah
+[  17.90] [ 532492] TRC   t=532451737us gap=83244 dir=CCW CLK=0 DT=0 -> diterima
+[  17.90] [ 532498] TRC   t=532451751us gap=14 dir=-- CLK=0 DT=0 -> transisi tidak sah
+[  17.90] [ 532505] TRC   t=532457160us gap=5423 dir=CCW CLK=0 DT=1 -> diterima
+[  17.91] [ 532511] TRC   t=532457169us gap=9 dir=-- CLK=0 DT=1 -> transisi tidak sah
+[  18.11] [ 532517] TRC   t=532461722us gap=4562 dir=CCW CLK=1 DT=1 -> diterima
+[  18.11] [ 532529] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.11] [ 532529] ENC   dir=CCW detent=-21
+[  18.11] [ 532624] REL   KEY1 release → Hi-Z
+[  18.11] [ 532649] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.11] [ 532744] REL   KEY1 release → Hi-Z
+[  18.31] [ 532769] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.31] [ 532864] REL   KEY1 release → Hi-Z
+[  18.31] [ 532889] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.51] [ 532984] REL   KEY1 release → Hi-Z
+[  18.51] [ 533009] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.51] [ 533104] REL   KEY1 release → Hi-Z
+[  18.51] [ 533129] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.71] [ 533224] REL   KEY1 release → Hi-Z
+[  18.71] [ 533249] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.71] [ 533344] REL   KEY1 release → Hi-Z
+[  18.71] [ 533369] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.91] [ 533464] REL   KEY1 release → Hi-Z
+[  18.91] [ 533489] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  18.91] [ 533584] REL   KEY1 release → Hi-Z
+[  18.91] [ 533609] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  19.11] [ 533704] REL   KEY1 release → Hi-Z
+[  19.11] [ 533729] ACT   slot=VOL- line=KEY1 duty=300 meas=-- emit 100ms
+[  19.11] [ 533824] REL   KEY1 release → Hi-Z
+[  23.11] [ 538111] SWC   raw=1 CLK=1 DT=1
+[  23.11] [ 538141] BTN   press
+[  23.31] [ 538258] SWC   raw=0 CLK=1 DT=1
+[  23.31] [ 538288] BTN   release clicks=1
+[  23.51] [ 538516] SWC   raw=1 CLK=1 DT=1
+[  23.51] [ 538546] BTN   press
+[  23.71] [ 538685] SWC   raw=0 CLK=1 DT=1
+[  23.71] [ 538715] BTN   release clicks=2
+[  24.11] [ 539115] BTN   resolve clicks=2 (2 press) -> NEXT
+[  24.11] [ 539120] ACT   slot=NEXT line=KEY2 duty=300 meas=-- emit 100ms
+[  24.11] [ 539215] REL   KEY2 release → Hi-Z
+[ 300.00] === capture selesai ===
