@@ -43,6 +43,7 @@ Pinout: D5=CLK, D6=DT, D7=SW, D1=KEY1, D2=KEY2, A0=loopback debug.
 | [HARDWARE.md](HARDWARE.md) | Pemilihan komponen, wiring detail, prosedur SWC learning & kalibrasi |
 | [DEBUG.md](DEBUG.md) | Simulator bench 3 tahap, serial console, checklist verifikasi |
 | [PLAN.md](PLAN.md) | Rencana arsitektur firmware & urutan pengerjaan |
+| [HID-SCREENSAVER-RESEARCH.md](HID-SCREENSAVER-RESEARCH.md) | Riset makro USB HID untuk membuka app screensaver |
 | [wiring.svg](wiring.svg) | Diagram wiring detail (buka di browser) |
 
 ## Pengujian (3 tahap, sebelum nyambung ke head unit)
