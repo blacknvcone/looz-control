@@ -17,8 +17,8 @@ sleep.
 - Pengguna mengetahui USB HID dapat mengirim kontrol volume naik/turun dan
   next/previous track ke head unit.
 
-Fakta di atas adalah observasi pada unit ini. Belum dilakukan uji RP2040 atau app
-mapper.
+Fakta di atas adalah observasi pada unit ini. Firmware RP2040 scaffold dan app
+mapper belum diuji bersama pada head unit.
 
 ## Rancangan makro
 
@@ -72,11 +72,17 @@ mekanisme event yang dipakai tetap harus diuji.
 
 ## Perangkat keras proyek
 
-Firmware yang ada saat ini menggunakan NodeMCU v3 / ESP8266. Board tersebut tidak
-menyediakan USB device HID native melalui port micro-USB yang menggunakan
-USB-to-serial bridge. Untuk HID langsung kemungkinan dibutuhkan board dengan USB
-device controller yang mendukung HID, misalnya RP2040. Belum ada perubahan
-firmware atau hardware dalam tahap riset ini.
+Firmware ESP8266 lama dipertahankan sebagai legacy di
+[`firmware/esp8266-swc/`](firmware/esp8266-swc/README.md). Target aktif sekarang
+Waveshare RP2040 Zero, yang menyediakan USB device dan digunakan oleh scaffold
+Arduino-Pico di [`firmware/rp2040-zero/`](firmware/rp2040-zero/README.md).
+Wiring encoder baru: [`docs/wiring-rp2040-zero-ky040.md`](docs/wiring-rp2040-zero-ky040.md).
+
+USB VID/PID hanya mengidentifikasi perangkat saat enumerasi; aksi dikirim sebagai
+HID reports. Sketch tidak memaksa VID/PID tertentu. Core/board configuration
+memasok default, dan penggunaan VID/PID untuk distribusi produk harus memakai
+identitas yang terdaftar/diizinkan. Firmware maupun komunikasi ke Android masih
+perlu diverifikasi pada hardware dan head unit sebenarnya.
 
 ## Riset/uji yang masih diperlukan
 
@@ -87,7 +93,8 @@ firmware atau hardware dalam tahap riset ini.
 4. Uji apakah mapper dapat membuka screensaver activity pada Android 15/API 35
    saat berjalan di background; periksa logcat bila peluncuran diblokir.
 5. Pastikan USB host tetap aktif/berdaya dalam kondisi layar screensaver.
-6. Baru setelah itu putuskan skema pattern knob dan hardware USB HID.
+6. Skema input knob dan wiring RP2040 Zero + KY-040 sudah didokumentasikan;
+   validasi event mapper dan peluncuran screensaver tetap harus dilakukan.
 
 ## Sumber platform
 
@@ -99,5 +106,7 @@ firmware atau hardware dalam tahap riset ini.
 
 ## Status
 
-Riset/dokumentasi saja. Belum ada perubahan kode, firmware, konfigurasi head unit,
-atau pengujian perangkat untuk alur macro ini.
+Firmware RP2040 Zero dan wiring encoder kini memiliki scaffold/dokumentasi, tetapi
+belum di-compile atau diuji pada board/head unit di environment ini. Pengamatan
+event oleh mapper, peluncuran screensaver, dan USB power saat screensaver tetap
+merupakan item riset yang belum terverifikasi.
