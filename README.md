@@ -21,7 +21,7 @@ Legacy project documentation and firmware are under [`firmware/esp8266-swc/`](fi
 
 ## Build/test status
 
-RP2040 firmware compile-verified with Arduino CLI 1.5.1 + Arduino-Pico core 6.2.0 (`rp2040:rp2040:waveshare_rp2040_zero`). Physical flash and HID behavior still need board detection and hardware testing. See the [firmware instructions](firmware/rp2040-zero/README.md).
+RP2040 firmware was successfully tested on an Android head unit: all knob input patterns are fully functional, including the configured volume, media, and long-press actions. The firmware was built with Arduino CLI 1.5.1 + Arduino-Pico core 6.2.0 (`rp2040:rp2040:waveshare_rp2040_zero`). See the [firmware instructions](firmware/rp2040-zero/README.md).
 
 ## References
 
