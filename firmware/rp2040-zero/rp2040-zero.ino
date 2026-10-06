@@ -1,9 +1,12 @@
-// looz-control — RP2040 Zero USB HID controller scaffold
+// looz-control — RP2040 Zero USB HID controller
 // Arduino-Pico core; select the built-in Pico SDK USB stack (not Adafruit TinyUSB).
 #include <Arduino.h>
 #include <Keyboard.h>
+#include <Adafruit_NeoPixel.h>
 #include "config.h"
 
+static Adafruit_NeoPixel statusLed(1, PIN_STATUS_LED, NEO_GRB + NEO_KHZ800);
+static uint32_t ledOffAt = 0;
 static uint8_t previousAB = 0;
 static int8_t quarterSteps = 0;
 static uint32_t lastButtonChange = 0;
@@ -21,6 +24,20 @@ static void sendConsumerUsage(uint16_t usage) {
   delay(8);
   Keyboard.consumerRelease();
 }
+
+static void pulseStatusLed() {
+  statusLed.setPixelColor(0, statusLed.Color(0, 24, 0));
+  statusLed.show();
+  ledOffAt = millis() + STATUS_LED_PULSE_MS;
+}
+
+static void tickStatusLed() {
+  if (ledOffAt && (int32_t)(millis() - ledOffAt) >= 0) {
+    statusLed.clear();
+    statusLed.show();
+    ledOffAt = 0;
+  }
+}
 // Full quadrature transition table: invalid two-bit transitions contribute 0.
 // This avoids interpreting noise as a detent and correctly accumulates reversals.
 static const int8_t QUADRATURE[16] = {
@@ -33,9 +50,9 @@ static const int8_t QUADRATURE[16] = {
 static void onClickCount(uint8_t count) {
   // Arduino-Pico Keyboard.h provides the documented media-key usages.
   switch (count) {
-    case 1: sendConsumerUsage(KEY_PLAY_PAUSE); break;
-    case 2: sendConsumerUsage(KEY_SCAN_NEXT); break;
-    case 3: sendConsumerUsage(KEY_SCAN_PREVIOUS); break;
+    case 1: sendConsumerUsage(KEY_PLAY_PAUSE); pulseStatusLed(); break;
+    case 2: sendConsumerUsage(KEY_SCAN_NEXT); pulseStatusLed(); break;
+    case 3: sendConsumerUsage(KEY_SCAN_PREVIOUS); pulseStatusLed(); break;
     default: break;
   }
 }
@@ -63,6 +80,7 @@ static void pollEncoder() {
       sendConsumerUsage(KEY_VOLUME_DECREMENT);
       volumeQueue++;
     }
+    pulseStatusLed();
     lastVolumeAt = now;
   }
 }
@@ -88,7 +106,9 @@ static void pollButton() {
   }
   if (stablePressed && !longSent && now - pressedAt >= LONG_PRESS_MS) {
     longSent = true;
-    // Long-press action intentionally remains a host-mapper decision.
+    // Reserved HID trigger for the Android host-side pattern mapper.
+    sendConsumerUsage(LONG_PRESS_HID_USAGE);
+    pulseStatusLed();
   }
   if (!stablePressed && pendingClicks && (int32_t)(now - clickDeadline) >= 0) {
     onClickCount(pendingClicks);
@@ -105,10 +125,15 @@ void setup() {
   lastButtonChange = millis();
   previousAB = ((digitalRead(PIN_ENC_CLK) == HIGH) << 1) |
                (digitalRead(PIN_ENC_DT) == HIGH);
+  statusLed.begin();
+  statusLed.setBrightness(32);
+  statusLed.clear();
+  statusLed.show();
   Keyboard.begin();
 }
 
 void loop() {
   pollEncoder();
   pollButton();
+  tickStatusLed();
 }

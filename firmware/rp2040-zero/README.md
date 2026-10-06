@@ -18,7 +18,9 @@ To flash, put the board into BOOTSEL mode (hold BOOT while connecting USB-C, the
 
 The device enumerates as a USB HID keyboard/media-key device through the selected core's defaults. With this board/core build, the compile command reports the board defaults VID `0x2e8a`, PID `0x0003`, manufacturer `Waveshare`, product `RP2040 Zero`; the sketch does **not** assign them. Do not claim a project-owned identity or set an arbitrary VID/PID. Before distributing hardware, use a properly assigned VID/PID and check the core's USB identity configuration.
 
-HID sends input reports, not Android intents, app package names, or launch requests. Opening a screensaver remains the responsibility of an Android mapper/launcher. This scaffold currently maps single/double/triple encoder presses to play/pause, next, and previous media keys and rotation to volume up/down. The existing long-press gesture is reserved for a host-side mapping and currently sends no HID report. Availability and host interpretation of media-key usages must be validated against the installed core and target Android unit.
+The onboard WS2812 RGB LED on **GP16** gives a short green blink (80 ms) whenever a HID input action is emitted. Its brightness is limited in firmware for a small status indication.
+
+HID sends input reports, not Android intents, app package names, or launch requests. Opening a screensaver remains the responsibility of an Android mapper/launcher. The firmware maps single/double/triple encoder presses to play/pause, next, and previous media keys; rotation maps to volume up/down. A long-press (500 ms) sends Consumer Control usage `0x0223` (AC Home) as a pattern trigger, then sends release. The intended host-side setup is to remap that event with the keyboard remapping app installed on the head unit. Validate that the app can intercept this Consumer Control usage and map it to the desired action.
 
 ## Pin mapping
 

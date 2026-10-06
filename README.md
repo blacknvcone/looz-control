@@ -13,7 +13,7 @@ The previous NodeMCU/ESP8266 steering-wheel-control (SWC) voltage-ladder project
 - USB reports are HID input events only. HID does not launch Android apps or send intents; screensaver launch requires a host-side mapper.
 - VID/PID are not assigned in project source. The selected board/core configuration supplies defaults; do not present them as a project-owned USB identity.
 
-The scaffold uses the Arduino-Pico core's built-in Pico SDK USB stack and `Keyboard.h`. It currently handles volume up/down via encoder rotation and play/pause, next, previous via single/double/triple press. Long press remains reserved for a host mapping. Host interpretation still requires testing on the target Android unit.
+The firmware uses the Arduino-Pico core's built-in Pico SDK USB stack and `Keyboard.h`. It handles volume up/down via encoder rotation, play/pause/next/previous via single/double/triple press, and sends Consumer Control AC Home (`0x0223`) on a 500 ms long-press for remapping by the head-unit keyboard remapper. The onboard RGB LED (GP16) blinks green on each emitted HID action.
 
 ## Legacy ESP8266 SWC material
 

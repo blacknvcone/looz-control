@@ -10,3 +10,10 @@
 #define LONG_PRESS_MS      500
 #define VOLUME_REPEAT_MS   120
 #define MAX_VOLUME_QUEUE    10
+#define PIN_STATUS_LED      16  // onboard WS2812 RGB LED data pin
+#define STATUS_LED_PULSE_MS 80
+
+// Long-press is sent as a Consumer Control usage only after 500 ms.
+// 0x0223 = AC Home. This is a standard HID usage; configure the Android
+// host mapper to recognize it and open the desired screensaver action.
+#define LONG_PRESS_HID_USAGE 0x0223
